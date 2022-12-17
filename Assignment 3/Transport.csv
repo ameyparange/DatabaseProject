@@ -1,0 +1,2944 @@
+,id,Trans_id,stations,color,walktime,description
+0,0,0,",Blue,Line",#2040AA,2,Maverick
+1,0,1,",114,116,117,120,121",#F5C00E,2,Maverick
+2,1,0,",Blue,Line",#2040AA,2,Maverick
+3,1,1,",114,116,117,120,121",#F5C00E,2,Maverick
+4,2,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+5,2,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+6,3,0,",64",#F5C00E,6,Brooks St @ Faneuil St
+7,3,1,",57,501",#F5C00E,8,Washington St @ Foster St
+8,3,2,",86",#F5C00E,9,Market St @ Sparhawk St
+9,4,0,",64",#F5C00E,6,Brooks St @ Faneuil St
+10,4,1,",57,501",#F5C00E,8,Washington St @ Foster St
+11,4,2,",86",#F5C00E,9,Market St @ Sparhawk St
+12,5,0,",64",#F5C00E,6,Brooks St @ Faneuil St
+13,5,1,",57,501",#F5C00E,8,Washington St @ Foster St
+14,5,2,",86",#F5C00E,9,Market St @ Sparhawk St
+15,6,0,",B",#00843D,7,Allston Street
+16,6,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+17,6,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+18,7,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+19,7,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+20,7,2,",101",#F5C00E,10,Main St @ Broadway
+21,8,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+22,8,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+23,9,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+24,9,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+25,9,2,",101",#F5C00E,10,Main St @ Broadway
+26,10,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+27,10,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+28,10,2,",101",#F5C00E,10,Main St @ Broadway
+29,11,0,",Red,LIne",#EC211F,8,JFK / UMass
+30,11,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+31,11,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+32,11,3,",8,16,41",#EB841E,8,JFK / UMass
+33,11,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+34,12,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+35,12,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+36,12,2,",101",#F5C00E,10,Main St @ Broadway
+37,13,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+38,13,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+39,13,2,",101",#F5C00E,10,Main St @ Broadway
+40,14,0,",Fairmount/Franklin",#8E44AD,8,Uphams Corner
+41,14,1,",Red,Line",#DA1721,15,JFK / UMass
+42,14,2,",Greenbush/Kingston",#8E44AD,15,JFK / UMass
+43,14,3,",Middleborough/Lakeville",#8E44AD,15,JFK / UMass
+44,15,0,",57,501",#F5C00E,5,Tremont St opp Cufflin St
+45,15,1,",64",#F5C00E,7,Faneuil St @ Bigelow St
+46,16,0,",B",#00843D,7,Allston Street
+47,16,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+48,16,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+49,17,0,",23",#F5C00E,1,Washington St @ Columbia Rd
+50,17,1,",16,19",#F5C00E,1,Columbia Rd @ Washington St
+51,17,2,",Franklin/Fairmount,Line",#80276c,3,Four Corners/Geneva
+52,18,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+53,18,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+54,19,0,",Franklin,Fairmount",#8E44AD,12,Morton Street
+55,19,1,",28,29",#F5C00E,2,Blue Hill Ave @ Woodrow Ave
+56,20,0,",Red,LIne",#EC211F,8,JFK / UMass
+57,20,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+58,20,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+59,20,3,",8,16,41",#EB841E,8,JFK / UMass
+60,20,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+61,21,0,",Red,Line",#DA1721,6,JFK / UMass
+62,21,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+63,21,2,",Fairmount/Franklin",#8E44AD,15,Uphams Corner
+64,21,3,",8,16,41",#F5C00E,6,JFK / UMass
+65,22,0,",Red,Line",#EC211F,6,JFK / UMass
+66,22,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+67,22,2,",8,16,41",#F5C00E,6,JFK / UMass
+68,22,3,",Fairmount/Franklin",#80276c,15,Uphams Corner
+69,22,4,",17,18",#F5C00E,7,Boston St @ Mayhew St
+70,23,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+71,23,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+72,23,2,",101",#F5C00E,10,Main St @ Broadway
+73,24,0,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+74,24,1,",64,66,501",#F5C00E,1,Cambridge St @ Linden St
+75,24,2,",57",#F5C00E,4,Brighton Ave @ Linden St
+76,25,0,",Red,LIne",#EC211F,8,JFK / UMass
+77,25,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+78,25,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+79,25,3,",8,16,41",#EB841E,8,JFK / UMass
+80,25,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+81,26,0,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+82,26,1,",Red,Line",#DA1721,1,JFK / UMass
+83,26,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+84,26,3,",8,16,41",#EB841E,1,JFK / UMass
+85,27,0,",Fairmount/Franklin",#8E44AD,7,Four Corners/Geneva
+86,27,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+87,28,0,",Red,Line",#EC211F,8,Porter
+88,28,1,",Fitchburg,Line",#B933AD,8,Porter
+89,28,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+90,28,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+91,29,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+92,29,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+93,29,2,",101",#F5C00E,10,Main St @ Broadway
+94,30,0,",Red,Line",#DA1721,6,JFK / UMass
+95,30,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+96,30,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+97,30,3,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+98,31,0,",B",#00843D,8,Harvard Avenue
+99,31,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+100,31,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+101,32,0,",Framingham/Worcester",#8E44AD,6,Auburndale
+102,32,1,",D",#00843D,11,Riverside
+103,32,2,",558",#F5C00E,11,Riverside
+104,32,3,",MBRS",#DA1721,11,Riverside
+105,33,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+106,33,1,",Red,Line",#DA1721,11,JFK / UMass
+107,33,2,",8,16,41",#F5C00E,11,JFK / UMass
+108,34,0,",Fairmount,Line",#B933AD,7,Four Corners/Geneva
+109,34,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+110,34,2,",16",#F5C00E,3,Old Rd @ Ellington St
+111,35,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+112,35,1,",Red,Line",#DA1721,11,JFK / UMass
+113,35,2,",8,16,41",#F5C00E,11,JFK / UMass
+114,36,0,",Fairmount,Line,Franklin,Line",#8E44AD,9,Uphams Corner
+115,36,1,",Kingston,Line,Greenbush,Line,Middleborough/Lakeville,Line",#8E44AD,12,JFK / UMass
+116,36,2,",Red,Line",#DA1721,12,JFK / UMass
+117,36,3,",8,,16,41,Red,Line,Shuttle",#F5C00E,12,JFK / UMass
+118,37,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+119,37,1,",Red,Line",#DA1721,11,JFK / UMass
+120,37,2,",8,16,41",#F5C00E,11,JFK / UMass
+121,38,0,",Red,Line",#DA1721,8,Andrew
+122,38,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+123,38,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+124,38,3,",8,41,16",#F5C00E,14,JFK / UMass
+125,39,0,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+126,39,1,",64,66,501",#F5C00E,1,Cambridge St @ Linden St
+127,39,2,",57",#F5C00E,4,Brighton Ave @ Linden St
+128,40,0,",Red,Line",#DA1721,8,Andrew
+129,40,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+130,40,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+131,40,3,",8,41,16",#F5C00E,14,JFK / UMass
+132,41,0,",Red,Line",#EC211F,8,Porter
+133,41,1,",Fitchburg,Line",#B933AD,8,Porter
+134,41,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+135,41,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+136,42,0,",Orange,Line",#EB841E,8,Stony Brook
+137,42,1,",42",#F5C00E,1,Washington St @ School St
+138,42,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+139,43,0,",Red,Line",#EC211F,8,Porter
+140,43,1,",Fitchburg,Line",#B933AD,8,Porter
+141,43,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+142,43,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+143,44,0,",E",#00843D,5,Fenwood Road
+144,44,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+145,44,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+146,45,0,",B",#00843D,16,Boston College
+147,46,0,",B",#00843D,8,Harvard Avenue
+148,46,1,",Framingham/Worcester",#8E44AD,12,Boston Landing
+149,46,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+150,47,0,",Fairmount/Franklin",#8E44AD,8,Uphams Corner
+151,47,1,",Red,Line",#DA1721,15,JFK / UMass
+152,47,2,",Greenbush/Kingston",#8E44AD,15,JFK / UMass
+153,47,3,",Middleborough/Lakeville",#8E44AD,15,JFK / UMass
+154,48,0,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+155,48,1,",64,66,501",#F5C00E,1,Cambridge St @ Linden St
+156,48,2,",57",#F5C00E,4,Brighton Ave @ Linden St
+157,49,0,",B",#018835,14,Warren Street
+158,49,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+159,49,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+160,50,0,",E",#00843D,5,Fenwood Road
+161,50,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+162,50,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+163,51,0,",B",#018835,14,Warren Street
+164,51,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+165,51,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+166,52,0,",Orange,Line",#EB841E,8,Jackson Square
+167,52,1,",E",#00843D,9,Health Street
+168,53,0,",Red,Line",#DA1721,8,Andrew
+169,53,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+170,53,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+171,53,3,",8,41,16",#F5C00E,14,JFK / UMass
+172,54,0,",Red,line",#EC211F,3,JFK / UMass
+173,54,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+174,54,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+175,54,3,",8,16,41",#F5C00E,3,JFK / UMass
+176,55,0,",Framingham/Worcester",#8E44AD,6,Auburndale
+177,55,1,",D",#00843D,11,Riverside
+178,55,2,",558",#F5C00E,11,Riverside
+179,55,3,",MBRS",#DA1721,11,Riverside
+180,56,0,",Red,Line",#DA1721,10,JFK / UMass
+181,56,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+182,56,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+183,56,3,",8,16,41",#EB841E,10,JFK / UMass
+184,57,0,",Fairmount,Line",#B933AD,7,Four Corners/Geneva
+185,57,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+186,57,2,",16",#F5C00E,3,Old Rd @ Ellington St
+187,58,0,",Fairmount,Line",#B933AD,7,Four Corners/Geneva
+188,58,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+189,58,2,",16",#F5C00E,3,Old Rd @ Ellington St
+190,59,0,",Red,Line",#DA1721,3,JFK / UMass
+191,59,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+192,59,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+193,60,0,",Red,Line",#DA1721,6,JFK / UMass
+194,60,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK / UMass
+195,60,2,",Fairmount,Line,Franklin,Line",#8E44AD,15,Uphams Corner
+196,60,3,",8,16,41",#F5C00E,6,JFK / UMass
+197,61,0,",B",#018835,14,Warren Street
+198,61,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+199,61,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+200,62,0,",Red,LIne",#EC211F,8,JFK / UMass
+201,62,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+202,62,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+203,62,3,",8,16,41",#EB841E,8,JFK / UMass
+204,62,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+205,63,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+206,63,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+207,64,0,",B",#00843D,8,Harvard Avenue
+208,64,1,",64,66,501",#F5C00E,1,Cambridge Street
+209,65,0,",64",#F5C00E,6,Brooks St @ Faneuil St
+210,65,1,",57,501",#F5C00E,8,Washington St @ Foster St
+211,65,2,",86",#F5C00E,9,Market St @ Sparhawk St
+212,66,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+213,66,1,",Red,Line",#DA1721,11,JFK / UMass
+214,66,2,",8,16,41",#F5C00E,11,JFK / UMass
+215,67,0,",B",#018835,14,Warren Street
+216,67,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+217,67,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+218,68,0,",B",#018835,14,Warren Street
+219,68,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+220,68,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+221,69,0,",B",#018835,4,Sutherland Road
+222,69,1,",C",#018835,5,Dean Road
+223,70,0,",Red,Line",#e02826,14,JFK / UMass
+224,70,1,",Fairmount,Franklin",#80276c,8,Uphams Corner
+225,70,2,",Greenbush,Kingstone,Middleborough/Lakeville",#80276c,14,JFK / UMass
+226,70,3,",Middleborough/Lakeville",#80276c,14,JFK / UMass
+227,71,0,",Fairmount,Line",#B933AD,5,Uphams Corner
+228,71,1,",Kingston,Line",#B933AD,15,JFK / UMass
+229,71,2,",Greenbush,Line",#B933AD,15,JFK / UMass
+230,71,3,",Red,line",#DA1721,15,JFK / UMass
+231,71,4,",16,17,41",#F5C00E,5,Columbia Rd @ Holden St
+232,72,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+233,72,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+234,73,0,",Red,Line",#e02826,14,JFK / UMass
+235,73,1,",Fairmount,Franklin",#80276c,8,Uphams Corner
+236,73,2,",Greenbush,Kingstone,Middleborough/Lakeville",#80276c,14,JFK / UMass
+237,73,3,",Middleborough/Lakeville",#80276c,14,JFK / UMass
+238,74,0,",B",#018835,14,Warren Street
+239,74,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+240,74,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+241,75,0,",Red,Line",#EC211F,6,JFK/UMass
+242,75,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK/UMass
+243,75,2,",Fairmount,Line,Franklin/Foxboro,Line",#8E44AD,15,Newmarket
+244,75,3,",8,16,41",#F5C00E,6,JFK/UMass
+245,76,0,",B",#00843D,8,Harvard Avenue
+246,76,1,",Framingham",#8E44AD,13,Boston Landing
+247,77,0,",57,501",#EB841E,3,Washington St @ Brock St
+248,77,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+249,78,0,",B",#018835,8,Harvard Avenue
+250,78,1,",64,66,501",#F5C00E,1,Cambridge Street
+251,79,0,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+252,79,1,",Red,Line",#DA1721,1,JFK / UMass
+253,79,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+254,79,3,",8,16,41",#EB841E,1,JFK / UMass
+255,80,0,",B",#018835,4,Sutherland Road
+256,80,1,",C",#018835,5,Dean Road
+257,81,0,",Red,Line",#EC211F,8,Porter
+258,81,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+259,81,2,",Fitchburg,Line",#B933AD,8,Porter
+260,81,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+261,82,0,",Red,LIne",#8E44AD,8,JFK / UMass
+262,82,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+263,82,2,",Middleborough/Lakeville",#EC211F,8,JFK / UMass
+264,82,3,",8,16,41",#EB841E,8,JFK / UMass
+265,82,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+266,83,0,",Red,Line",#DA1721,8,Andrew
+267,83,1,",Fairmount,Franklin",#8E44AD,11,Newmarket
+268,83,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+269,83,3,",8,41,16",#F5C00E,14,JFK / UMass
+270,83,4,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+271,84,0,",B",#018835,8,Chiswick Road
+272,84,1,",51,86",#F5C00E,2,Chestnut Hill Ave @ Wiltshire Rd
+273,85,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+274,85,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+275,86,0,",B",#00843D,8,Harvard Avenue
+276,86,1,",64,66,501",#F5C00E,1,Cambridge Street
+277,87,0,",Framingham/Worcester,Line",#8E44AD,10,Boston Landing
+278,87,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+279,87,2,",64",#F5C00E,10,Market St @ Guest St
+280,88,0,",Red,Line",#DA1721,10,JFK / UMass
+281,88,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+282,88,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+283,88,3,",8,16,41",#EB841E,10,JFK / UMass
+284,89,0,",D,E",#018835,15,Union Square
+285,89,1,",80",#F5C00E,3,Pearl St @ McGrath Hwy
+286,89,2,",88,90",#F5C00E,3,Highland Ave @ Walnut St
+287,90,0,",Framingham/Worcester,Line",#8E44AD,10,Boston Landing
+288,90,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+289,90,2,",64",#F5C00E,10,Market St @ Guest St
+290,91,0,",23",#F5C00E,1,Washington St @ Columbia Rd
+291,91,1,",16,19",#F5C00E,1,Columbia Rd @ Washington St
+292,91,2,",Franklin/Fairmount,Line",#80276c,3,Four Corners/Geneva
+293,92,0,",Red,Line",#EC211F,8,Porter
+294,92,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+295,92,2,",Fitchburg,Line",#B933AD,8,Porter
+296,92,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+297,93,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+298,93,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+299,93,2,",101",#F5C00E,10,Main St @ Broadway
+300,94,0,",Red,Line",#DA1721,6,JFK / UMass
+301,94,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+302,94,2,",Fairmount/Franklin",#8E44AD,15,Uphams Corner
+303,94,3,",8,16,41",#F5C00E,6,JFK / UMass
+304,95,0,",Red,Line",#EC211F,8,Porter
+305,95,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+306,95,2,",Fitchburg,Line",#B933AD,8,Porter
+307,95,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+308,96,0,",Red,Line",#EC211F,8,Porter
+309,96,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+310,96,2,",Fitchburg,Line",#B933AD,8,Porter
+311,96,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+312,97,0,",Fairmount,Line",#B933AD,5,Uphams Corner
+313,97,1,",Kingston,Line",#B933AD,15,JFK / UMass
+314,97,2,",Greenbush,Line",#B933AD,15,JFK / UMass
+315,97,3,",Red,line",#DA1721,15,JFK / UMass
+316,97,4,",16,17,41",#F5C00E,5,Columbia Rd @ Holden St
+317,98,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+318,98,1,",Red,Line",#da291c,15,JFK / UMass
+319,98,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+320,98,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+321,99,0,",Red,Line",#DA1721,6,JFK / UMass
+322,99,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+323,99,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+324,99,3,",8,41",#F5C00E,2,Columbia Rd @ Buttonwood St
+325,100,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+326,100,1,",Red,Line",#da291c,15,JFK / UMass
+327,100,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+328,100,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+329,101,0,",Red,Line",#EC211F,8,Porter
+330,101,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+331,101,2,",Fitchburg,Line",#B933AD,8,Porter
+332,101,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+333,102,0,",B",#00843D,8,Harvard Avenue
+334,102,1,",64,66,501",#F5C00E,1,Cambridge Street
+335,103,0,",Red,Line",#DA1721,10,JFK / UMass
+336,103,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+337,103,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+338,103,3,",8,16,41",#EB841E,10,JFK / UMass
+339,104,0,",Red,Line",#EC211F,8,Porter
+340,104,1,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+341,104,2,",Fitchburg,Line",#B933AD,8,Porter
+342,104,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+343,105,0,",Fairmount,Line",#B933AD,5,Uphams Corner
+344,105,1,",Kingston,Line",#B933AD,15,JFK / UMass
+345,105,2,",Greenbush,Line",#B933AD,15,JFK / UMass
+346,105,3,",Red,line",#DA1721,15,JFK / UMass
+347,105,4,",16,17,41",#F5C00E,5,Columbia Rd @ Holden St
+348,106,0,",18",#F5C00E,3,Dorchester Ave Romsey St
+349,107,0,",B",#018835,5,Washington St
+350,107,1,",C",#018835,7,Dean Road
+351,107,2,",D",#018835,12,Beaconsfield
+352,108,0,",Red,Line",#DA1721,6,JFK / UMass
+353,108,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK / UMass
+354,108,2,",Fairmount,Line,Franklin,Line",#8E44AD,15,Uphams Corner
+355,108,3,",8,16,41",#F5C00E,6,JFK / UMass
+356,109,0,",Red,Line",#DA1721,6,JFK / UMass
+357,109,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK / UMass
+358,109,2,",Fairmount,Line,Franklin,Line",#8E44AD,15,Uphams Corner
+359,109,3,",8,16,41",#F5C00E,6,JFK / UMass
+360,110,0,",80",#F5C00E,2,Pearl St and McGrath Hwy
+361,110,1,",90",#F5C00E,4,Cross St and Auburn Ave
+362,111,0,",Orange,Line",#EB841E,8,Stony Brook
+363,111,1,",42",#F5C00E,1,Washington St @ School St
+364,111,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+365,112,0,",Red,line",#EC211F,1,JFK / UMass
+366,112,1,",Greenbush/Kingston",#B933AD,1,JFK / UMass
+367,112,2,",Middleborough/Lakeville",#B933AD,1,JFK / UMass
+368,112,3,",8,16,41",#F5C00E,1,JFK / UMass
+369,113,0,",Fairmount,Line",#B933AD,5,Uphams Corner
+370,113,1,",Kingston,Line",#B933AD,15,JFK / UMass
+371,113,2,",Greenbush,Line",#B933AD,15,JFK / UMass
+372,113,3,",Red,line",#DA1721,15,JFK / UMass
+373,113,4,",16,17,41",#F5C00E,5,Columbia Rd @ Holden St
+374,114,0,",Red,Line",#DA1721,6,JFK / UMass
+375,114,1,",Middleborough/Lakeville,Line",#8E44AD,6,JFK / UMass
+376,114,2,",Greenbush,Line",#8E44AD,6,JFK / UMass
+377,114,3,",Kingston,Line",#8E44AD,6,JFK / UMass
+378,114,4,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+379,115,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+380,115,1,",Red,Line",#DA1721,11,JFK / UMass
+381,115,2,",8,16,41",#F5C00E,11,JFK / UMass
+382,116,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+383,116,1,",Red,Line",#da291c,15,JFK / UMass
+384,116,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+385,117,0,",B",#018835,5,Griggs Street
+386,117,1,",57,66",#F5C00E,5,Brighton Ave @ Allston St
+387,117,2,",Green,Line,B,Shuttle",#F5C00E,5,Griggs Street
+388,118,0,",80",#F5C00E,2,Pearl St and McGrath Hwy
+389,118,1,",90",#F5C00E,4,Cross St and Auburn Ave
+390,119,0,",Red,Line",#DA1721,6,JFK / UMass
+391,119,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+392,119,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+393,119,3,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+394,120,0,",22,29,44",#F5C00E,4,Columbus Ave @ Walnut Ave
+395,121,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+396,121,1,",Red,Line",#DA1721,11,JFK / UMass
+397,121,2,",8,16,41",#F5C00E,11,JFK / UMass
+398,122,0,",Blue,Line",#003da5,15,Airport
+399,122,1,",114,116,117",#f2bd2a,5,Meridian St @ Eutaw St
+400,123,0,",Red,Line",#EC211F,6,JFK/UMass
+401,123,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK/UMass
+402,123,2,",Fairmount,Line,Franklin/Foxboro,Line",#8E44AD,15,Newmarket
+403,123,3,",8,16,41",#F5C00E,6,JFK/UMass
+404,124,0,",Red,Line",#DA1721,7,JFK / UMass
+405,124,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+406,124,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+407,124,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+408,124,4,",8,16,41",#F5C00E,7,JFK / UMass
+409,125,0,",Red,Line",#EC211F,6,JFK / UMass
+410,125,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+411,125,2,",8,16,41",#F5C00E,6,JFK / UMass
+412,125,3,",Fairmount/Franklin",#80276c,15,Uphams Corner
+413,125,4,",17,18",#F5C00E,7,Boston St @ Mayhew St
+414,126,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+415,126,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+416,126,2,",86",#F5C00E,14,Market St @ Keenan Rd
+417,127,0,",Framingham/Worcester,Line",#8E44AD,10,Boston Landing
+418,127,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+419,127,2,",64",#F5C00E,10,Market St @ Guest St
+420,128,0,",D,E",#018835,15,Union Square
+421,128,1,",80",#F5C00E,3,Pearl St @ McGrath Hwy
+422,128,2,",88,90",#F5C00E,3,Highland Ave @ Walnut St
+423,129,0,",Red",#DA1721,7,JFK / UMas
+424,129,1,",Greenbush,Line,Kingston,Line",#8E44AD,7,JFK / UMas
+425,129,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMas
+426,130,0,",B",#018835,14,Warren Street
+427,130,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+428,130,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+429,131,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#8E44AD,11,JFK / UMass
+430,131,1,",Red,Line",#DA1721,11,JFK / UMass
+431,131,2,",8,16,41",#F5C00E,11,JFK / UMass
+432,132,0,",Blue,Line",#003da5,15,Airport
+433,132,1,",114,116,117",#f2bd2a,5,Meridian St @ Eutaw St
+434,133,0,",Fairmount,Line",#B933AD,5,Uphams Corner
+435,133,1,",Kingston,Line",#B933AD,15,JFK / UMass
+436,133,2,",Greenbush,Line",#B933AD,15,JFK / UMass
+437,133,3,",Red,line",#DA1721,15,JFK / UMass
+438,133,4,",16,17,41",#F5C00E,5,Columbia Rd @ Holden St
+439,134,0,",Blue,Line",#003da5,15,Airport
+440,134,1,",114,116,117",#f2bd2a,5,Meridian St @ Eutaw St
+441,135,0,",15,17",#F5C00E,3,Bowdoin St @ Norton St
+442,135,1,",Fairmount,Line,Franklin,Line",#8E44AD,9,Four Corners/Geneva
+443,136,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+444,136,1,",Red,Line",#da291c,15,JFK / UMass
+445,136,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+446,137,0,",B",#018835,14,Warren Street
+447,137,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+448,137,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+449,138,0,",16,17,41",#f2bd2a,3,Columbia Rd @ Holden St
+450,138,1,",8",#f2bd2a,4,Massachusetts Ave @ Columbia Rd
+451,139,0,",Orange,line",#ef8b22,9,Stony Brook
+452,139,1,",22,29,44",#f2bd2a,2,Columbus Ave @ Weld Ave
+453,139,2,",14,41",#f2bd2a,14,Jackson Square
+454,140,0,",80",#F5C00E,2,Pearl St and McGrath Hwy
+455,140,1,",90",#F5C00E,4,Cross St and Auburn Ave
+456,141,0,",Greeenbush/Kingston",#7F2A6B,8,JFK/UMass
+457,141,1,",Red,Line",#DE2B2E,8,JFK/UMass
+458,141,2,",Middleborough/Lakeville",#7F2A6B,8,JFK/UMass
+459,141,3,",8,16,41",#F1BC3D,8,JFK/UMass
+460,142,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+461,142,1,",Red,Line",#da291c,15,JFK / UMass
+462,142,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+463,142,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+464,143,0,",Red",#DA1721,8,JFK / UMass
+465,143,1,",Greenbush,Kingston",#8E44AD,8,JFK / UMass
+466,143,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+467,144,0,",44",#F5C00E,4,Walnut Ave @ Humboldt Ave
+468,144,1,",10,14,19,23,28",#F5C00E,6,Warren St opp Woodbine St
+469,144,2,",32,34,36,38",#F5C00E,7,Humboldt Ave @ Townsend St
+470,145,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+471,145,1,",Red,Line",#da291c,15,JFK / UMass
+472,145,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+473,145,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+474,146,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+475,146,1,",Red,Line",#da291c,15,JFK / UMass
+476,146,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+477,147,0,",Red,line",#CE3C32,11,Savin Hill
+478,147,1,",15,17",#F7C751,2,Bowdoin St @ Winter St
+479,147,2,",18",#F7C751,7,Dorchester Ave @ Dewar St
+480,148,0,",E",#018835,6,Fenwood Road
+481,148,1,",Orange,Line",#E37A38,11,Roxbury Crossing
+482,148,2,",Franklin/Foxboro/Needham",#8E44AD,15,Ruggles
+483,148,3,",Providence/Stoughton,Line",#8E44AD,15,Ruggles
+484,148,4,",D",#00843D,15,Brookline Village
+485,149,0,",D,E",#00843D,11,Union Square
+486,149,1,",Orange,Line",#F5C00E,15,Sullivan Square
+487,149,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+488,150,0,",D,E",#00843D,11,Union Square
+489,150,1,",Orange,Line",#F5C00E,15,Sullivan Square
+490,150,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+491,151,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+492,151,1,",Red,Line",#da291c,15,JFK / UMass
+493,151,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+494,152,0,",Red,line",#CE3C32,11,Savin Hill
+495,152,1,",15,17",#F7C751,2,Bowdoin St @ Winter St
+496,152,2,",18",#F7C751,7,Dorchester Ave @ Dewar St
+497,153,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+498,153,1,",42",#F5C00E,4,Washington St @ Guild St
+499,153,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+500,154,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+501,154,1,",Red,Line",#da291c,15,JFK / UMass
+502,154,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+503,155,0,",80",#F5C00E,2,Pearl St and McGrath Hwy
+504,155,1,",90",#F5C00E,4,Cross St and Auburn Ave
+505,156,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+506,156,1,",Red,Line",#da291c,15,JFK / UMass
+507,156,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+508,156,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+509,157,0,",B",#018835,2,Sutherland Road
+510,157,1,",Green,Line,B,Shuttle",#F5C00E,1,Sutherland Road
+511,158,0,",B",#00843D,8,Harvard Avenue
+512,158,1,",64,66,501",#F5C00E,1,Cambridge Street
+513,159,0,",Red,Line",#EC211F,12,JFK / UMass
+514,159,1,",Kingston/Greenbush",#B933AD,12,JFK / UMass
+515,159,2,",Middleborough/Lakeville",#B933AD,12,JFK / UMass
+516,159,3,",8,16",#F5C00E,2,Massachusetts Ave @ Columbia Rd
+517,159,4,",17,41",#F5C00E,3,Columbia Rd @ Massachusetts Ave
+518,159,5,",Fairmount/Franklin",#B933AD,10,Uphams Corner
+519,160,0,",Greenbush,Line,Kingston,Line,Middleborough/Lakeville,Line",#80276c,15,JFK / UMass
+520,160,1,",Red,Line",#da291c,15,JFK / UMass
+521,160,2,",8,16,41,Red,Line,Shuttle",#f2bd2a,15,JFK / UMass
+522,160,3,",17",#f2bd2a,3,Columbia Rd @ Holden St
+523,161,0,",Orange,line",#EB841E,15,Assembly
+524,161,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+525,162,0,",D,E",#00843D,11,Union Square
+526,162,1,",Orange,Line",#F5C00E,15,Sullivan Square
+527,162,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+528,163,0,",16,17,41",#f2bd2a,3,Columbia Rd @ Holden St
+529,163,1,",8",#f2bd2a,4,Massachusetts Ave @ Columbia Rd
+530,164,0,",15,17",#F7C751,2,Bowdoin St @ Winter St
+531,164,1,",18",#F7C751,5,Dorchester Ave @ Dewar St
+532,164,2,",Red,line",#CE3C32,11,Savin Hill
+533,165,0,",Greenbush,Kingston",#8E44AD,10,JFK / UMass
+534,165,1,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+535,165,2,",Red,Line",#DA1721,10,JFK / UMass
+536,165,3,",8,16,41",#F5C00E,10,JFK / UMass
+537,166,0,",B",#00843D,2,Washington Street
+538,166,1,",65",#F5C00E,1,Washington St opp Euston Rd
+539,167,0,",Blue,Line",#003da5,15,Airport
+540,167,1,",114,116,117",#f2bd2a,5,Meridian St @ Eutaw St
+541,168,0,",Red,Line",#DA1721,3,JFK / UMass
+542,168,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+543,168,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+544,169,0,",B",#018835,14,Warren Street
+545,169,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+546,169,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+547,170,0,",Greeenbush,Line/Kingston,Line",#7F2A6B,8,JFK/UMass
+548,170,1,",Red,Line",#DE2B2E,8,JFK/UMass
+549,170,2,",8,16,41",#F1BC3D,8,JFK/UMass
+550,170,3,",Middleborough/Lakeville,Line",#7F2A6B,8,JFK/UMass
+551,171,0,",B",#00843D,2,Chiswick Road
+552,171,1,",C",#00843D,10,Cleveland Circle
+553,171,2,",D",#00843D,12,Reservoir
+554,171,3,",Green,Line",#F5C00E,12,Reservoir
+555,171,4,",51,86",#F5C00E,3,Chestnut Hill Ave @ Embassy Rd
+556,172,0,",Red,Line",#DA1721,8,Andrew
+557,172,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+558,172,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+559,172,3,",8,41,16",#F5C00E,14,JFK / UMass
+560,173,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+561,173,1,",E",#018835,9,Brigham Circle
+562,173,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+563,174,0,",Framingham",#8E44AD,11,Boston Landing
+564,174,1,",Worcester",#8E44AD,11,Boston Landing
+565,174,2,",64,66,501",#F5C00E,6,Cambridge Street
+566,174,3,",70,86",#F5C00E,11,Western Ave @ Everett St
+567,175,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+568,175,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+569,175,2,",22,29,44",#F5C00E,11,Jackson Square
+570,176,0,",Framingham",#8E44AD,11,Boston Landing
+571,176,1,",Worcester",#8E44AD,11,Boston Landing
+572,176,2,",64,66,501",#F5C00E,6,Cambridge Street
+573,176,3,",70,86",#F5C00E,11,Western Ave @ Everett St
+574,177,0,",89,91",#F5C00E,2,Washington St @ Boston St
+575,177,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+576,177,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+577,178,0,",Red,Line",#DA1721,6,JFK / UMass
+578,178,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+579,178,2,",Fairmount/Franklin",#8E44AD,15,Uphams Corner
+580,178,3,",8,16,41",#F5C00E,6,JFK / UMass
+581,179,0,",Red,Line",#EC211F,6,JFK / UMass
+582,179,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+583,179,2,",8,16,41",#F5C00E,6,JFK / UMass
+584,179,3,",Fairmount/Franklin",#80276c,15,Uphams Corner
+585,179,4,",17,18",#F5C00E,7,Boston St @ Mayhew St
+586,180,0,",B",#018835,4,Sutherland Road
+587,180,1,",C",#018835,5,Dean Road
+588,181,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+589,181,1,",E",#018835,9,Brigham Circle
+590,181,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+591,182,0,",Orange,Line",#EB841E,11,Ruggles
+592,182,1,",E",#00843D,12,Symphony
+593,182,2,",Franklin/Needham",#8E44AD,11,Ruggles
+594,182,3,",PROVIDENCE/STOUGHTON",#8E44AD,11,Ruggles
+595,183,0,",B",#00843D,8,Harvard Avenue
+596,183,1,",Framingham",#8E44AD,13,Boston Landing
+597,184,0,",Red,Line",#DA1721,10,JFK / UMass
+598,184,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+599,184,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+600,184,3,",8,16,41",#EB841E,10,JFK / UMass
+601,185,0,",B",#018835,5,Chiswick Road
+602,185,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+603,186,0,",B",#00843D,10,Allston Street
+604,186,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+605,186,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+606,186,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+607,187,0,",101",#F5C00E,1,Main St @ Moreland St
+608,187,1,",89,89/93",#F5C00E,7,Broadway @ Bartlett St
+609,187,2,",95",#F5C00E,7,Mystic Ave @ Mystic Apartments
+610,188,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+611,188,1,",42",#F5C00E,4,Washington St @ Guild St
+612,188,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+613,189,0,",E",#00843D,5,Fenwood Road
+614,189,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+615,189,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+616,190,0,",Orange,Line",#EB841E,10,Massachusetts Ave
+617,190,1,",Needham/Franklin",#8E44AD,11,Ruggles
+618,190,2,",E",#018835,12,Symphony
+619,190,3,",43",#F5C00E,1,Tremont St @ Hammond St
+620,190,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+621,191,0,",B",#018835,5,Chiswick Road
+622,191,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+623,192,0,",B",#00843D,2,Chiswick Road
+624,192,1,",C",#00843D,10,Cleveland Circle
+625,192,2,",D",#00843D,12,Reservoir
+626,192,3,",Green,Line",#F5C00E,12,Reservoir
+627,192,4,",51,86",#F5C00E,3,Chestnut Hill Ave @ Embassy Rd
+628,193,0,",Red,Line",#DA1721,9,Andrew
+629,193,1,",Fairmount,Line",#8E44AD,12,Newmarket
+630,193,2,",Franklin/Foxboro,Line",#8E44AD,12,Newmarket
+631,193,3,",Kingston,Line",#8E44AD,13,JFK / UMass
+632,193,4,",8,16,41",#F5C00E,13,JFK / UMass
+633,194,0,",Red,Line",#DA1721,6,JFK / UMass
+634,194,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+635,194,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+636,194,3,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+637,195,0,",Red,Line",#DA1721,8,Andrew
+638,195,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+639,195,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+640,195,3,",8,41,16",#F5C00E,14,JFK / UMass
+641,196,0,",B",#00843D,8,Harvard Avenue
+642,196,1,",Framingham",#8E44AD,13,Boston Landing
+643,197,0,",89,91",#F5C00E,2,Washington St @ Boston St
+644,197,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+645,197,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+646,197,3,",D,E",#018835,7,Union Square
+647,198,0,",Red,Line",#DA1721,6,Central
+648,198,1,",68",#F5C00E,2,Broadway @ Inman St
+649,198,2,",64,83,91",#F5C00E,1,Prospect St @ Harvard St
+650,199,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+651,199,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+652,200,0,",Red,Line",#DA1721,6,Central
+653,200,1,",68",#F5C00E,2,Broadway @ Inman St
+654,200,2,",64,83,91",#F5C00E,1,Prospect St @ Harvard St
+655,201,0,",89,91",#F5C00E,2,Washington St @ Boston St
+656,201,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+657,201,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+658,201,3,",D,E",#018835,7,Union Square
+659,202,0,",89,91",#F5C00E,2,Washington St @ Boston St
+660,202,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+661,202,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+662,203,0,",Fairmount,Line,Franklin,Line",#8E44AD,9,Uphams Corner
+663,203,1,",Kingston,Line,Greenbush,Line,Middleborough/Lakeville,Line",#8E44AD,12,JFK / UMass
+664,203,2,",Red,Line",#DA1721,12,JFK / UMass
+665,203,3,",8,,16,41,Red,Line,Shuttle",#F5C00E,12,JFK / UMass
+666,204,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+667,204,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+668,205,0,",Red,Line",#EC211F,6,JFK / UMass
+669,205,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+670,205,2,",8,16,41",#F5C00E,6,JFK / UMass
+671,205,3,",Fairmount/Franklin",#80276c,15,Uphams Corner
+672,205,4,",17,18",#F5C00E,7,Boston St @ Mayhew St
+673,206,0,",B",#018835,1,Harvard Avenue
+674,206,1,",57",#F5C00E,2,Brighton Ave @ Harvard Ave
+675,207,0,",B",#00843D,8,Harvard Avenue
+676,207,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+677,208,0,",Red,Line",#DA1721,8,Andrew
+678,208,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+679,208,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+680,208,3,",8,41,16",#F5C00E,14,JFK / UMass
+681,209,0,",Red,Line",#DA1721,8,Andrew
+682,209,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+683,209,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+684,209,3,",8,41,16",#F5C00E,14,JFK / UMass
+685,210,0,",B",#00843D,5,Washington Street
+686,210,1,",C",#00843D,6,Tappan Street
+687,210,2,",D",#00843D,10,Beaconsfield
+688,210,3,",65",#F5C00E,1,Washington St @ Corey Rd
+689,211,0,",44",#F5C00E,4,Walnut Ave @ Humboldt Ave
+690,211,1,",10,14,19,23,28",#F5C00E,6,Warren St opp Woodbine St
+691,211,2,",32,34,36,38",#F5C00E,7,Humboldt Ave @ Townsend St
+692,212,0,",22,29,44",#F5C00E,4,Columbus Ave @ Walnut Ave
+693,213,0,",Red,Line",#DA1721,6,JFK / UMass
+694,213,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+695,213,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+696,214,0,",B",#00843D,8,Harvard Avenue
+697,214,1,",Framingham",#8E44AD,13,Boston Landing
+698,215,0,",Framingham",#8E44AD,16,Boston Landing
+699,215,1,",B",#00843D,16,Harvard Avenue
+700,216,0,",Framingham/Worcester",#8E44AD,13,Boston Landing
+701,216,1,",B",#00843D,15,Harvard Avenue
+702,216,2,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+703,216,3,",64",#F5C00E,7,Cambridge St @ Lincoln St
+704,217,0,",Greenbush,Kingston",#8E44AD,10,JFK / UMass
+705,217,1,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+706,217,2,",Red,Line",#DA1721,10,JFK / UMass
+707,217,3,",8,16,41",#F5C00E,10,JFK / UMass
+708,218,0,",Red,Line",#DA1721,10,JFK / UMass
+709,218,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+710,218,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+711,218,3,",8,16,41",#EB841E,10,JFK / UMass
+712,219,0,",89,91",#F5C00E,2,Washington St @ Boston St
+713,219,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+714,219,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+715,220,0,",B",#00843D,16,Boston College
+716,221,0,",Orange,line",#ef8b22,9,Stony Brook
+717,221,1,",22,29,44",#f2bd2a,2,Columbus Ave @ Weld Ave
+718,221,2,",14,41",#f2bd2a,14,Jackson Square
+719,222,0,",Fairmount,Line,Franklin,Line",#8E44AD,9,Uphams Corner
+720,222,1,",Kingston,Line,Greenbush,Line,Middleborough/Lakeville,Line",#8E44AD,12,JFK / UMass
+721,222,2,",Red,Line",#DA1721,12,JFK / UMass
+722,222,3,",8,,16,41,Red,Line,Shuttle",#F5C00E,12,JFK / UMass
+723,223,0,",Framingham",#8E44AD,11,Boston Landing
+724,223,1,",Worcester",#8E44AD,11,Boston Landing
+725,223,2,",64,66,501",#F5C00E,6,Cambridge Street
+726,223,3,",70,86",#F5C00E,11,Western Ave @ Everett St
+727,224,0,",Red,Line",#DA1721,8,Andrew
+728,224,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+729,224,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+730,224,3,",8,41,16",#F5C00E,14,JFK / UMass
+731,225,0,",Red,Line",#DA1721,8,Andrew
+732,225,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Newmarket
+733,225,2,",Greenbush,Kingston,Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+734,225,3,",8,41,16",#F5C00E,14,JFK / UMass
+735,226,0,",E",#018835,6,Fenwood Road
+736,226,1,",Orange,Line",#E37A38,11,Roxbury Crossing
+737,226,2,",Franklin/Foxboro/Needham",#8E44AD,15,Ruggles
+738,226,3,",Providence/Stoughton,Line",#8E44AD,15,Ruggles
+739,226,4,",D",#00843D,15,Brookline Village
+740,227,0,",15,41,45",#F5C00E,3,Dudley St @ Hampden St
+741,227,1,",Franklin,Line",#B933AD,15,Newmarket
+742,228,0,",B",#018835,4,Sutherland Road
+743,228,1,",C",#018835,5,Dean Road
+744,229,0,",B",#00843D,16,Boston College
+745,230,0,",B",#018835,1,Allston Street
+746,231,0,",Red,Line",#DA1721,2,JFK / UMass
+747,231,1,",Kingston,Line",#8E44AD,2,JFK / UMass
+748,231,2,",Middleborough/Lakeville,Line",#8E44AD,2,JFK / UMass
+749,231,3,",Greenbush,Line",#8E44AD,2,JFK / UMass
+750,231,4,",8,16,41",#F5C00E,3,JFK / UMass
+751,232,0,",B",#00843D,8,Harvard Avenue
+752,232,1,",64,66,501",#F5C00E,1,Cambridge Street
+753,233,0,",E",#00843D,5,Fenwood Road
+754,233,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+755,233,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+756,233,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+757,234,0,",Fairmount,Line,Franklin,Line",#8E44AD,9,Uphams Corner
+758,234,1,",Kingston,Line,Greenbush,Line,Middleborough/Lakeville,Line",#8E44AD,12,JFK / UMass
+759,234,2,",Red,Line",#DA1721,12,JFK / UMass
+760,234,3,",8,,16,41,Red,Line,Shuttle",#F5C00E,12,JFK / UMass
+761,235,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+762,235,1,",57,501",#F5C00E,8,Tremont St opp Tremont Pl
+763,236,0,",Red,Line",#DA1721,6,JFK / UMass
+764,236,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+765,236,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+766,237,0,",Red,LIne",#EC211F,8,JFK / UMass
+767,237,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+768,237,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+769,237,3,",8,16,41",#EB841E,8,JFK / UMass
+770,237,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+771,238,0,",Red,Line",#DA1721,10,JFK / UMass
+772,238,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+773,238,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+774,238,3,",8,16,41",#EB841E,10,JFK / UMass
+775,239,0,",B",#00843D,16,Boston College
+776,240,0,",B",#00843D,16,Boston College
+777,241,0,",B",#00843D,13,Harvard Avenue
+778,241,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+779,241,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+780,242,0,",Red",#DA1721,8,JFK / UMass
+781,242,1,",Greenbush,Kingston",#8E44AD,8,JFK / UMass
+782,242,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+783,243,0,",B",#00843D,4,Washington Street
+784,243,1,",65",#F5C00E,3,Corey Rd & Washington Street
+785,244,0,",Red,Line",#DA1721,9,JFK/UMass
+786,244,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+787,244,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+788,244,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+789,244,4,",8,16,41",#EB841E,9,JFK/UMass
+790,245,0,",B",#00843D,8,Harvard Avenue
+791,245,1,",64,66,501",#F5C00E,1,Cambridge Street
+792,246,0,",Greenbush,Kingston",#8E44AD,10,JFK / UMass
+793,246,1,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+794,246,2,",Red,Line",#DA1721,10,JFK / UMass
+795,246,3,",8,16,41",#F5C00E,10,JFK / UMass
+796,247,0,",Red,Line",#DA1721,9,Andrew
+797,247,1,",Fairmount/Franklin",#8E44AD,12,Newmarket
+798,247,2,",Greenbush/Kingston",#8E44AD,13,JFK / UMass
+799,247,3,",Middleborough/Lakeville",#8E44AD,13,JFK / UMass
+800,247,4,",8,41",#F5C00E,13,JFK / UMass
+801,248,0,",Red",#DA1721,7,JFK / UMas
+802,248,1,",Greenbush,Line,Kingston,Line",#8E44AD,7,JFK / UMas
+803,248,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMas
+804,249,0,",Red,line",#EC211F,4,JFK / UMass
+805,249,1,",Greenbush/Kingston",#B933AD,4,JFK / UMass
+806,249,2,",Middleborough/Lakeville",#B933AD,4,JFK / UMass
+807,249,3,",8,16,41",#F5C00E,4,JFK / UMass
+808,250,0,",Red,Line",#DA1721,9,Andrew
+809,250,1,",Fairmount/Franklin",#8E44AD,12,Newmarket
+810,250,2,",Greenbush/Kingston",#8E44AD,13,JFK / UMass
+811,250,3,",Middleborough/Lakeville",#8E44AD,13,JFK / UMass
+812,250,4,",8,41",#F5C00E,13,JFK / UMass
+813,251,0,",B",#00843D,13,Harvard Avenue
+814,251,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+815,251,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+816,252,0,",Red,Line",#DA1721,9,JFK/UMass
+817,252,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+818,252,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+819,252,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+820,252,4,",8,16,41",#EB841E,9,JFK/UMass
+821,253,0,",Red,Line",#DA1721,6,JFK / UMass
+822,253,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+823,253,2,",Fairmount/Franklin",#8E44AD,15,Uphams Corner
+824,253,3,",8,16,41",#F5C00E,6,JFK / UMass
+825,254,0,",B",#00843D,10,Warren Street
+826,254,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+827,255,0,",Red,Line",#EC211F,14,Kendall/MIT
+828,255,1,",D,E",#018835,15,Union Square
+829,255,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+830,256,0,",B",#00843D,4,Washington Street
+831,256,1,",65",#F5C00E,3,Corey Rd & Washington Street
+832,257,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+833,257,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+834,258,0,",Orange,line",#EB841E,8,Haymarket
+835,258,1,",Blue,line",#0E4189,11,Aquarium
+836,259,0,",Orange,line",#EB841E,8,Haymarket
+837,259,1,",Blue,line",#0E4189,11,Aquarium
+838,260,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+839,260,1,",B",#00843D,15,Harvard Avenue
+840,260,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+841,260,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+842,261,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+843,261,1,",B",#00843D,15,Harvard Avenue
+844,261,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+845,261,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+846,262,0,",15,41,45",#F5C00E,3,Dudley St @ Hampden St
+847,262,1,",Franklin,Line",#B933AD,15,Newmarket
+848,263,0,",B",#018835,3,Sutherland Road
+849,264,0,",Red,Line",#da291c,4,Central
+850,264,1,",47",#f2bd2a,2,Pearl St @ Franklin St
+851,264,2,",64,70,83,91",#f2bd2a,4,Western Ave @ Green St
+852,265,0,",B",#00843D,8,Harvard Avenue
+853,265,1,",64,66,501",#F5C00E,1,Cambridge Street
+854,266,0,",44",#F5C00E,4,Walnut Ave @ Humboldt Ave
+855,266,1,",10,14,19,23,28",#F5C00E,6,Warren St opp Woodbine St
+856,266,2,",32,34,36,38",#F5C00E,7,Humboldt Ave @ Townsend St
+857,267,0,",101",#F5C00E,1,Main St @ Moreland St
+858,267,1,",89,89/93",#F5C00E,7,Broadway @ Bartlett St
+859,267,2,",95",#F5C00E,7,Mystic Ave @ Mystic Apartments
+860,268,0,",D,E",#00843D,11,Union Square
+861,268,1,",Orange,Line",#F5C00E,15,Sullivan Square
+862,268,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+863,269,0,",Red,line",#EC211F,3,JFK / UMass
+864,269,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+865,269,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+866,269,3,",8,16,41",#F5C00E,3,JFK / UMass
+867,270,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+868,270,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+869,270,2,",B",#018835,15,Harvard Avenue
+870,270,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+871,271,0,",Red,Line",#DA1721,7,JFK / UMass
+872,271,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+873,271,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+874,271,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+875,271,4,",8,16,41",#F5C00E,7,JFK / UMass
+876,272,0,",83,91",#F5C00E,1,Prospect St
+877,272,1,",Red,line",#DA1721,10,Central
+878,273,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+879,273,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+880,273,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+881,273,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+882,273,4,",Red,Line",#DA1721,10,Savin Hill
+883,274,0,",B",#00843D,10,Warren Street
+884,274,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+885,274,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+886,275,0,",B",#00843D,10,Warren Street
+887,275,1,",Framingham",#B933AD,13,Boston Landing
+888,275,2,",Worcester",#B933AD,13,Boston Landing
+889,275,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+890,276,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+891,276,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+892,276,2,",22,29,44",#F5C00E,11,Jackson Square
+893,277,0,",Red,Line",#DA1721,8,Andrew
+894,277,1,",Fairmount,Franklin",#8E44AD,11,Newmarket
+895,277,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+896,277,3,",8,41,16",#F5C00E,14,JFK / UMass
+897,277,4,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+898,278,0,",64,66,501",#F5C00E,1,Cambridge Street
+899,278,1,",B",#018835,8,Harvard Avenue
+900,279,0,",B",#00843D,4,Washington Street
+901,279,1,",65",#F5C00E,3,Corey Rd & Washington Street
+902,280,0,",B",#018835,14,Harvard Avenue
+903,280,1,",70,86",#F5C00E,12,Western Ave @ Everest
+904,281,0,",Orange,line",#EB841E,8,Ruggles
+905,281,1,",8,19,47",#EB841E,1,Melnea Cass Blvd opp Kerr Way
+906,282,0,",Red,Line",#DA1721,3,JFK / UMass
+907,282,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+908,282,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+909,283,0,",Red,Line",#DA1721,2,JFK / UMass
+910,283,1,",Kingston,Line",#8E44AD,2,JFK / UMass
+911,283,2,",Middleborough/Lakeville,Line",#8E44AD,2,JFK / UMass
+912,283,3,",Greenbush,Line",#8E44AD,2,JFK / UMass
+913,283,4,",8,16,41",#F5C00E,3,JFK / UMass
+914,284,0,",Red,Line",#DA1721,2,JFK / UMass
+915,284,1,",Kingston,Line",#8E44AD,2,JFK / UMass
+916,284,2,",Middleborough/Lakeville,Line",#8E44AD,2,JFK / UMass
+917,284,3,",Greenbush,Line",#8E44AD,2,JFK / UMass
+918,284,4,",8,16,41",#F5C00E,3,JFK / UMass
+919,285,0,",Red",#DA1721,8,JFK / UMass
+920,285,1,",Greenbush,Kingston",#8E44AD,8,JFK / UMass
+921,285,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+922,286,0,",B",#00843D,2,Chiswick Road
+923,286,1,",C",#00843D,10,Cleveland Circle
+924,286,2,",D",#00843D,12,Reservoir
+925,286,3,",Green,Line",#F5C00E,12,Reservoir
+926,286,4,",51,86",#F5C00E,3,Chestnut Hill Ave @ Embassy Rd
+927,287,0,",B",#00843D,8,Harvard Avenue
+928,287,1,",64,66,501",#F5C00E,1,Cambridge Street
+929,288,0,",B",#018835,8,Chiswick Road
+930,288,1,",51,86",#F5C00E,2,Chestnut Hill Ave @ Wiltshire Rd
+931,289,0,",B",#018835,3,Sutherland Road
+932,290,0,",Fairmount,Line,Franklin,Line",#8E44AD,9,Uphams Corner
+933,290,1,",Kingston,Line,Greenbush,Line,Middleborough/Lakeville,Line",#8E44AD,12,JFK / UMass
+934,290,2,",Red,Line",#DA1721,12,JFK / UMass
+935,290,3,",8,,16,41,Red,Line,Shuttle",#F5C00E,12,JFK / UMass
+936,291,0,",Red,Line",#DA1721,6,Central
+937,291,1,",68",#F5C00E,2,Broadway @ Inman St
+938,291,2,",64,83,91",#F5C00E,1,Prospect St @ Harvard St
+939,292,0,",Framingham/Worcester",#8E44AD,6,Boston Landing
+940,292,1,",B",#00843D,15,Allston Street
+941,292,2,",64",#F5C00E,4,N Beacon St @ Saunders St
+942,292,3,",86",#F5C00E,5,Market St @ N Beacon St
+943,293,0,",B",#00843D,8,Harvard Avenue
+944,293,1,",Framingham/Worcester",#8E44AD,12,Boston Landing
+945,293,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+946,294,0,",Red,Line",#EC211F,14,Kendall/MIT
+947,294,1,",D,E",#018835,15,Union Square
+948,294,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+949,295,0,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+950,295,1,",Red,Line",#DA1721,1,JFK / UMass
+951,295,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+952,295,3,",8,16,41",#EB841E,1,JFK / UMass
+953,296,0,",E",#00843D,4,Symphony
+954,296,1,",Orange,Line",#EB841E,7,Massachusetts Ave
+955,296,2,",D,B,C",#00843D,10,Hynes Convention Center Station
+956,296,3,",Franklin,Needham,Providence/Stoughton",#8E44AD,12,Ruggles
+957,297,0,",57,501",#EB841E,3,Washington St @ Brock St
+958,297,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+959,298,0,",B",#018835,5,Griggs Street
+960,298,1,",57,66",#F5C00E,5,Brighton Ave @ Allston St
+961,298,2,",Green,Line,B,Shuttle",#F5C00E,5,Griggs Street
+962,299,0,",Red,line",#EC211F,3,JFK / UMass
+963,299,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+964,299,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+965,299,3,",8,16,41",#F5C00E,3,JFK / UMass
+966,300,0,",Red,LIne",#EC211F,8,JFK / UMass
+967,300,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+968,300,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+969,300,3,",8,16,41",#EB841E,8,JFK / UMass
+970,300,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+971,301,0,",Red,Line",#DA1721,2,JFK / UMass
+972,301,1,",Kingston,Line",#8E44AD,2,JFK / UMass
+973,301,2,",Middleborough/Lakeville,Line",#8E44AD,2,JFK / UMass
+974,301,3,",Greenbush,Line",#8E44AD,2,JFK / UMass
+975,301,4,",8,16,41",#F5C00E,3,JFK / UMass
+976,302,0,",57,501",#EB841E,3,Washington St @ Brock St
+977,302,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+978,303,0,",B",#00843D,8,Harvard Avenue
+979,303,1,",Framingham",#8E44AD,13,Boston Landing
+980,304,0,",E",#00843d,5,Longwood Medical Area
+981,304,1,",Orange,Line",#ed8b00,9,Roxbury Crossing
+982,304,2,",Franklin/Needham/Providence",#80276c,15,Ruggles
+983,304,3,",39",#f2bd2a,3,Huntington Ave @ Wigglesworth St
+984,305,0,",51",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+985,305,1,",86",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+986,305,2,",B",#018835,2,Commonwealth Ave & Chiswick Rd
+987,306,0,",Red,Line",#DA1721,3,JFK / UMass
+988,306,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+989,306,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+990,307,0,",Greenbush,Kingston",#8E44AD,10,JFK / UMass
+991,307,1,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+992,307,2,",Red,Line",#DA1721,10,JFK / UMass
+993,307,3,",8,16,41",#F5C00E,10,JFK / UMass
+994,308,0,",Framingham",#8E44AD,16,Boston Landing
+995,308,1,",B",#00843D,16,Harvard Avenue
+996,309,0,",B",#018835,3,Sutherland Road
+997,310,0,",Orange,line",#EB841E,8,Haymarket
+998,310,1,",Blue,line",#0E4189,11,Aquarium
+999,311,0,",B",#018835,14,Harvard Avenue
+1000,311,1,",70,86",#F5C00E,12,Western Ave @ Everest
+1001,312,0,",E",#008000,14,Symphony Station
+1002,312,1,",Framingham/Worcester,Line",#8E44AD,10,Lansdowne
+1003,313,0,",B",#00843D,8,Harvard Avenue
+1004,313,1,",Framingham",#8E44AD,13,Boston Landing
+1005,314,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+1006,314,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+1007,314,2,",86",#F5C00E,14,Market St @ Keenan Rd
+1008,315,0,",Fairmount/Franklin",#8E44AD,8,Uphams Corner
+1009,315,1,",Red,Line",#DA1721,15,JFK / UMass
+1010,315,2,",Greenbush/Kingston",#8E44AD,15,JFK / UMass
+1011,315,3,",Middleborough/Lakeville",#8E44AD,15,JFK / UMass
+1012,316,0,",Red,Line",#EC211F,5,JFK / UMass
+1013,316,1,",Greenbush/Kingston",#B933AD,5,JFK / UMass
+1014,316,2,",Middleborough/Lakeville",#B933AD,5,JFK / UMass
+1015,317,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+1016,317,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+1017,318,0,",Red,Line",#DA1721,3,JFK / UMass
+1018,318,1,",Red,Line",#DA1721,8,Savin Hill
+1019,319,0,",Orange,line",#EB841E,8,Haymarket
+1020,319,1,",Blue,line",#0E4189,11,Aquarium
+1021,320,0,",64",#EB841E,6,Faneuil St @ Oak Square
+1022,320,1,",57",#EB841E,6,Tremont St @ Washington St
+1023,320,2,",501",#EB841E,8,Tremont St opp Tremont Pl
+1024,321,0,",44",#F5C00E,4,Walnut Ave @ Humboldt Ave
+1025,321,1,",10,14,19,23,28",#F5C00E,6,Warren St opp Woodbine St
+1026,321,2,",32,34,36,38",#F5C00E,7,Humboldt Ave @ Townsend St
+1027,322,0,",Orange,line",#EB841E,8,Haymarket
+1028,322,1,",Blue,line",#0E4189,11,Aquarium
+1029,323,0,",Red,Line",#EC211F,6,JFK/UMass
+1030,323,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK/UMass
+1031,323,2,",Fairmount,Line,Franklin/Foxboro,Line",#8E44AD,15,Newmarket
+1032,323,3,",8,16,41",#F5C00E,6,JFK/UMass
+1033,324,0,",Red,Line",#EC211F,5,JFK / UMass
+1034,324,1,",Greenbush/Kingston",#B933AD,5,JFK / UMass
+1035,324,2,",Middleborough/Lakeville",#B933AD,5,JFK / UMass
+1036,325,0,",B",#018835,3,Packards Corner
+1037,325,1,",57",#FC5707,3,Kenmore Station
+1038,326,0,",Red,Line",#DA1721,3,JFK / UMass
+1039,326,1,",Red,Line",#DA1721,8,Savin Hill
+1040,327,0,",Fitchburg,Line",#7F2A6B,10,Porter
+1041,327,1,",Red,Line",#DA1721,10,Porter
+1042,327,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+1043,328,0,",85",#FC5707,4,Hampshire St @ Webster Ave
+1044,328,1,",CT2",#FC5707,4,Hampshire St @ Cardinal Medeiros Ave
+1045,328,2,",64,68",#FC5707,6,Broadway @ Hampshire St
+1046,329,0,",Red,Line",#EC211F,5,JFK / UMass
+1047,329,1,",Greenbush/Kingston",#B933AD,5,JFK / UMass
+1048,329,2,",Middleborough/Lakeville",#B933AD,5,JFK / UMass
+1049,330,0,",Orange,line",#EB841E,8,Haymarket
+1050,330,1,",Blue,line",#0E4189,11,Aquarium
+1051,331,0,",B",#00843D,10,Warren Street
+1052,331,1,",Framingham",#B933AD,13,Boston Landing
+1053,331,2,",Worcester",#B933AD,13,Boston Landing
+1054,331,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+1055,332,0,",Red,Line",#DA1721,3,JFK / UMass
+1056,332,1,",Red,Line",#DA1721,8,Savin Hill
+1057,333,0,",Fitchburg,Line",#7F2A6B,10,Porter
+1058,333,1,",Red,Line",#DA1721,10,Porter
+1059,333,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+1060,334,0,",Red,Line",#DA1721,10,Savin Hill
+1061,334,1,",18",#F5C00E,2,Dorchester Ave@ Belford Str
+1062,334,2,",15",#F5C00E,10,Columbia Rd @Buttonwood Str
+1063,335,0,",B",#018835,14,Harvard Avenue
+1064,335,1,",70,86",#F5C00E,12,Western Ave @ Everest
+1065,336,0,",B",#018835,5,Chiswick Road
+1066,336,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+1067,337,0,",Red,Line",#DA1721,6,Central
+1068,337,1,",68",#F5C00E,2,Broadway @ Inman St
+1069,337,2,",64,83,91",#F5C00E,1,Prospect St @ Harvard St
+1070,338,0,",B",#00843D,10,Warren Street
+1071,338,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+1072,339,0,",85",#FC5707,4,Hampshire St @ Webster Ave
+1073,339,1,",CT2",#FC5707,4,Hampshire St @ Cardinal Medeiros Ave
+1074,339,2,",64,68",#FC5707,6,Broadway @ Hampshire St
+1075,340,0,",B",#018835,8,Harvard Avenue
+1076,340,1,",64,66,501",#F5C00E,2,Cambridge Street
+1077,340,2,",51,57",#F5C00E,6,Brighton Ave opp Quint Ave
+1078,341,0,",Red,Line",#EC211F,14,Kendall/MIT
+1079,341,1,",D,E",#018835,15,Union Square
+1080,341,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+1081,342,0,",Framingham/Worcester",#8E44AD,13,Boston Landing
+1082,342,1,",B",#00843D,15,Harvard Avenue
+1083,342,2,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+1084,342,3,",64",#F5C00E,7,Cambridge St @ Lincoln St
+1085,343,0,",B",#00843D,3,Packards Corner
+1086,344,0,",B",#00843D,8,Harvard Avenue
+1087,344,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+1088,345,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+1089,345,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+1090,345,2,",B",#018835,15,Harvard Avenue
+1091,345,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+1092,346,0,",B",#018835,8,Harvard Avenue
+1093,346,1,",64,66,501",#F5C00E,1,Cambridge Street
+1094,347,0,",Red,Line",#DA1721,6,JFK / UMass
+1095,347,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+1096,347,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+1097,348,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+1098,348,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+1099,348,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+1100,348,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+1101,348,4,",Red,Line",#DA1721,10,Savin Hill
+1102,349,0,",Framingham/Worcester,Line",#8E44AD,11,Boston Landing
+1103,349,1,",64,66,501",#F5C00E,6,Cambridge Street
+1104,349,2,",70,86",#F5C00E,11,Western Ave @ Everett St
+1105,350,0,",B",#00843D,4,Washington Street
+1106,350,1,",65",#F5C00E,3,Corey Rd & Washington Street
+1107,351,0,",B",#00843D,9,Chiswick Road
+1108,351,1,",С",#00843D,15,Cleveland Circle
+1109,351,2,",51,86",#F2BD2A,3,Chestnut Hill Ave @ Wiltshire Rd
+1110,352,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+1111,352,1,",57,501",#F5C00E,8,Tremont St opp Tremont Pl
+1112,353,0,",Red,Line",#DA1721,7,JFK / UMass
+1113,353,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+1114,353,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+1115,353,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+1116,353,4,",8,16,41",#F5C00E,7,JFK / UMass
+1117,354,0,",B",#018835,3,Packards Corner
+1118,354,1,",57",#FC5707,3,Kenmore Station
+1119,355,0,",10",#F7C751,1,Dorchester St @ W 5th St
+1120,355,1,",11",#F7C751,2,W 6th St @ F St
+1121,355,2,",Red,Line",#CE3C32,13,Andrew
+1122,356,0,",Red",#DA1721,8,Andrew
+1123,356,1,",Fairmount,Franklin",#8E44AD,13,Newmarket
+1124,356,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+1125,356,3,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+1126,357,0,",51",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+1127,357,1,",86",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+1128,357,2,",B",#018835,2,Commonwealth Ave & Chiswick Rd
+1129,358,0,",51",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+1130,358,1,",86",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+1131,358,2,",B",#018835,2,Commonwealth Ave & Chiswick Rd
+1132,359,0,",Framingham/Worcester",#8E44AD,6,Boston Landing
+1133,359,1,",B",#00843D,15,Allston Street
+1134,359,2,",64",#F5C00E,4,N Beacon St @ Saunders St
+1135,359,3,",86",#F5C00E,5,Market St @ N Beacon St
+1136,360,0,",10",#F7C751,1,Dorchester St @ W 5th St
+1137,360,1,",11",#F7C751,2,W 6th St @ F St
+1138,360,2,",Red,Line",#CE3C32,13,Andrew
+1139,371,0,",Red,Line",#EC211F,9,Shawmut
+1140,371,1,",23",#F5C00E,2,Washington St @ Park St
+1141,372,0,",Orange,Line",#EB841E,8,Jackson Square
+1142,372,1,",E",#00843D,9,Health Street
+1143,373,0,",Blue,Line",#2040AA,2,Maverick
+1144,373,1,",114,116,117,120,121",#F5C00E,2,Maverick
+1145,374,0,",Red,line",#DA1721,5,Shawmut
+1146,375,0,",Orange,Line",#EB841E,8,Jackson Square
+1147,375,1,",E",#00843D,9,Health Street
+1148,376,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1149,376,1,",E",#018835,9,Brigham Circle
+1150,376,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1151,377,0,",Blue,Line",#2040AA,2,Maverick
+1152,377,1,",114,116,117,120,121",#F5C00E,2,Maverick
+1153,378,0,",Orange,line",#EB841E,15,Assembly
+1154,378,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1155,379,0,",E",#00843D,5,Fenwood Road
+1156,379,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+1157,379,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+1158,380,0,",Orange,Line",#ef8b22,5,Stony Brook
+1159,380,1,",42",#f2bd2a,3,Washington St
+1160,380,2,",22,29,44",#f2bd2a,7,Columbus Ave @ Dimock St
+1161,380,3,",14,41",#f2bd2a,14,Jackson Square
+1162,381,0,",Orange,Line",#ED8B32,5,Stony Brook
+1163,381,1,",14,22,29,41,44",#F1BC3D,14,Jackson Square
+1164,381,2,",42",#F1BC3D,3,Washington St & School St
+1165,382,0,",89,93,101",#F5C00E,2,Broadway @ Montgomery Ave
+1166,382,1,",80",#F5C00E,10,Medford St @ School St
+1167,382,2,",95",#F5C00E,10,Mystic Ave @ Wheatland St
+1168,383,0,",Blue,Line",#2040AA,10,Airport
+1169,383,1,",121",#F5C00E,1,Lexington St @ Marion St
+1170,383,2,",114,116,117",#F5C00E,3,Meridian St @ Lexington St
+1171,384,0,",Blue,Line",#0E4189,11,Airport
+1172,384,1,",SL3",#808183,11,Airport
+1173,385,0,",E",#00843D,5,Fenwood Road
+1174,385,1,",Orange,line",#EB841E,11,Roxbury Crossing
+1175,385,2,",35,39,66",#EB841E,4,Huntington Ave opp Fenwood Rd
+1176,386,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1177,386,1,",E",#018835,9,Brigham Circle
+1178,386,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1179,387,0,",Red,line",#DA1721,5,Shawmut
+1180,388,0,",Franklin,Fairmount",#8E44AD,12,Morton Street
+1181,388,1,",28,29",#F5C00E,2,Blue Hill Ave @ Woodrow Ave
+1182,389,0,",Red,Line",#EC211F,9,Shawmut
+1183,389,1,",23",#F5C00E,2,Washington St @ Park St
+1184,390,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1185,390,1,",E",#018835,9,Brigham Circle
+1186,390,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1187,391,0,",Fairmount,Line,Franklin,Line",#8E44AD,4,Four Corners/Geneva
+1188,391,1,",16",#F5C00E,3,Columbia Rd @ Seaver St
+1189,391,2,",23",#F5C00E,4,Washington Street @ Four Corners
+1190,392,0,",Fairmount/Franklin",#8E44AD,7,Four Corners/Geneva
+1191,392,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+1192,393,0,",Fairmount,Line,Franklin,Line",#8E44AD,4,Four Corners/Geneva
+1193,393,1,",16",#F5C00E,3,Columbia Rd @ Seaver St
+1194,393,2,",23",#F5C00E,4,Washington Street @ Four Corners
+1195,394,0,",Orange,line",#EB841E,15,Assembly
+1196,394,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1197,395,0,",D,E",#018835,15,Union Square
+1198,395,1,",80",#F5C00E,3,Pearl St @ McGrath Hwy
+1199,395,2,",88,90",#F5C00E,3,Highland Ave @ Walnut St
+1200,396,0,",Orange,Line",#ef8b22,5,Stony Brook
+1201,396,1,",42",#f2bd2a,3,Washington St
+1202,396,2,",22,29,44",#f2bd2a,7,Columbus Ave @ Dimock St
+1203,396,3,",14,41",#f2bd2a,14,Jackson Square
+1204,397,0,",Orange,Line",#ED8B32,5,Stony Brook
+1205,397,1,",14,22,29,41,44",#F1BC3D,14,Jackson Square
+1206,397,2,",42",#F1BC3D,3,Washington St & School St
+1207,398,0,",89,93,101",#F5C00E,2,Broadway @ Montgomery Ave
+1208,398,1,",80",#F5C00E,10,Medford St @ School St
+1209,398,2,",95",#F5C00E,10,Mystic Ave @ Wheatland St
+1210,399,0,",Fairmount/Franklin",#8E44AD,7,Four Corners/Geneva
+1211,399,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+1212,400,0,",E",#00843D,5,Fenwood Road
+1213,400,1,",Orange,line",#EB841E,11,Roxbury Crossing
+1214,400,2,",35,39,66",#EB841E,4,Huntington Ave opp Fenwood Rd
+1215,401,0,",Red,line",#DA1721,5,Shawmut
+1216,402,0,",Red,line",#DA1721,5,Shawmut
+1217,403,0,",Orange,Line",#EB841E,15,Assembly
+1218,403,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1219,403,2,",90",#F5C00E,10,Grand Union Blvd opp Artisan Way
+1220,404,0,",Blue,Line",#2040AA,10,Airport
+1221,404,1,",121",#F5C00E,1,Lexington St @ Marion St
+1222,404,2,",114,116,117",#F5C00E,3,Meridian St @ Lexington St
+1223,405,0,",Framingham/Worcester",#8E44AD,6,Auburndale
+1224,405,1,",D",#00843D,11,Riverside
+1225,405,2,",558",#F5C00E,11,Riverside
+1226,405,3,",MBRS",#DA1721,11,Riverside
+1227,406,0,",B",#00843D,5,Washington Street
+1228,406,1,",C",#00843D,6,Tappan Street
+1229,406,2,",D",#00843D,10,Beaconsfield
+1230,406,3,",65",#F5C00E,1,Washington St @ Corey Rd
+1231,407,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+1232,407,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+1233,407,2,",B",#018835,15,Harvard Avenue
+1234,407,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+1235,408,0,",Red,Line",#EC211F,8,Porter
+1236,408,1,",Fitchburg,Line",#B933AD,8,Porter
+1237,408,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+1238,408,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+1239,409,0,",Orange,Line",#EB841E,8,Jackson Square
+1240,409,1,",E",#00843D,9,Health Street
+1241,410,0,",E",#008345,5,Fenwood Road
+1242,410,1,",Orange,Line",#ef8b22,11,Roxbury Crossing
+1243,410,2,",35,39,66",#f2bd2a,6,Huntington Ave @ Fenwood Rd
+1244,411,0,",Orange,Line",#ef8b22,5,Roxbury Crossing
+1245,411,1,",Franklin,Providence/Stoughton,Needham",#80276c,14,Ruggles
+1246,411,2,",66",#f2bd2a,5,Tremont St @ Sewall St
+1247,411,3,",14,22,29,41,44",#f2bd2a,11,Jackson Square
+1248,412,0,",Orange,Line",#ef8b22,5,Stony Brook
+1249,412,1,",42",#f2bd2a,3,Washington St
+1250,412,2,",22,29,44",#f2bd2a,7,Columbus Ave @ Dimock St
+1251,412,3,",14,41",#f2bd2a,14,Jackson Square
+1252,413,0,",B",#00843D,5,Washington Street
+1253,413,1,",C",#00843D,6,Tappan Street
+1254,413,2,",D",#00843D,10,Beaconsfield
+1255,413,3,",65",#F5C00E,1,Washington St @ Corey Rd
+1256,414,0,",Red,Line",#EC211F,9,Shawmut
+1257,414,1,",23",#F5C00E,2,Washington St @ Park St
+1258,415,0,",Orange,Line",#FC5707,11,Roxbury Crossing
+1259,415,1,",E",#018835,11,Fenwood Road
+1260,416,0,",Blue,Line",#0E4189,11,Airport
+1261,416,1,",SL3",#808183,11,Airport
+1262,417,0,",Red,LIne",#EC211F,8,JFK / UMass
+1263,417,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+1264,417,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+1265,417,3,",8,16,41",#EB841E,8,JFK / UMass
+1266,417,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+1267,418,0,",83,91",#F5C00E,1,Prospect St
+1268,418,1,",Red,line",#DA1721,10,Central
+1269,419,0,",Blue,Line",#2040AA,2,Maverick
+1270,419,1,",114,116,117,120,121",#F5C00E,2,Maverick
+1271,420,0,",E",#00843D,5,Fenwood Road
+1272,420,1,",Orange,line",#EB841E,11,Roxbury Crossing
+1273,420,2,",35,39,66",#EB841E,4,Huntington Ave opp Fenwood Rd
+1274,421,0,",Red,Line",#EC211F,9,Shawmut
+1275,421,1,",23",#F5C00E,2,Washington St @ Park St
+1276,422,0,",Orange,Line",#EB841E,15,Assembly
+1277,422,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1278,422,2,",90",#F5C00E,10,Grand Union Blvd opp Artisan Way
+1279,423,0,",B",#00843D,5,Washington Street
+1280,423,1,",C",#00843D,6,Tappan Street
+1281,423,2,",D",#00843D,10,Beaconsfield
+1282,423,3,",65",#F5C00E,1,Washington St @ Corey Rd
+1283,424,0,",Orange,Line",#EB841E,15,Assembly
+1284,424,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1285,424,2,",90",#F5C00E,10,Grand Union Blvd opp Artisan Way
+1286,425,0,",Blue,Line",#2040AA,2,Maverick
+1287,425,1,",114,116,117,120,121",#F5C00E,2,Maverick
+1288,426,0,",Orange,Line",#FC5707,11,Roxbury Crossing
+1289,426,1,",E",#018835,11,Fenwood Road
+1290,427,0,",22,29,32,34,36",#F5C00E,1,Seaver St @ Maple Street
+1291,427,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Four Corners/Geneva
+1292,428,0,",Orange,line",#EB841E,15,Assembly
+1293,428,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1294,429,0,",E",#00843D,5,Fenwood Road
+1295,429,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1296,429,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1297,429,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1298,430,0,",Orange,Line",#ef8b22,5,Roxbury Crossing
+1299,430,1,",Franklin,Providence/Stoughton,Needham",#80276c,14,Ruggles
+1300,430,2,",66",#f2bd2a,5,Tremont St @ Sewall St
+1301,430,3,",14,22,29,41,44",#f2bd2a,11,Jackson Square
+1302,431,0,",Fairmount,Line,Franklin,Line",#8E44AD,4,Four Corners/Geneva
+1303,431,1,",16",#F5C00E,3,Columbia Rd @ Seaver St
+1304,431,2,",23",#F5C00E,4,Washington Street @ Four Corners
+1305,432,0,",Red,Line",#DA1721,6,JFK / UMass
+1306,432,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+1307,432,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+1308,432,3,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+1309,433,0,",Orange,Line",#ef8b22,5,Stony Brook
+1310,433,1,",42",#f2bd2a,3,Washington St
+1311,433,2,",22,29,44",#f2bd2a,7,Columbus Ave @ Dimock St
+1312,433,3,",14,41",#f2bd2a,14,Jackson Square
+1313,434,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+1314,434,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+1315,434,2,",B",#018835,15,Harvard Avenue
+1316,434,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+1317,435,0,",Red,Line",#EC211F,2,JFK / UMass
+1318,435,1,",Greenbush/Kingston",#8E44AD,2,JFK / UMass
+1319,435,2,",8,16,41",#F5C00E,2,JFK / UMass
+1320,435,3,",17,18",#F5C00E,3,Boston St @ Mayhew St
+1321,436,0,",15,17",#F5C00E,3,Bowdoin St @ Norton St
+1322,436,1,",Fairmount,Line,Franklin,Line",#8E44AD,9,Four Corners/Geneva
+1323,437,0,",Red,Line",#EC211F,8,Porter
+1324,437,1,",Fitchburg,Line",#B933AD,8,Porter
+1325,437,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+1326,437,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+1327,438,0,",Red,Line",#EC211F,8,Porter
+1328,438,1,",Fitchburg,Line",#B933AD,8,Porter
+1329,438,2,",88,89",#F5C00E,2,Highland Ave @ Willow Ave
+1330,438,3,",87,88,89,90,94,96",#F5C00E,10,Davis
+1331,439,0,",Orange,Line",#ef8b22,5,Roxbury Crossing
+1332,439,1,",Franklin,Providence/Stoughton,Needham",#80276c,14,Ruggles
+1333,439,2,",66",#f2bd2a,5,Tremont St @ Sewall St
+1334,439,3,",14,22,29,41,44",#f2bd2a,11,Jackson Square
+1335,440,0,",Orange,Line",#FC5707,11,Roxbury Crossing
+1336,440,1,",E",#018835,11,Fenwood Road
+1337,441,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1338,441,1,",E",#018835,9,Brigham Circle
+1339,441,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1340,442,0,",89,93,101",#F5C00E,2,Broadway @ Montgomery Ave
+1341,442,1,",80",#F5C00E,10,Medford St @ School St
+1342,442,2,",95",#F5C00E,10,Mystic Ave @ Wheatland St
+1343,443,0,",Red,line",#DA1721,5,Shawmut
+1344,444,0,",E",#008345,5,Fenwood Road
+1345,444,1,",Orange,Line",#ef8b22,11,Roxbury Crossing
+1346,444,2,",35,39,66",#f2bd2a,6,Huntington Ave @ Fenwood Rd
+1347,445,0,",Fairmount/Franklin",#8E44AD,7,Four Corners/Geneva
+1348,445,1,",14,22,28,29,45",#F5C00E,3,Blue Hill Ave opp McLellan St
+1349,446,0,",E",#00843D,5,Fenwood Road
+1350,446,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+1351,446,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+1352,447,0,",E",#018835,6,Fenwood Road
+1353,447,1,",Orange,Line",#E37A38,11,Roxbury Crossing
+1354,447,2,",Franklin/Foxboro/Needham",#8E44AD,15,Ruggles
+1355,447,3,",Providence/Stoughton,Line",#8E44AD,15,Ruggles
+1356,447,4,",D",#00843D,15,Brookline Village
+1357,448,0,",Red,Line",#EC211F,9,Andrew
+1358,448,1,",9,10,16",#F5C00E,9,Andrew
+1359,448,2,",16,17",#F5C00E,2,Boston St @ W Howell St
+1360,449,0,",Blue,Line",#2040AA,10,Airport
+1361,449,1,",121",#F5C00E,1,Lexington St @ Marion St
+1362,449,2,",114,116,117",#F5C00E,3,Meridian St @ Lexington St
+1363,450,0,",4",#F5C00E,1,Commercial St & Hanover St
+1364,450,1,",Orange,Line",#EB841E,10,Haymarket
+1365,450,2,",B,C,D,E",#00843D,10,Haymarket
+1366,450,3,",Downeaster",#0099CC,15,North Station
+1367,450,4,",Fitchburg,Line,Haverhill,Line",#8E44AD,15,North Station
+1368,451,0,",80",#F5C00E,1,Medford St @ Glenwood Rd
+1369,451,1,",89,89/93",#F5C00E,5,Broadway @ Medford St - Magoun Sq
+1370,451,2,",101",#F5C00E,10,Main St @ Broadway
+1371,452,0,",Orange,Line",#ef8b22,5,Roxbury Crossing
+1372,452,1,",Franklin,Providence/Stoughton,Needham",#80276c,14,Ruggles
+1373,452,2,",66",#f2bd2a,5,Tremont St @ Sewall St
+1374,452,3,",14,22,29,41,44",#f2bd2a,11,Jackson Square
+1375,453,0,",Framingham/Worcester",#8E44AD,6,Auburndale
+1376,453,1,",D",#00843D,11,Riverside
+1377,453,2,",558",#F5C00E,11,Riverside
+1378,453,3,",MBRS",#DA1721,11,Riverside
+1379,454,0,",E",#008345,5,Fenwood Road
+1380,454,1,",Orange,Line",#ef8b22,11,Roxbury Crossing
+1381,454,2,",35,39,66",#f2bd2a,6,Huntington Ave @ Fenwood Rd
+1382,455,0,",22,29,32,34,36",#F5C00E,1,Seaver St @ Maple Street
+1383,455,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Four Corners/Geneva
+1384,456,0,",C",#008345,3,Washington Square
+1385,456,1,",B",#008345,14,Washington Street
+1386,456,2,",D",#008345,14,Beaconsfield
+1387,456,3,",65",#f2bd2a,2,Washington Square
+1388,457,0,",89,91",#F5C00E,2,Washington St @ Boston St
+1389,457,1,",87",#F5C00E,3,Somerville Ave @ Linden St
+1390,457,2,",86,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+1391,457,3,",D,E",#018835,7,Union Square
+1392,458,0,",Orange,Line",#EB841E,8,Stony Brook
+1393,458,1,",42",#F5C00E,1,Washington St @ School St
+1394,458,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+1395,459,0,",D,E",#018835,15,Union Square
+1396,459,1,",80",#F5C00E,3,Pearl St @ McGrath Hwy
+1397,459,2,",88,90",#F5C00E,3,Highland Ave @ Walnut St
+1398,460,0,",Orange",#FC5707,8,Stony Brook
+1399,460,1,",42",#F5C00E,1,Washington St @ School St
+1400,460,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+1401,461,0,",Red,line",#DA1721,5,Shawmut
+1402,462,0,",Orange",#FC5707,8,Stony Brook
+1403,462,1,",42",#F5C00E,1,Washington St @ School St
+1404,462,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+1405,463,0,",Blue,Line",#0E4189,11,Airport
+1406,463,1,",SL3",#808183,11,Airport
+1407,464,0,",22,29,44",#F5C00E,4,Columbus Ave @ Walnut Ave
+1408,465,0,",Orange,Line",#FC5707,11,Roxbury Crossing
+1409,465,1,",E",#018835,11,Fenwood Road
+1410,466,0,",Orange,line",#EB841E,15,Assembly
+1411,466,1,",95",#F5C00E,5,Mystic Ave @ Temple Rd
+1412,467,0,",C",#008345,3,Washington Square
+1413,467,1,",B",#008345,14,Washington Street
+1414,467,2,",D",#008345,14,Beaconsfield
+1415,467,3,",65",#f2bd2a,2,Washington Square
+1416,468,0,",C",#008345,3,Washington Square
+1417,468,1,",B",#008345,14,Washington Street
+1418,468,2,",D",#008345,14,Beaconsfield
+1419,468,3,",65",#f2bd2a,2,Washington Square
+1420,469,0,",B",#108248,2,Griggs Street
+1421,469,1,",Green,Line,B,Shuttle",#F1BC3D,2,Griggs Street
+1422,470,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1423,470,1,",E",#018835,9,Brigham Circle
+1424,470,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1425,471,0,",22,29,44",#F5C00E,4,Columbus Ave @ Walnut Ave
+1426,472,0,",E",#00843D,5,Fenwood Road
+1427,472,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1428,472,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1429,472,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1430,473,0,",C",#018835,2,Englewood Avenue
+1431,473,1,",D",#018835,7,Reservoir
+1432,473,2,",B",#018835,12,Chiswick Road
+1433,473,3,",51,89,Green,Line,D,Shuttle",#F5C00E,7,Reservoir
+1434,474,0,",Orange,line",#EB841E,5,Tufts Medical Center
+1435,474,1,",Red,line",#8E44AD,12,South Station
+1436,474,2,",Franklin/Framingham/Worcester",#8E44AD,12,South Station
+1437,474,3,",Needham/Greenbush/Kingston",#8E44AD,12,South Station
+1438,475,0,",Orange,Line",#ed8b00,10,Ruggles
+1439,475,1,",Franklin/Needham,Line",#80276c,10,Ruggles
+1440,475,2,",8,9,15,19,22,23",#f2bd2a,10,Ruggles
+1441,475,3,",43",#f2bd2a,2,Tremont St @ Hammond St
+1442,475,4,",Providence/Stoughton,Line",#80276c,10,Ruggles
+1443,476,0,",Orange",#FC5707,8,Stony Brook
+1444,476,1,",42",#F5C00E,1,Washington St @ School St
+1445,476,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+1446,477,0,",Orange,Line",#EB841E,10,Massachusetts Ave
+1447,477,1,",Needham/Franklin",#8E44AD,11,Ruggles
+1448,477,2,",E",#018835,12,Symphony
+1449,477,3,",43",#F5C00E,1,Tremont St @ Hammond St
+1450,477,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+1451,478,0,",Red,Line",#DA1721,6,Central
+1452,478,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+1453,478,2,",68",#f2bd2a,3,Broadway @ Inman St
+1454,479,0,",Orange,Line",#EB841E,8,Stony Brook
+1455,479,1,",42",#F5C00E,1,Washington St @ School St
+1456,479,2,",22,29,44",#F5C00E,2,Columbus Ave @ Weld Ave
+1457,480,0,",Orange,Line",#FC5707,11,Ruggles
+1458,480,1,",E",#018835,12,Symphony station
+1459,480,2,",Needham/Franklin",#8E44AD,11,Ruggles
+1460,480,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+1461,481,0,",64,66,501",#F5C00E,1,Cambridge Street
+1462,481,1,",B",#018835,8,Harvard Avenue
+1463,482,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1464,482,1,",E",#018835,9,Fenwood Road
+1465,482,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1466,483,0,",C",#018835,2,Englewood Avenue
+1467,483,1,",D",#018835,7,Reservoir
+1468,483,2,",B",#018835,12,Chiswick Road
+1469,483,3,",51,89,Green,Line,D,Shuttle",#F5C00E,7,Reservoir
+1470,484,0,",C",#018835,2,Englewood Avenue
+1471,484,1,",D",#018835,7,Reservoir
+1472,484,2,",B",#018835,12,Chiswick Road
+1473,484,3,",51,89,Green,Line,D,Shuttle",#F5C00E,7,Reservoir
+1474,485,0,",B",#00843D,8,Harvard Avenue
+1475,485,1,",Framingham",#8E44AD,13,Boston Landing
+1476,486,0,",52,57,501,553",#f2bd2a,1,Washington St @ Bacon St
+1477,486,1,",OurBus",#4caf50,1,Newton
+1478,487,0,",Orange,Line",#ED8B32,5,Stony Brook
+1479,487,1,",14,22,29,41,44",#F1BC3D,14,Jackson Square
+1480,487,2,",42",#F1BC3D,3,Washington St & School St
+1481,488,0,",52,57,501,553",#F5C00E,1,Washington St @ Bacon St
+1482,489,0,",Orange,Line",#FC5707,11,Ruggles
+1483,489,1,",E",#018835,12,Symphony station
+1484,489,2,",Needham/Franklin",#8E44AD,11,Ruggles
+1485,489,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+1486,490,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1487,490,1,",E",#018835,9,Fenwood Road
+1488,490,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1489,491,0,",Framingham/Worcester",#8E44AD,6,Auburndale
+1490,491,1,",D",#00843D,11,Riverside
+1491,491,2,",558",#F5C00E,11,Riverside
+1492,491,3,",MBRS",#DA1721,11,Riverside
+1493,492,0,",Orange,line",#ef8b22,9,Stony Brook
+1494,492,1,",22,29,44",#f2bd2a,2,Columbus Ave @ Weld Ave
+1495,492,2,",14,41",#f2bd2a,14,Jackson Square
+1496,493,0,",Red,Line",#DA1721,6,JFK / UMass
+1497,493,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+1498,493,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+1499,493,3,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+1500,494,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1501,494,1,",E",#018835,9,Brigham Circle
+1502,494,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1503,495,0,",Orange,Line",#EB841E,11,Ruggles
+1504,495,1,",E",#00843D,12,Symphony
+1505,495,2,",Franklin/Needham",#8E44AD,11,Ruggles
+1506,495,3,",PROVIDENCE/STOUGHTON",#8E44AD,11,Ruggles
+1507,496,0,",22,29,32,34,36",#F5C00E,1,Seaver St @ Maple Street
+1508,496,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Four Corners/Geneva
+1509,497,0,",E",#00843D,4,Symphony
+1510,497,1,",Orange,Line",#EB841E,7,Massachusetts Ave
+1511,497,2,",D,B,C",#00843D,10,Hynes Convention Center Station
+1512,497,3,",Franklin,Needham,Providence/Stoughton",#8E44AD,12,Ruggles
+1513,498,0,",83,91",#F5C00E,1,Prospect St
+1514,498,1,",Red,line",#DA1721,10,Central
+1515,499,0,",Orange,Line",#EB841E,7,Roxbury Crossing
+1516,499,1,",E",#00843D,10,Brigham Circle
+1517,499,2,",19,66",#F5C00E,7,Tremont St @ Tobin Community Center
+1518,499,3,",22,29",#F5C00E,7,Columbus Ave @ New Cedar St
+1519,500,0,",Orange,Line",#EB841E,10,Ruggles
+1520,500,1,",E",#018835,12,Symphony
+1521,500,2,",Needham/Franklin",#8E44AD,11,Ruggles
+1522,500,3,",43",#F5C00E,1,Tremont St @ Hammond St
+1523,500,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+1524,501,0,",B",#018835,14,Warren Street
+1525,501,1,",51,57,66",#F5C00E,5,Market St @ Keenan Rd
+1526,501,2,",86",#F5C00E,6,Cambridge St @ Dustin St
+1527,502,0,",22,29,32,34,36",#F5C00E,1,Seaver St @ Maple Street
+1528,502,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Four Corners/Geneva
+1529,503,0,",E",#00843D,5,Fenwood Road
+1530,503,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1531,503,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1532,503,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1533,504,0,",E",#00843D,4,Symphony
+1534,504,1,",Orange,Line",#EB841E,7,Massachusetts Ave
+1535,504,2,",D,B,C",#00843D,10,Hynes Convention Center Station
+1536,504,3,",Franklin,Needham,Providence/Stoughton",#8E44AD,12,Ruggles
+1537,505,0,",Red,Line",#e02826,5,JFK / UMass
+1538,505,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+1539,505,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+1540,505,3,",8,41,16",#f2bd2a,5,JFK / UMass
+1541,506,0,",Red,LIne",#8E44AD,8,JFK / UMass
+1542,506,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+1543,506,2,",Middleborough/Lakeville",#EC211F,8,JFK / UMass
+1544,506,3,",8,16,41",#EB841E,8,JFK / UMass
+1545,506,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+1546,507,0,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+1547,507,1,",64,66,501",#F5C00E,1,Cambridge St @ Linden St
+1548,507,2,",57",#F5C00E,4,Brighton Ave @ Linden St
+1549,508,0,",Red,Line",#DA1721,6,Central
+1550,509,0,",52,57,501,553",#f2bd2a,1,Washington St @ Bacon St
+1551,509,1,",OurBus",#4caf50,1,Newton
+1552,510,0,",E",#00843d,5,Longwood Medical Area
+1553,510,1,",Orange,Line",#ed8b00,9,Roxbury Crossing
+1554,510,2,",Franklin/Needham/Providence",#80276c,15,Ruggles
+1555,510,3,",39",#f2bd2a,3,Huntington Ave @ Wigglesworth St
+1556,511,0,",E",#00843D,5,Fenwood Road
+1557,511,1,",Orange,line",#EB841E,11,Roxbury Crossing
+1558,511,2,",35,39,66",#EB841E,4,Huntington Ave opp Fenwood Rd
+1559,512,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+1560,512,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+1561,513,0,",15,17",#F5C00E,3,Bowdoin St @ Norton St
+1562,513,1,",Fairmount,Line,Franklin,Line",#8E44AD,9,Four Corners/Geneva
+1563,514,0,",Orange,Line",#ed8b00,10,Ruggles
+1564,514,1,",Franklin/Needham,Line",#80276c,10,Ruggles
+1565,514,2,",8,9,15,19,22,23",#f2bd2a,10,Ruggles
+1566,514,3,",43",#f2bd2a,2,Tremont St @ Hammond St
+1567,514,4,",Providence/Stoughton,Line",#80276c,10,Ruggles
+1568,515,0,",52,57,501,553",#F5C00E,1,Washington St @ Bacon St
+1569,516,0,",B",#00843D,8,Harvard Avenue
+1570,516,1,",Framingham/Worcester",#8E44AD,12,Boston Landing
+1571,516,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+1572,517,0,",Orange,Line",#ed8b00,10,Ruggles
+1573,517,1,",Franklin/Needham,Line",#80276c,10,Ruggles
+1574,517,2,",8,9,15,19,22,23",#f2bd2a,10,Ruggles
+1575,517,3,",43",#f2bd2a,2,Tremont St @ Hammond St
+1576,517,4,",Providence/Stoughton,Line",#80276c,10,Ruggles
+1577,518,0,",Red,Line",#DA1721,3,JFK / UMass
+1578,518,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+1579,518,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+1580,519,0,",Red,line",#EC211F,4,JFK / UMass
+1581,519,1,",Greenbush/Kingston",#B933AD,4,JFK / UMass
+1582,519,2,",Middleborough/Lakeville",#B933AD,4,JFK / UMass
+1583,519,3,",8,16,41",#F5C00E,4,JFK / UMass
+1584,520,0,",C",#018835,2,Englewood Avenue
+1585,520,1,",D",#018835,7,Reservoir
+1586,520,2,",B",#018835,12,Chiswick Road
+1587,520,3,",51,89,Green,Line,D,Shuttle",#F5C00E,7,Reservoir
+1588,521,0,",B",#00843D,7,Allston Street
+1589,521,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+1590,521,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+1591,522,0,",E",#018835,6,Fenwood Road
+1592,522,1,",Orange,Line",#E37A38,11,Roxbury Crossing
+1593,522,2,",Franklin/Foxboro/Needham",#8E44AD,15,Ruggles
+1594,522,3,",Providence/Stoughton,Line",#8E44AD,15,Ruggles
+1595,522,4,",D",#00843D,15,Brookline Village
+1596,523,0,",Orange,Line",#ED8B32,5,Stony Brook
+1597,523,1,",14,22,29,41,44",#F1BC3D,14,Jackson Square
+1598,523,2,",42",#F1BC3D,3,Washington St & School St
+1599,524,0,",Red",#DA1721,7,JFK / UMas
+1600,524,1,",Greenbush,Line,Kingston,Line",#8E44AD,7,JFK / UMas
+1601,524,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMas
+1602,525,0,",Red,Line",#DA1721,6,JFK / UMass
+1603,525,1,",Middleborough/Lakeville,Line",#8E44AD,6,JFK / UMass
+1604,525,2,",Greenbush,Line",#8E44AD,6,JFK / UMass
+1605,525,3,",Kingston,Line",#8E44AD,6,JFK / UMass
+1606,525,4,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+1607,526,0,",D,E",#018835,7,Union Square
+1608,526,1,",87",#F5C00E,2,Somerville Ave @ Merriam St
+1609,526,2,",86,91,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+1610,527,0,",Red,Line",#EC211F,6,JFK/UMass
+1611,527,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK/UMass
+1612,527,2,",Fairmount,Line,Franklin/Foxboro,Line",#8E44AD,15,Newmarket
+1613,527,3,",8,16,41",#F5C00E,6,JFK/UMass
+1614,528,0,",Red,line",#EC211F,3,JFK / UMass
+1615,528,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1616,528,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1617,528,3,",8,16,41",#F5C00E,3,JFK / UMass
+1618,529,0,",Red,LIne",#8E44AD,8,JFK / UMass
+1619,529,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+1620,529,2,",Middleborough/Lakeville",#EC211F,8,JFK / UMass
+1621,529,3,",8,16,41",#EB841E,8,JFK / UMass
+1622,529,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+1623,530,0,",Red,LIne",#EC211F,8,JFK / UMass
+1624,530,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+1625,530,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+1626,530,3,",8,16,41",#EB841E,8,JFK / UMass
+1627,530,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+1628,531,0,",22,29,32,34,36",#F5C00E,3,Seaver St Opp Maple Street
+1629,531,1,",Fairmount,Line,Franklin,Line",#8E44AD,11,Four Corners/Geneva
+1630,532,0,",Red,Line",#DA1721,9,JFK/UMass
+1631,532,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+1632,532,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+1633,532,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+1634,532,4,",8,16,41",#EB841E,9,JFK/UMass
+1635,533,0,",Red,Line",#DA1721,10,JFK / UMass
+1636,533,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+1637,533,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+1638,533,3,",8,16,41",#EB841E,10,JFK / UMass
+1639,534,0,",Red,line",#DA1721,5,Shawmut
+1640,535,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1641,535,1,",E",#018835,9,Brigham Circle
+1642,535,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1643,536,0,",Orange,Line",#EB841E,7,Roxbury Crossing
+1644,536,1,",E",#00843D,10,Brigham Circle
+1645,536,2,",19,66",#F5C00E,7,Tremont St @ Tobin Community Center
+1646,536,3,",22,29",#F5C00E,7,Columbus Ave @ New Cedar St
+1647,537,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+1648,537,1,",42",#F5C00E,4,Washington St @ Guild St
+1649,537,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+1650,538,0,",89,89/93,101",#F5C00E,1,Broadway @ Main St
+1651,539,0,",E",#00843D,5,Fenwood Road
+1652,539,1,",Orange,line",#EB841E,11,Roxbury Crossing
+1653,539,2,",35,39,66",#EB841E,4,Huntington Ave opp Fenwood Rd
+1654,540,0,",B",#018835,5,Chiswick Road
+1655,540,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+1656,541,0,",B",#00843D,8,Harvard Avenue
+1657,541,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+1658,541,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+1659,542,0,",Orange,Line",#FC5707,8,Roxbury Crossing
+1660,542,1,",E",#018835,9,Fenwood Road
+1661,542,2,",14,22,29,41,44",#F5C00E,13,Jackson Square
+1662,543,0,",E",#00843D,4,Symphony
+1663,543,1,",Orange,Line",#EB841E,7,Massachusetts Ave
+1664,543,2,",D,B,C",#00843D,10,Hynes Convention Center Station
+1665,543,3,",Franklin,Needham,Providence/Stoughton",#8E44AD,12,Ruggles
+1666,544,0,",Red,line",#EC211F,4,JFK / UMass
+1667,544,1,",Greenbush/Kingston",#B933AD,4,JFK / UMass
+1668,544,2,",Middleborough/Lakeville",#B933AD,4,JFK / UMass
+1669,544,3,",8,16,41",#F5C00E,4,JFK / UMass
+1670,545,0,",Red,Line",#EC211F,9,Andrew
+1671,545,1,",9,10,16",#F5C00E,9,Andrew
+1672,545,2,",16,17",#F5C00E,2,Boston St @ W Howell St
+1673,546,0,",Red,Line",#EC211F,2,JFK / UMass
+1674,546,1,",Greenbush/Kingston",#8E44AD,2,JFK / UMass
+1675,546,2,",8,16,41",#F5C00E,2,JFK / UMass
+1676,546,3,",17,18",#F5C00E,3,Boston St @ Mayhew St
+1677,547,0,",Orange,Line",#EB841E,11,Ruggles
+1678,547,1,",E",#00843D,12,Symphony
+1679,547,2,",Franklin/Needham",#8E44AD,11,Ruggles
+1680,547,3,",PROVIDENCE/STOUGHTON",#8E44AD,11,Ruggles
+1681,548,0,",Orange,Line",#EB841E,10,Massachusetts Ave
+1682,548,1,",Needham/Franklin",#8E44AD,11,Ruggles
+1683,548,2,",E",#018835,12,Symphony
+1684,548,3,",43",#F5C00E,1,Tremont St @ Hammond St
+1685,548,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+1686,549,0,",B",#018835,3,Packards Corner
+1687,549,1,",57",#FC5707,3,Kenmore Station
+1688,550,0,",Red,Line",#DA1721,10,Savin Hill
+1689,550,1,",18",#F5C00E,2,Dorchester Ave@ Belford Str
+1690,550,2,",15",#F5C00E,10,Columbia Rd @Buttonwood Str
+1691,551,0,",Red,Line",#DA1721,6,Central
+1692,551,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+1693,551,2,",68",#f2bd2a,3,Broadway @ Inman St
+1694,552,0,",Red,Line",#DA1721,6,Central
+1695,553,0,",Red,Line",#DA1721,6,Central
+1696,553,1,",68",#F5C00E,2,Broadway @ Inman St
+1697,553,2,",64,83,91",#F5C00E,1,Prospect St @ Harvard St
+1698,554,0,",68",#f2bd2a,3,Broadway @ Inman St
+1699,554,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+1700,554,2,",Red,Line",#DA1721,6,Central
+1701,555,0,",68",#f2bd2a,3,Broadway @ Inman St
+1702,555,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+1703,555,2,",Red,Line",#DA1721,6,Central
+1704,556,0,",E",#00843D,5,Fenwood Road
+1705,556,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1706,556,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1707,556,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1708,557,0,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+1709,557,1,",Red,Line",#DA1721,1,JFK / UMass
+1710,557,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+1711,557,3,",8,16,41",#EB841E,1,JFK / UMass
+1712,558,0,",Red,Line",#DA1721,6,JFK / UMass
+1713,558,1,",Middleborough/Lakeville,Line",#8E44AD,6,JFK / UMass
+1714,558,2,",Greenbush,Line",#8E44AD,6,JFK / UMass
+1715,558,3,",Kingston,Line",#8E44AD,6,JFK / UMass
+1716,558,4,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+1717,559,0,",Red,line",#EC211F,3,JFK / UMass
+1718,559,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1719,559,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1720,559,3,",8,16,41",#F5C00E,3,JFK / UMass
+1721,560,0,",Red,line",#EC211F,3,JFK / UMass
+1722,560,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1723,560,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1724,560,3,",8,16,41",#F5C00E,3,JFK / UMass
+1725,561,0,",Red,Line",#DA1721,9,Andrew
+1726,561,1,",Fairmount/Franklin",#8E44AD,12,Newmarket
+1727,561,2,",Greenbush/Kingston",#8E44AD,13,JFK / UMass
+1728,561,3,",Middleborough/Lakeville",#8E44AD,13,JFK / UMass
+1729,561,4,",8,41",#F5C00E,13,JFK / UMass
+1730,562,0,",Orange,line",#EB841E,5,Tufts Medical Center
+1731,562,1,",Red,line",#8E44AD,12,South Station
+1732,562,2,",Franklin/Framingham/Worcester",#8E44AD,12,South Station
+1733,562,3,",Needham/Greenbush/Kingston",#8E44AD,12,South Station
+1734,563,0,",B",#00843D,10,Warren Street
+1735,563,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+1736,563,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+1737,564,0,",D,E",#00843D,11,Union Square
+1738,564,1,",Orange,Line",#F5C00E,15,Sullivan Square
+1739,564,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+1740,565,0,",E",#00843D,5,Fenwood Road
+1741,565,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1742,565,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1743,565,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1744,566,0,",Red,line",#EC211F,3,JFK / UMass
+1745,566,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1746,566,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1747,566,3,",8,16,41",#F5C00E,3,JFK / UMass
+1748,567,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+1749,567,1,",42",#F5C00E,4,Washington St @ Guild St
+1750,567,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+1751,568,0,",Red,line",#EC211F,1,JFK / UMass
+1752,568,1,",Greenbush/Kingston",#B933AD,1,JFK / UMass
+1753,568,2,",Middleborough/Lakeville",#B933AD,1,JFK / UMass
+1754,568,3,",8,16,41",#F5C00E,1,JFK / UMass
+1755,569,0,",Red,line",#EC211F,1,JFK / UMass
+1756,569,1,",Greenbush/Kingston",#B933AD,1,JFK / UMass
+1757,569,2,",Middleborough/Lakeville",#B933AD,1,JFK / UMass
+1758,569,3,",8,16,41",#F5C00E,1,JFK / UMass
+1759,570,0,",Green,line,D,Shuttle",#00843D,12,Waban
+1760,570,1,",D",#00843D,13,Waban
+1761,571,0,",Orange,Line",#EB841E,10,Ruggles
+1762,571,1,",E",#018835,12,Symphony
+1763,571,2,",Needham/Franklin",#8E44AD,11,Ruggles
+1764,571,3,",43",#F5C00E,1,Tremont St @ Hammond St
+1765,571,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+1766,572,0,",B",#00843D,3,Harvard Avenue
+1767,573,0,",B",#00843D,8,Harvard Avenue
+1768,573,1,",Framingham/Worcester",#8E44AD,12,Boston Landing
+1769,573,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+1770,574,0,",B",#018835,3,Packards Corner
+1771,574,1,",57",#FC5707,3,Kenmore Station
+1772,575,0,",E",#00843D,5,Fenwood Road
+1773,575,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1774,575,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1775,575,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1776,576,0,",B",#00843D,13,Harvard Avenue
+1777,576,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+1778,576,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+1779,577,0,",Green,line,D,Shuttle",#00843D,12,Waban
+1780,577,1,",D",#00843D,13,Waban
+1781,578,0,",B",#00843D,10,Warren Street
+1782,578,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+1783,578,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+1784,579,0,",Orange,Line",#FC5707,11,Ruggles
+1785,579,1,",E",#018835,12,Symphony station
+1786,579,2,",Needham/Franklin",#8E44AD,11,Ruggles
+1787,579,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+1788,580,0,",C",#008345,3,Washington Square
+1789,580,1,",B",#008345,14,Washington Street
+1790,580,2,",D",#008345,14,Beaconsfield
+1791,580,3,",65",#f2bd2a,2,Washington Square
+1792,581,0,",68",#f2bd2a,3,Broadway @ Inman St
+1793,581,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+1794,581,2,",Red,Line",#DA1721,6,Central
+1795,582,0,",Red,Line",#DA1721,8,Andrew
+1796,582,1,",Fairmount,Franklin",#8E44AD,11,Newmarket
+1797,582,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+1798,582,3,",8,41,16",#F5C00E,14,JFK / UMass
+1799,582,4,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+1800,583,0,",E",#00933C,6,Fenwood Road
+1801,583,1,",Orange,Line",#EB841E,11,Roxbury Crossing
+1802,584,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+1803,584,1,",42",#F5C00E,4,Washington St @ Guild St
+1804,584,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+1805,585,0,",Red,Line",#EC211F,2,JFK / UMass
+1806,585,1,",Greenbush/Kingston",#8E44AD,2,JFK / UMass
+1807,585,2,",8,16,41",#F5C00E,2,JFK / UMass
+1808,585,3,",17,18",#F5C00E,3,Boston St @ Mayhew St
+1809,586,0,",B",#00843D,2,Chiswick Road
+1810,586,1,",C",#00843D,10,Cleveland Circle
+1811,586,2,",D",#00843D,12,Reservoir
+1812,586,3,",Green,Line",#F5C00E,12,Reservoir
+1813,586,4,",51,86",#F5C00E,3,Chestnut Hill Ave @ Embassy Rd
+1814,587,0,",Red,Line",#DA1721,6,JFK / UMass
+1815,587,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK / UMass
+1816,587,2,",Fairmount,Line,Franklin,Line",#8E44AD,15,Uphams Corner
+1817,587,3,",8,16,41",#F5C00E,6,JFK / UMass
+1818,588,0,",Red,Line",#DA1721,9,Andrew
+1819,588,1,",Fairmount/Franklin",#8E44AD,12,Newmarket
+1820,588,2,",Greenbush/Kingston",#8E44AD,13,JFK / UMass
+1821,588,3,",Middleborough/Lakeville",#8E44AD,13,JFK / UMass
+1822,588,4,",8,41",#F5C00E,13,JFK / UMass
+1823,589,0,",Red,Line",#DA1721,8,Andrew
+1824,589,1,",Fairmount,Franklin",#8E44AD,11,Newmarket
+1825,589,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+1826,589,3,",8,41,16",#F5C00E,14,JFK / UMass
+1827,589,4,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+1828,590,0,",E",#00843D,5,Fenwood Road
+1829,590,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+1830,590,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+1831,590,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+1832,591,0,",Red,Line",#DA1721,10,JFK / UMass
+1833,591,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+1834,591,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+1835,591,3,",8,16,41",#EB841E,10,JFK / UMass
+1836,592,0,",Red,Line",#DA1721,1,JFK / UMass
+1837,592,1,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+1838,592,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+1839,592,3,",8,16,41",#EB841E,1,JFK / UMass
+1840,593,0,",Red,Line",#DA1721,3,JFK / UMass
+1841,593,1,",Greenbush/Kingston",#B933AD,3,JFK / UMass
+1842,593,2,",Lakeville,Line",#B933AD,3,JFK / UMass
+1843,594,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+1844,594,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+1845,595,0,",Orange,Line",#EB841E,7,Roxbury Crossing
+1846,595,1,",E",#00843D,10,Brigham Circle
+1847,595,2,",19,66",#F5C00E,7,Tremont St @ Tobin Community Center
+1848,595,3,",22,29",#F5C00E,7,Columbus Ave @ New Cedar St
+1849,596,0,",Red,Line",#EC211F,6,JFK/UMass
+1850,596,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK/UMass
+1851,596,2,",Fairmount,Line,Franklin/Foxboro,Line",#8E44AD,15,Newmarket
+1852,596,3,",8,16,41",#F5C00E,6,JFK/UMass
+1853,597,0,",Red,line",#EC211F,3,JFK / UMass
+1854,597,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1855,597,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1856,597,3,",8,16,41",#F5C00E,3,JFK / UMass
+1857,598,0,",B",#018835,5,Chiswick Road
+1858,598,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+1859,599,0,",Red,line",#EC211F,4,JFK / UMass
+1860,599,1,",Greenbush/Kingston",#B933AD,4,JFK / UMass
+1861,599,2,",Middleborough/Lakeville",#B933AD,4,JFK / UMass
+1862,599,3,",8,16,41",#F5C00E,4,JFK / UMass
+1863,600,0,",Red,Line",#DA1721,6,JFK / UMass
+1864,600,1,",Greenbush,Line,Kingston,Line",#8E44AD,6,JFK / UMass
+1865,600,2,",Fairmount,Line,Franklin,Line",#8E44AD,15,Uphams Corner
+1866,600,3,",8,16,41",#F5C00E,6,JFK / UMass
+1867,601,0,",Red",#DA1721,8,JFK / UMass
+1868,601,1,",Greenbush,Kingston",#8E44AD,8,JFK / UMass
+1869,601,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+1870,602,0,",4",#F5C00E,1,Commercial St & Hanover St
+1871,602,1,",Orange,Line",#EB841E,10,Haymarket
+1872,602,2,",B,C,D,E",#00843D,10,Haymarket
+1873,602,3,",Downeaster",#0099CC,15,North Station
+1874,602,4,",Fitchburg,Line,Haverhill,Line",#8E44AD,15,North Station
+1875,603,0,",64",#EB841E,6,Faneuil St @ Oak Square
+1876,603,1,",57",#EB841E,6,Tremont St @ Washington St
+1877,603,2,",501",#EB841E,8,Tremont St opp Tremont Pl
+1878,604,0,",Red,Line",#e02826,5,JFK / UMass
+1879,604,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+1880,604,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+1881,604,3,",8,41,16",#f2bd2a,5,JFK / UMass
+1882,605,0,",B",#00843D,16,Boston College
+1883,606,0,",Orange,line",#EB841E,8,Ruggles
+1884,606,1,",8,19,47",#EB841E,1,Melnea Cass Blvd opp Kerr Way
+1885,607,0,",Red,Line",#DA1721,9,Harvard
+1886,607,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+1887,608,0,",Red,Line",#DA1721,9,Andrew
+1888,608,1,",Fairmount/Franklin",#8E44AD,12,Newmarket
+1889,608,2,",Greenbush/Kingston",#8E44AD,13,JFK / UMass
+1890,608,3,",Middleborough/Lakeville",#8E44AD,13,JFK / UMass
+1891,608,4,",8,41",#F5C00E,13,JFK / UMass
+1892,609,0,",Red,Line",#DA1721,9,JFK/UMass
+1893,609,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+1894,609,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+1895,609,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+1896,609,4,",8,16,41",#EB841E,9,JFK/UMass
+1897,610,0,",E",#00843D,5,Fenwood Road
+1898,610,1,",Orange,Line",#EB841E,10,Roxbury Crossing
+1899,610,2,",35,39,66",#F5C00E,4,Huntington Ave opp Fenwood Rd
+1900,611,0,",Framingham/Worcester,Line",#8E44AD,10,Boston Landing
+1901,611,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+1902,611,2,",64",#F5C00E,10,Market St @ Guest St
+1903,612,0,",Red,line",#EC211F,3,JFK / UMass
+1904,612,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1905,612,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1906,612,3,",8,16,41",#F5C00E,3,JFK / UMass
+1907,613,0,",Red,line",#EC211F,3,JFK / UMass
+1908,613,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+1909,613,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+1910,613,3,",8,16,41",#F5C00E,3,JFK / UMass
+1911,614,0,",Fitchburg,Line",#7F2A6B,10,Porter
+1912,614,1,",Red,Line",#DA1721,10,Porter
+1913,614,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+1914,615,0,",B",#00843D,5,Sutherland Road
+1915,615,1,",C",#00843D,5,Dean Road
+1916,616,0,",Red,Line",#DA1721,6,JFK / UMass
+1917,616,1,",Middleborough/Lakeville,Line",#8E44AD,6,JFK / UMass
+1918,616,2,",Greenbush,Line",#8E44AD,6,JFK / UMass
+1919,616,3,",Kingston,Line",#8E44AD,6,JFK / UMass
+1920,616,4,",18",#F5C00E,2,Dorchester Ave @ Edison Green
+1921,617,0,",D",#00843D,7,Fenway Station
+1922,617,1,",55",#F5C00E,2,Kilmarnock St @ Queensberry St
+1923,617,2,",8,19,60,65",#F5C00E,3,Brookline Ave @ Boylston St
+1924,618,0,",E",#00843d,5,Longwood Medical Area
+1925,618,1,",Orange,Line",#ed8b00,9,Roxbury Crossing
+1926,618,2,",Franklin/Needham/Providence",#80276c,15,Ruggles
+1927,618,3,",39",#f2bd2a,3,Huntington Ave @ Wigglesworth St
+1928,619,0,",Red,Line",#DA1721,10,JFK / UMass
+1929,619,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+1930,619,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+1931,619,3,",8,16,41",#EB841E,10,JFK / UMass
+1932,620,0,",Red,Line",#DA1721,10,JFK / UMass
+1933,620,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+1934,620,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+1935,620,3,",8,16,41",#EB841E,10,JFK / UMass
+1936,621,0,",Red,Line",#DA1721,9,Harvard
+1937,621,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+1938,622,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+1939,622,1,",B",#00843D,15,Harvard Avenue
+1940,622,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+1941,622,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+1942,623,0,",B",#00843D,8,Harvard Avenue
+1943,623,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+1944,623,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+1945,624,0,",18",#F5C00E,3,Dorchester Ave Romsey St
+1946,625,0,",Orange,line",#EB841E,8,Haymarket
+1947,625,1,",Blue,line",#0E4189,11,Aquarium
+1948,626,0,",57,501",#F5C00E,5,Tremont St opp Cufflin St
+1949,626,1,",64",#F5C00E,7,Faneuil St @ Bigelow St
+1950,627,0,",Red,Line",#DA1721,1,JFK / UMass
+1951,627,1,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+1952,627,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+1953,627,3,",8,16,41",#EB841E,1,JFK / UMass
+1954,628,0,",4",#F5C00E,1,Commercial St & Hanover St
+1955,628,1,",Orange,Line",#EB841E,10,Haymarket
+1956,628,2,",B,C,D,E",#00843D,10,Haymarket
+1957,628,3,",Downeaster",#0099CC,15,North Station
+1958,628,4,",Fitchburg,Line,Haverhill,Line",#8E44AD,15,North Station
+1959,629,0,",B",#00843D,8,Harvard Avenue
+1960,629,1,",Framingham",#8E44AD,13,Boston Landing
+1961,630,0,",B",#018835,5,Chiswick Road
+1962,630,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+1963,631,0,",B",#00843D,16,Boston College
+1964,632,0,",Framingham",#8E44AD,16,Boston Landing
+1965,632,1,",B",#00843D,16,Harvard Avenue
+1966,633,0,",B",#00843D,10,Allston Street
+1967,633,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+1968,633,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+1969,633,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+1970,634,0,",Framingham",#8E44AD,16,Boston Landing
+1971,634,1,",B",#00843D,16,Harvard Avenue
+1972,635,0,",B",#00843D,10,Warren Street
+1973,635,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+1974,636,0,",15,41,45",#F5C00E,3,Dudley St @ Hampden St
+1975,636,1,",Franklin,Line",#B933AD,15,Newmarket
+1976,637,0,",Framingham/Worcester",#8E44AD,13,Boston Landing
+1977,637,1,",B",#00843D,15,Harvard Avenue
+1978,637,2,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+1979,637,3,",64",#F5C00E,7,Cambridge St @ Lincoln St
+1980,638,0,",Red,LIne",#8E44AD,8,JFK / UMass
+1981,638,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+1982,638,2,",Middleborough/Lakeville",#EC211F,8,JFK / UMass
+1983,638,3,",8,16,41",#EB841E,8,JFK / UMass
+1984,638,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+1985,639,0,",Orange,line",#EB841E,8,Haymarket
+1986,639,1,",Blue,line",#0E4189,11,Aquarium
+1987,640,0,",B",#00843D,13,Harvard Avenue
+1988,640,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+1989,640,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+1990,641,0,",Fairmount/Franklin",#8E44AD,8,Uphams Corner
+1991,641,1,",Red,Line",#DA1721,15,JFK / UMass
+1992,641,2,",Greenbush/Kingston",#8E44AD,15,JFK / UMass
+1993,641,3,",Middleborough/Lakeville",#8E44AD,15,JFK / UMass
+1994,642,0,",B",#018835,1,Harvard Avenue
+1995,642,1,",57",#F5C00E,2,Brighton Ave @ Harvard Ave
+1996,643,0,",15,17",#F7C751,2,Bowdoin St @ Winter St
+1997,643,1,",18",#F7C751,5,Dorchester Ave @ Dewar St
+1998,643,2,",Red,line",#CE3C32,11,Savin Hill
+1999,644,0,",85",#FC5707,4,Hampshire St @ Webster Ave
+2000,644,1,",CT2",#FC5707,4,Hampshire St @ Cardinal Medeiros Ave
+2001,644,2,",64,68",#FC5707,6,Broadway @ Hampshire St
+2002,645,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+2003,645,1,",B",#00843D,15,Harvard Avenue
+2004,645,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+2005,645,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+2006,646,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+2007,646,1,",B",#00843D,15,Harvard Avenue
+2008,646,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+2009,646,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+2010,647,0,",Framingham/Worcester",#8E44AD,15,Boston Landing
+2011,647,1,",B",#00843D,15,Harvard Avenue
+2012,647,2,",66",#F5C00E,2,N Harvard St @ Hooker St
+2013,647,3,",64,501",#F5C00E,4,Cambridge St @ N Harvard St
+2014,648,0,",B",#00843D,8,Harvard Avenue
+2015,648,1,",Framingham/Worcester,Line",#B933AD,12,Boston Landing
+2016,648,2,",64,66,501",#F5C00E,2,Cambridge Street
+2017,648,3,",57",#F5C00E,5,Brighton Ave @ Linden St
+2018,649,0,",Red",#DA1721,7,JFK / UMas
+2019,649,1,",Greenbush,Line,Kingston,Line",#8E44AD,7,JFK / UMas
+2020,649,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMas
+2021,650,0,",Red,Line",#DA1721,10,JFK / UMass
+2022,650,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+2023,650,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+2024,650,3,",8,16,41",#EB841E,10,JFK / UMass
+2025,651,0,",Red,Line",#EC211F,6,JFK / UMass
+2026,651,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+2027,651,2,",8,16,41",#F5C00E,6,JFK / UMass
+2028,651,3,",Fairmount/Franklin",#80276c,15,Uphams Corner
+2029,651,4,",17,18",#F5C00E,7,Boston St @ Mayhew St
+2030,652,0,",B",#00843D,10,Warren Street
+2031,652,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2032,652,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+2033,653,0,",Red,Line",#DA1721,6,JFK / UMass
+2034,653,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+2035,653,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+2036,653,3,",8,16,41",#F5C00E,6,JFK / UMass
+2037,654,0,",B",#00843D,10,Warren Street
+2038,654,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2039,654,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+2040,655,0,",Red,Line",#DA1721,7,JFK / UMass
+2041,655,1,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2042,655,2,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2043,655,3,",8,16,41",#F5C00E,7,JFK / UMass
+2044,655,4,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2045,656,0,",B",#00843D,5,Sutherland Road
+2046,656,1,",C",#00843D,5,Dean Road
+2047,657,0,",B",#00843D,5,Sutherland Road
+2048,657,1,",C",#00843D,5,Dean Road
+2049,658,0,",Red,line",#EC211F,3,JFK / UMass
+2050,658,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+2051,658,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+2052,658,3,",8,16,41",#F5C00E,3,JFK / UMass
+2053,659,0,",Framingham/Worcester",#8E44AD,10,Boston Landing
+2054,659,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+2055,659,2,",10",#F5C00E,10,Market St @ Guest St
+2056,660,0,",15,39,57",#F5C00E,4,Cambridge St/Bowdoin St
+2057,660,1,",Charles/MGH",#DA1721,4,Bowdoin St
+2058,660,2,",Peter,Pan",#018835,6,State House
+2059,661,0,",57,501",#F5C00E,5,Tremont St opp Cufflin St
+2060,661,1,",64",#F5C00E,7,Faneuil St @ Bigelow St
+2061,662,0,",51",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+2062,662,1,",86",#8E5B2D,4,Chestnut Hill Ave & Strathmore Rd
+2063,662,2,",B",#018835,2,Commonwealth Ave & Chiswick Rd
+2064,663,0,",Orange,line",#EB841E,8,Ruggles
+2065,663,1,",8,19,47",#EB841E,1,Melnea Cass Blvd opp Kerr Way
+2066,664,0,",B",#00843D,8,Harvard Avenue
+2067,664,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+2068,664,2,",64,66,501",#F5C00E,2,Cambridge St @ Linden St
+2069,665,0,",Orange,line",#EB841E,8,Haymarket
+2070,665,1,",Blue,line",#0E4189,11,Aquarium
+2071,666,0,",68",#f2bd2a,3,Broadway @ Inman St
+2072,666,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+2073,666,2,",Red,Line",#DA1721,6,Central
+2074,667,0,",B",#018835,3,Packards Corner
+2075,667,1,",57",#FC5707,3,Kenmore Station
+2076,668,0,",B",#018835,3,Packards Corner
+2077,668,1,",57",#FC5707,3,Kenmore Station
+2078,669,0,",Red,Line",#da291c,4,Central
+2079,669,1,",47",#f2bd2a,2,Pearl St @ Franklin St
+2080,669,2,",64,70,83,91",#f2bd2a,4,Western Ave @ Green St
+2081,670,0,",B",#018835,5,Chiswick Road
+2082,670,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+2083,671,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+2084,671,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+2085,671,2,",86",#F5C00E,14,Market St @ Keenan Rd
+2086,672,0,",64",#EB841E,6,Faneuil St @ Oak Square
+2087,672,1,",57",#EB841E,6,Tremont St @ Washington St
+2088,672,2,",501",#EB841E,8,Tremont St opp Tremont Pl
+2089,673,0,",B",#018835,5,Washington St
+2090,673,1,",C",#018835,7,Dean Road
+2091,673,2,",D",#018835,12,Beaconsfield
+2092,674,0,",Orange,Line",#FC5707,11,Ruggles
+2093,674,1,",E",#018835,12,Symphony station
+2094,674,2,",Needham/Franklin",#8E44AD,11,Ruggles
+2095,674,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+2096,674,4,",8,9,15,19,22,23,28",#F5C00E,11,Ruggles
+2097,674,5,",43",#F5C00E,1,Tremont St @ Hammond St
+2098,675,0,",Red",#DA1721,8,Andrew
+2099,675,1,",Fairmount,Franklin",#8E44AD,13,Newmarket
+2100,675,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+2101,675,3,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+2102,676,0,",64",#EB841E,6,Faneuil St @ Oak Square
+2103,676,1,",57",#EB841E,6,Tremont St @ Washington St
+2104,676,2,",501",#EB841E,8,Tremont St opp Tremont Pl
+2105,677,0,",Red,Line",#EC211F,9,Andrew
+2106,677,1,",9,10,16",#F5C00E,9,Andrew
+2107,677,2,",16,17",#F5C00E,2,Boston St @ W Howell St
+2108,678,0,",Red,Line",#da291c,4,Central
+2109,678,1,",47",#f2bd2a,2,Pearl St @ Franklin St
+2110,678,2,",64,70,83,91",#f2bd2a,4,Western Ave @ Green St
+2111,679,0,",Red,Line",#DA1721,1,JFK / UMass
+2112,679,1,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+2113,679,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+2114,679,3,",8,16,41",#EB841E,1,JFK / UMass
+2115,680,0,",Framingham",#8E44AD,16,Boston Landing
+2116,680,1,",B",#00843D,16,Harvard Avenue
+2117,681,0,",B",#00843D,10,Warren Street
+2118,681,1,",Framingham",#B933AD,13,Boston Landing
+2119,681,2,",Worcester",#B933AD,13,Boston Landing
+2120,681,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2121,682,0,",Red,Line",#DA1721,9,JFK/UMass
+2122,682,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+2123,682,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+2124,682,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+2125,682,4,",8,16,41",#EB841E,9,JFK/UMass
+2126,683,0,",B",#00843D,3,Harvard Avenue
+2127,684,0,",Red,Line",#DA1721,9,Andrew
+2128,684,1,",Fairmount,Line",#8E44AD,12,Newmarket
+2129,684,2,",Franklin/Foxboro,Line",#8E44AD,12,Newmarket
+2130,684,3,",Kingston,Line",#8E44AD,13,JFK / UMass
+2131,684,4,",8,16,41",#F5C00E,13,JFK / UMass
+2132,685,0,",B",#00843D,3,Harvard Avenue
+2133,686,0,",B",#00843D,7,Allston Street
+2134,686,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+2135,686,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+2136,687,0,",Framingham",#8E44AD,11,Boston Landing
+2137,687,1,",Worcester",#8E44AD,11,Boston Landing
+2138,687,2,",64,66,501",#F5C00E,6,Cambridge Street
+2139,687,3,",70,86",#F5C00E,11,Western Ave @ Everett St
+2140,688,0,",57,501",#EB841E,3,Washington St @ Brock St
+2141,688,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+2142,689,0,",Orange,line",#EB841E,5,Tufts Medical Center
+2143,689,1,",Red,line",#8E44AD,12,South Station
+2144,689,2,",Franklin/Framingham/Worcester",#8E44AD,12,South Station
+2145,689,3,",Needham/Greenbush/Kingston",#8E44AD,12,South Station
+2146,690,0,",Red,Line",#DA1721,9,JFK/UMass
+2147,690,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+2148,690,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+2149,690,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+2150,690,4,",8,16,41",#EB841E,9,JFK/UMass
+2151,691,0,",B",#00843D,10,Warren Street
+2152,691,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2153,691,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+2154,692,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+2155,692,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+2156,693,0,",Red,Line",#DA1721,9,JFK/UMass
+2157,693,1,",Greenbush,Kingston",#8E44AD,9,JFK/UMass
+2158,693,2,",Middleborough/Lakeville",#8E44AD,9,JFK/UMass
+2159,693,3,",Fairmount,Franklin",#B933AD,14,Newmarket
+2160,693,4,",8,16,41",#EB841E,9,JFK/UMass
+2161,694,0,",B",#00843D,3,Packards Corner
+2162,695,0,",E",#00843D,5,Fenwood Road
+2163,695,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+2164,695,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+2165,695,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+2166,696,0,",Red,Line",#DA1721,6,JFK / UMass
+2167,696,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+2168,696,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+2169,696,3,",8,41",#F5C00E,2,Columbia Rd @ Buttonwood St
+2170,697,0,",B",#00843D,7,Allston Street
+2171,697,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+2172,697,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+2173,698,0,",B",#00843D,8,Harvard Avenue
+2174,698,1,",Framingham",#8E44AD,13,Boston Landing
+2175,699,0,",B",#00843D,2,Chiswick Road
+2176,699,1,",C",#00843D,10,Cleveland Circle
+2177,699,2,",D",#00843D,12,Reservoir
+2178,699,3,",Green,Line",#F5C00E,12,Reservoir
+2179,699,4,",51,86",#F5C00E,3,Chestnut Hill Ave @ Embassy Rd
+2180,700,0,",B",#018835,3,Sutherland Road
+2181,701,0,",B",#018835,1,Harvard Avenue
+2182,701,1,",57",#F5C00E,2,Brighton Ave @ Harvard Ave
+2183,702,0,",Red,Line",#EC211F,14,Kendall/MIT
+2184,702,1,",D,E",#018835,15,Union Square
+2185,702,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+2186,703,0,",Red,Line",#EC211F,14,Kendall/MIT
+2187,703,1,",D,E",#018835,15,Union Square
+2188,703,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+2189,704,0,",Red",#DA1721,7,JFK / UMas
+2190,704,1,",Greenbush,Line,Kingston,Line",#8E44AD,7,JFK / UMas
+2191,704,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMas
+2192,705,0,",D",#00843D,7,Fenway Station
+2193,705,1,",55",#F5C00E,2,Kilmarnock St @ Queensberry St
+2194,705,2,",8,19,60,65",#F5C00E,3,Brookline Ave @ Boylston St
+2195,706,0,",Red,LIne",#EC211F,8,JFK / UMass
+2196,706,1,",Greenbush/Kingston",#8E44AD,8,JFK / UMass
+2197,706,2,",Middleborough/Lakeville",#8E44AD,8,JFK / UMass
+2198,706,3,",8,16,41",#EB841E,8,JFK / UMass
+2199,706,4,",18",#EB841E,2,Dorchster Ave @ Howes St
+2200,707,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+2201,707,1,",57,507",#F5C00E,8,Tremont St opp Tremont Pl
+2202,708,0,",Framingham/Worcester,Line",#8E44AD,10,Boston Landing
+2203,708,1,",70,86",#F5C00E,5,Western Ave @ Litchfield St
+2204,708,2,",64",#F5C00E,10,Market St @ Guest St
+2205,709,0,",B",#00843D,10,Warren Street
+2206,709,1,",Framingham",#B933AD,13,Boston Landing
+2207,709,2,",Worcester",#B933AD,13,Boston Landing
+2208,709,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2209,710,0,",B",#018835,14,Harvard Avenue
+2210,710,1,",70,86",#F5C00E,12,Western Ave @ Everest
+2211,711,0,",Red,Line",#DA1721,9,Andrew
+2212,711,1,",Fairmount,Line",#8E44AD,12,Newmarket
+2213,711,2,",Franklin/Foxboro,Line",#8E44AD,12,Newmarket
+2214,711,3,",Kingston,Line",#8E44AD,13,JFK / UMass
+2215,711,4,",8,16,41",#F5C00E,13,JFK / UMass
+2216,712,0,",B",#00843D,13,Harvard Avenue
+2217,712,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+2218,712,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2219,713,0,",B",#00843D,13,Harvard Avenue
+2220,713,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+2221,713,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2222,714,0,",Red,Line",#DA1721,7,JFK / UMass
+2223,714,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2224,714,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2225,714,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2226,714,4,",8,16,41",#F5C00E,7,JFK / UMass
+2227,715,0,",Red,Line",#DA1721,7,JFK / UMass
+2228,715,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2229,715,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2230,715,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2231,715,4,",8,16,41",#F5C00E,7,JFK / UMass
+2232,716,0,",89,89/93,101",#F5C00E,1,Broadway @ Main St
+2233,717,0,",B",#018835,5,Chiswick Road
+2234,717,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+2235,718,0,",B",#00843D,10,Allston Street
+2236,718,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+2237,718,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+2238,718,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+2239,719,0,",B",#00843D,10,Allston Street
+2240,719,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+2241,719,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+2242,719,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+2243,720,0,",B",#00843D,10,Allston Street
+2244,720,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+2245,720,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+2246,720,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+2247,721,0,",E",#008345,5,Fenwood Road
+2248,721,1,",Orange,Line",#ef8b22,11,Roxbury Crossing
+2249,721,2,",35,39,66",#f2bd2a,6,Huntington Ave @ Fenwood Rd
+2250,722,0,",Red,line",#DA1721,5,Shawmut
+2251,723,0,",B",#018835,5,Sutherland Road
+2252,723,1,",C",#018835,6,Dean Road
+2253,723,2,",65",#F5C00E,3,Washington St / Corey Rd
+2254,724,0,",B",#00843D,5,Sutherland Road
+2255,724,1,",C",#00843D,9,Dean Road
+2256,725,0,",B",#018835,4,Sutherland Road
+2257,725,1,",C",#018835,5,Dean Road
+2258,726,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2259,726,1,",16,,17,,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2260,726,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2261,726,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2262,726,4,",Red,Line",#DA1721,10,Savin Hill
+2263,727,0,",Red,Line",#e02826,5,JFK / UMass
+2264,727,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+2265,727,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+2266,727,3,",8,41,16",#f2bd2a,5,JFK / UMass
+2267,728,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+2268,728,1,",57,507",#F5C00E,8,Tremont St opp Tremont Pl
+2269,729,0,",57,501",#EB841E,3,Washington St @ Brock St
+2270,729,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+2271,730,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2272,730,1,",42",#F5C00E,4,Washington St @ Guild St
+2273,730,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+2274,731,0,",B",#00843D,3,Harvard Avenue
+2275,732,0,",57,501",#F5C00E,5,Tremont St opp Cufflin St
+2276,732,1,",64",#F5C00E,7,Faneuil St @ Bigelow St
+2277,733,0,",Greeenbush,Line/Kingston,Line",#7F2A6B,8,JFK/UMass
+2278,733,1,",Red,Line",#DE2B2E,8,JFK/UMass
+2279,733,2,",8,16,41",#F1BC3D,8,JFK/UMass
+2280,733,3,",Middleborough/Lakeville,Line",#7F2A6B,8,JFK/UMass
+2281,734,0,",B",#00843D,7,Allston Street
+2282,734,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+2283,734,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+2284,735,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2285,735,1,",Red,Line",#DA1721,10,Porter
+2286,735,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2287,736,0,",B",#018835,5,Sutherland Road
+2288,736,1,",C",#018835,6,Dean Road
+2289,736,2,",65",#F5C00E,3,Washington St / Corey Rd
+2290,737,0,",Red,Line",#DA1721,7,JFK / UMass
+2291,737,1,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2292,737,2,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2293,737,3,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2294,737,4,",8,16,41",#F5C00E,7,JFK / UMass
+2295,738,0,",B",#018835,3,Packards Corner
+2296,738,1,",57",#FC5707,3,Kenmore Station
+2297,739,0,",B",#018835,8,Harvard Avenue
+2298,739,1,",64,66,501",#F5C00E,1,Cambridge Street
+2299,740,0,",B",#00843D,5,Sutherland Road
+2300,740,1,",C",#00843D,9,Dean Road
+2301,741,0,",B",#00843D,8,Harvard Avenue
+2302,741,1,",Framingham/Worcester,Line",#B933AD,12,Boston Landing
+2303,741,2,",64,66,501",#F5C00E,2,Cambridge Street
+2304,741,3,",57",#F5C00E,5,Brighton Ave @ Linden St
+2305,742,0,",B",#00843D,9,Chiswick Road
+2306,742,1,",С",#00843D,15,Cleveland Circle
+2307,742,2,",51,86",#F2BD2A,3,Chestnut Hill Ave @ Wiltshire Rd
+2308,743,0,",Red,Line",#DA1721,1,JFK / UMass
+2309,743,1,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+2310,743,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+2311,743,3,",8,16,41",#EB841E,1,JFK / UMass
+2312,744,0,",B",#00843D,8,Harvard Avenue
+2313,744,1,",64,66,501",#F5C00E,1,Cambridge Street
+2314,745,0,",D,E",#018835,7,Union Square
+2315,745,1,",87",#F5C00E,2,Somerville Ave @ Merriam St
+2316,745,2,",86,91,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+2317,746,0,",B",#018835,4,Sutherland Road
+2318,746,1,",C",#018835,5,Dean Road
+2319,747,0,",Red,Line",#DA1721,5,JFK / UMass
+2320,747,1,",Greenbush,Kingston",#8E44AD,5,JFK / UMass
+2321,747,2,",8,41,16",#F5C00E,5,JFK / UMass
+2322,747,3,",Middleborough/Lakeville",#8E44AD,5,JFK / UMass
+2323,748,0,",Orange,line",#ef8b22,9,Stony Brook
+2324,748,1,",22,29,44",#f2bd2a,2,Columbus Ave @ Weld Ave
+2325,748,2,",14,41",#f2bd2a,14,Jackson Square
+2326,749,0,",Red,Line",#DA1721,10,JFK / UMass
+2327,749,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+2328,749,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+2329,749,3,",8,16,41",#EB841E,10,JFK / UMass
+2330,750,0,",57,501",#EB841E,3,Washington St @ Brock St
+2331,750,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+2332,751,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2333,751,1,",15,19,23,28,44",#F5C00E,2,Malcolm X Blvd @ Shawmut Ave
+2334,751,2,",14,41,45",#F5C00E,2,42A John Eliot Sq
+2335,752,0,",B",#018835,5,Sutherland Road
+2336,752,1,",C",#018835,6,Dean Road
+2337,752,2,",65",#F5C00E,3,Washington St / Corey Rd
+2338,753,0,",B",#018835,4,Sutherland Road
+2339,753,1,",C",#018835,5,Dean Road
+2340,754,0,",Greeenbush/Kingston",#7F2A6B,8,JFK/UMass
+2341,754,1,",Red,Line",#DE2B2E,8,JFK/UMass
+2342,754,2,",Middleborough/Lakeville",#7F2A6B,8,JFK/UMass
+2343,754,3,",8,16,41",#F1BC3D,8,JFK/UMass
+2344,755,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+2345,755,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+2346,755,2,",86",#F5C00E,14,Market St @ Keenan Rd
+2347,756,0,",Red,Line",#DA1721,7,JFK / UMass
+2348,756,1,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2349,756,2,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2350,756,3,",8,16,41",#F5C00E,7,JFK / UMass
+2351,756,4,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2352,757,0,",Red,Line",#DA1721,7,JFK / UMass
+2353,757,1,",Middleborough/Lakeville",#8E44AD,7,JFK / UMass
+2354,757,2,",18",#F5C00E,2,Dorchester Ave @ Mayfield St
+2355,757,3,",8,16,41",#F5C00E,7,JFK / UMass
+2356,757,4,",Greenbush/Kingston",#8E44AD,7,JFK / UMass
+2357,758,0,",B",#018835,5,Washington St
+2358,758,1,",C",#018835,7,Dean Road
+2359,758,2,",D",#018835,12,Beaconsfield
+2360,759,0,",Orange,Line",#EB841E,7,Roxbury Crossing
+2361,759,1,",E",#00843D,10,Brigham Circle
+2362,759,2,",19,66",#F5C00E,7,Tremont St @ Tobin Community Center
+2363,759,3,",22,29",#F5C00E,7,Columbus Ave @ New Cedar St
+2364,760,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2365,760,1,",42",#F5C00E,4,Washington St @ Guild St
+2366,760,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+2367,761,0,",Red,line",#EC211F,3,JFK / UMass
+2368,761,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+2369,761,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+2370,761,3,",8,16,41",#F5C00E,3,JFK / UMass
+2371,762,0,",B",#00843D,4,Washington Street
+2372,762,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2373,763,0,",B",#018835,3,Packards Corner
+2374,763,1,",57",#FC5707,3,Kenmore Station
+2375,764,0,",B",#018835,8,Harvard Avenue
+2376,764,1,",64,66,501",#F5C00E,1,Cambridge Street
+2377,765,0,",Red,Line",#EC211F,12,JFK / UMass
+2378,765,1,",Kingston/Greenbush",#B933AD,12,JFK / UMass
+2379,765,2,",Middleborough/Lakeville",#B933AD,12,JFK / UMass
+2380,765,3,",8,16",#F5C00E,2,Massachusetts Ave @ Columbia Rd
+2381,765,4,",17,41",#F5C00E,3,Columbia Rd @ Massachusetts Ave
+2382,765,5,",Fairmount/Franklin",#B933AD,10,Uphams Corner
+2383,766,0,",B",#108248,2,Griggs Street
+2384,766,1,",Green,Line,B,Shuttle",#F1BC3D,2,Griggs Street
+2385,767,0,",E",#00843D,5,Fenwood Road
+2386,767,1,",Orange,Line",#EB841E,9,Roxbury Crossing
+2387,767,2,",35,39,66",#F5C00E,5,Huntington Ave opp Fenwood Rd
+2388,767,3,",22,29",#F5C00E,11,Columbus Ave @ New Cedar St
+2389,768,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+2390,768,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+2391,769,0,",B",#018835,1,Allston Street
+2392,770,0,",D,E",#00843D,11,Union Square
+2393,770,1,",Orange,Line",#F5C00E,15,Sullivan Square
+2394,770,2,",95,101,104,105,109",#F5C00E,15,Sullivan Square
+2395,771,0,",B",#00843D,9,Chiswick Road
+2396,771,1,",С",#00843D,15,Cleveland Circle
+2397,771,2,",51,86",#F2BD2A,3,Chestnut Hill Ave @ Wiltshire Rd
+2398,772,0,",57,501",#EB841E,8,Tremont St opp Tremont Pl
+2399,772,1,",64",#EB841E,8,Faneuil St @ Brooks St
+2400,773,0,",Red,Line",#DA1721,10,JFK / UMass
+2401,773,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+2402,773,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+2403,773,3,",8,16,41",#EB841E,10,JFK / UMass
+2404,774,0,",Framingham/Worcester,Line",#8E44AD,6,Boston Landing
+2405,774,1,",B",#00843D,13,Allston Street
+2406,774,2,",64",#F5C00E,3,N Beacon St @ Cambridge St
+2407,774,3,",51,57,66",#F5C00E,5,Cambridge St @ N Beacon St
+2408,775,0,",Red,Line",#e02826,5,JFK / UMass
+2409,775,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+2410,775,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+2411,775,3,",8,41,16",#f2bd2a,5,JFK / UMass
+2412,776,0,",57,501",#EB841E,3,Washington St @ Brock St
+2413,776,1,",51,65,86",#EB841E,12,Chestnut Hill Ave @ Veronica Smith Ctr
+2414,777,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2415,777,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2416,777,2,",22,29,44",#f2bd2a,11,Jackson Square
+2417,778,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+2418,778,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+2419,778,2,",86",#F5C00E,14,Market St @ Keenan Rd
+2420,779,0,",B",#00843D,8,Harvard Avenue
+2421,779,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+2422,780,0,",D,E",#018835,7,Union Square
+2423,780,1,",87",#F5C00E,2,Somerville Ave @ Merriam St
+2424,780,2,",86,91,CT2",#F5C00E,3,Washington St @ McGrath Hwy
+2425,781,0,",Red,line",#EC211F,3,JFK / UMass
+2426,781,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+2427,781,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+2428,781,3,",8,16,41",#F5C00E,3,JFK / UMass
+2429,782,0,",Red,line",#EC211F,3,JFK / UMass
+2430,782,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+2431,782,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+2432,782,3,",8,16,41",#F5C00E,3,JFK / UMass
+2433,783,0,",B",#00843D,2,Chiswick Road
+2434,783,1,",86",#F5C00E,4,Chestnut Hill Ave @ Embassy Rd
+2435,784,0,",Orange,line",#EB841E,8,Ruggles
+2436,784,1,",8,19,47",#EB841E,1,Melnea Cass Blvd opp Kerr Way
+2437,785,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2438,785,1,",16,,17,,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2439,785,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2440,785,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2441,785,4,",Red,Line",#DA1721,10,Savin Hill
+2442,786,0,",B",#018835,3,Sutherland Road
+2443,787,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2444,787,1,",15,19,23,28,44",#F5C00E,2,Malcolm X Blvd @ Shawmut Ave
+2445,787,2,",14,41,45",#F5C00E,2,42A John Eliot Sq
+2446,788,0,",B",#018835,8,Harvard Avenue
+2447,788,1,",64,66,501",#F5C00E,2,Cambridge Street
+2448,788,2,",51,57",#F5C00E,6,Brighton Ave opp Quint Ave
+2449,789,0,",B",#018835,8,Harvard Avenue
+2450,789,1,",64,66,501",#F5C00E,2,Cambridge Street
+2451,789,2,",51,57",#F5C00E,6,Brighton Ave opp Quint Ave
+2452,790,0,",B",#018835,5,Chiswick Road
+2453,790,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+2454,791,0,",B",#00843D,2,Chiswick Road
+2455,791,1,",86",#F5C00E,4,Chestnut Hill Ave @ Embassy Rd
+2456,792,0,",Red,Line",#EC211F,2,JFK / UMass
+2457,792,1,",Greenbush/Kingston",#8E44AD,2,JFK / UMass
+2458,792,2,",8,16,41",#F5C00E,2,JFK / UMass
+2459,792,3,",17,18",#F5C00E,3,Boston St @ Mayhew St
+2460,793,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+2461,793,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+2462,794,0,",Orange,line",#EB841E,8,Haymarket
+2463,794,1,",Blue,line",#0E4189,11,Aquarium
+2464,795,0,",Orange,Line",#FC5707,11,Ruggles
+2465,795,1,",E",#018835,12,Symphony station
+2466,795,2,",Needham/Franklin",#8E44AD,11,Ruggles
+2467,795,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+2468,795,4,",8,9,15,19,22,23,28",#F5C00E,11,Ruggles
+2469,795,5,",43",#F5C00E,1,Tremont St @ Hammond St
+2470,796,0,",B",#00843D,10,Warren Street
+2471,796,1,",Framingham",#B933AD,13,Boston Landing
+2472,796,2,",Worcester",#B933AD,13,Boston Landing
+2473,796,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2474,797,0,",Red,Line",#e02826,7,JFK / UMass
+2475,797,1,",Greenbush,Kingston",#80276c,7,JFK / UMass
+2476,797,2,",Middleborough/Lakeville",#80276c,7,JFK / UMass
+2477,797,3,",8,41,16",#f2bd2a,7,JFK / UMass
+2478,798,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+2479,798,1,",57,507",#F5C00E,8,Tremont St opp Tremont Pl
+2480,799,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+2481,799,1,",57,507",#F5C00E,8,Tremont St opp Tremont Pl
+2482,800,0,",64",#F5C00E,4,Faneuil St @ Oak Square
+2483,800,1,",57,501",#F5C00E,8,Tremont St opp Tremont Pl
+2484,801,0,",Red,Line",#e02826,7,JFK / UMass
+2485,801,1,",Greenbush,Kingston",#80276c,7,JFK / UMass
+2486,801,2,",Middleborough/Lakeville",#80276c,7,JFK / UMass
+2487,801,3,",8,41,16",#f2bd2a,7,JFK / UMass
+2488,802,0,",57,501",#EB841E,8,Tremont St opp Tremont Pl
+2489,802,1,",64",#EB841E,8,Faneuil St @ Brooks St
+2490,803,0,",Red,Line",#DA1721,8,Andrew
+2491,803,1,",Fairmount,Franklin",#8E44AD,11,Newmarket
+2492,803,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+2493,803,3,",8,41,16",#F5C00E,14,JFK / UMass
+2494,803,4,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+2495,804,0,",E",#00843d,5,Longwood Medical Area
+2496,804,1,",Orange,Line",#ed8b00,9,Roxbury Crossing
+2497,804,2,",Franklin/Needham/Providence",#80276c,15,Ruggles
+2498,804,3,",39",#f2bd2a,3,Huntington Ave @ Wigglesworth St
+2499,805,0,",B",#00843D,8,Harvard Avenue
+2500,805,1,",Framingham/Worcester,Line",#8E44AD,12,Boston Landing
+2501,806,0,",Red,line",#EC211F,1,JFK / UMass
+2502,806,1,",Greenbush/Kingston",#B933AD,1,JFK / UMass
+2503,806,2,",Middleborough/Lakeville",#B933AD,1,JFK / UMass
+2504,806,3,",8,16,41",#F5C00E,1,JFK / UMass
+2505,807,0,",15,39,57",#F5C00E,4,Cambridge St/Bowdoin St
+2506,807,1,",Charles/MGH",#DA1721,4,Bowdoin St
+2507,807,2,",Peter,Pan",#018835,6,State House
+2508,808,0,",B",#00843D,9,Chiswick Road
+2509,808,1,",С",#00843D,15,Cleveland Circle
+2510,808,2,",51,86",#F2BD2A,3,Chestnut Hill Ave @ Wiltshire Rd
+2511,809,0,",Orange,Line",#FC5707,11,Ruggles
+2512,809,1,",E",#018835,12,Symphony station
+2513,809,2,",Needham/Franklin",#8E44AD,11,Ruggles
+2514,809,3,",Providence/Stoughton",#8E44AD,11,Ruggles
+2515,809,4,",8,9,15,19,22,23,28",#F5C00E,11,Ruggles
+2516,809,5,",43",#F5C00E,1,Tremont St @ Hammond St
+2517,810,0,",Red,line",#DA1721,12,JFK / UMass
+2518,810,1,",Greenbush/Kingston",#8E44AD,12,JFK / UMass
+2519,810,2,",16,17,18",#F5C00E,2,Boston St @ Howell St
+2520,811,0,",Red,Line",#e02826,14,JFK / UMass
+2521,811,1,",Fairmount,Franklin",#80276c,8,Uphams Corner
+2522,811,2,",Greenbush,Kingstone,Middleborough/Lakeville",#80276c,14,JFK / UMass
+2523,811,3,",Middleborough/Lakeville",#80276c,14,JFK / UMass
+2524,812,0,",64,66,501",#F5C00E,1,Cambridge Street
+2525,812,1,",B",#018835,8,Harvard Avenue
+2526,813,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2527,813,1,",16,,17,,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2528,813,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2529,813,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2530,813,4,",Red,Line",#DA1721,10,Savin Hill
+2531,814,0,",Red,line",#EC211F,3,JFK / UMass
+2532,814,1,",Greenbush,Kingston",#B933AD,3,JFK / UMass
+2533,814,2,",Middleborough/Lakeville",#B933AD,3,JFK / UMass
+2534,814,3,",8,16,41",#F5C00E,3,JFK / UMass
+2535,815,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+2536,815,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+2537,816,0,",B",#00843D,5,Sutherland Road
+2538,816,1,",C",#00843D,9,Dean Road
+2539,817,0,",Orange,line",#EB841E,8,Haymarket
+2540,817,1,",Blue,line",#0E4189,11,Aquarium
+2541,818,0,",Red,Line",#DA1721,6,JFK / UMass
+2542,818,1,",Kingston/Greenbush",#8E44AD,6,JFK / UMass
+2543,818,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+2544,818,3,",8,41",#F5C00E,2,Columbia Rd @ Buttonwood St
+2545,819,0,",BCDE,Light,Rail",#00843D,5,Haymarket
+2546,819,1,",Blue",#0E4189,11,Aquarium
+2547,819,2,",Orange",#EB841E,5,Haymarket
+2548,820,0,",64",#F5C00E,4,Brooks St @ Faneuil St
+2549,820,1,",57,501",#F5C00E,9,Washington St @ Oak Square Ave
+2550,820,2,",86",#F5C00E,14,Market St @ Keenan Rd
+2551,821,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2552,821,1,",42",#F5C00E,4,Washington St @ Guild St
+2553,821,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+2554,822,0,",57,501",#F5C00E,2,Washington St @ Oak Square Ave
+2555,822,1,",64",#F5C00E,6,Faneuil St @ Brooks St
+2556,823,0,",Framingham",#8E44AD,16,Boston Landing
+2557,823,1,",B",#00843D,16,Harvard Avenue
+2558,824,0,",B",#018835,8,Harvard Avenue
+2559,824,1,",64,66,501",#F5C00E,1,Cambridge Street
+2560,825,0,",E",#00843D,4,Symphony
+2561,825,1,",Orange,Line",#EB841E,7,Massachusetts Ave
+2562,825,2,",D,B,C",#00843D,10,Hynes Convention Center Station
+2563,825,3,",Franklin,Needham,Providence/Stoughton",#8E44AD,12,Ruggles
+2564,826,0,",Red,Line",#DA1721,10,JFK / UMass
+2565,826,1,",Kingston/Greenbush",#8E44AD,10,JFK / UMass
+2566,826,2,",Middleborough/Lakeville",#8E44AD,10,JFK / UMass
+2567,826,3,",8,16,41",#EB841E,10,JFK / UMass
+2568,827,0,",B",#00843D,2,Chiswick Road
+2569,827,1,",86",#F5C00E,4,Chestnut Hill Ave @ Embassy Rd
+2570,828,0,",Framingham/Worcester,Line",#8E44AD,6,Boston Landing
+2571,828,1,",B",#00843D,13,Allston Street
+2572,828,2,",64",#F5C00E,3,N Beacon St @ Cambridge St
+2573,828,3,",51,57,66",#F5C00E,5,Cambridge St @ N Beacon St
+2574,829,0,",B",#00843D,10,Warren Street
+2575,829,1,",Framingham",#B933AD,13,Boston Landing
+2576,829,2,",Worcester",#B933AD,13,Boston Landing
+2577,829,3,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2578,830,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2579,830,1,",14,41,45",#F5C00E,2,Dudley St @ Guild Row
+2580,831,0,",B",#00843D,3,Packards Corner
+2581,832,0,",Red,Line",#DA1721,5,JFK / UMass
+2582,832,1,",Greenbush,Kingston",#8E44AD,5,JFK / UMass
+2583,832,2,",8,41,16",#F5C00E,5,JFK / UMass
+2584,832,3,",Middleborough/Lakeville",#8E44AD,5,JFK / UMass
+2585,833,0,",BCDE,Light,Rail",#00843D,5,Haymarket
+2586,833,1,",Blue",#0E4189,11,Aquarium
+2587,833,2,",Orange",#EB841E,5,Haymarket
+2588,834,0,",Orange,Line",#EB841E,10,Ruggles
+2589,834,1,",E",#018835,12,Symphony
+2590,834,2,",Needham/Franklin",#8E44AD,11,Ruggles
+2591,834,3,",43",#F5C00E,1,Tremont St @ Hammond St
+2592,834,4,",Providence/Stoughton",#8E44AD,11,Ruggles
+2593,835,0,",B",#00843D,8,Harvard Avenue
+2594,835,1,",Framingham/Worcester,Line",#B933AD,12,Boston Landing
+2595,835,2,",64,66,501",#F5C00E,2,Cambridge Street
+2596,835,3,",57",#F5C00E,5,Brighton Ave @ Linden St
+2597,836,0,",15,39,57",#F5C00E,4,Cambridge St/Bowdoin St
+2598,836,1,",Charles/MGH",#DA1721,4,Bowdoin St
+2599,836,2,",Peter,Pan",#018835,6,State House
+2600,837,0,",Orange,line",#EB841E,8,Haymarket
+2601,837,1,",Blue,line",#0E4189,11,Aquarium
+2602,838,0,",B",#018835,4,Sutherland Road
+2603,838,1,",C",#018835,5,Dean Road
+2604,839,0,",Greeenbush/Kingston",#7F2A6B,8,JFK/UMass
+2605,839,1,",Red,Line",#DE2B2E,8,JFK/UMass
+2606,839,2,",Middleborough/Lakeville",#7F2A6B,8,JFK/UMass
+2607,839,3,",8,16,41",#F1BC3D,8,JFK/UMass
+2608,840,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2609,840,1,",42",#F5C00E,4,Washington St @ Guild St
+2610,840,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+2611,841,0,",B",#018835,5,Sutherland Road
+2612,841,1,",C",#018835,6,Dean Road
+2613,841,2,",65",#F5C00E,3,Washington St / Corey Rd
+2614,842,0,",B",#018835,8,Harvard Avenue
+2615,842,1,",64,66,501",#F5C00E,1,Cambridge Street
+2616,843,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2617,843,1,",15,19,23,28,44",#F5C00E,2,Malcolm X Blvd @ Shawmut Ave
+2618,843,2,",14,41,45",#F5C00E,2,42A John Eliot Sq
+2619,844,0,",B",#018835,8,Harvard Avenue
+2620,844,1,",64,66,501",#F5C00E,1,Cambridge Street
+2621,845,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+2622,845,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+2623,845,2,",B",#018835,15,Harvard Avenue
+2624,845,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2625,846,0,",Framingham/Worcester,Line",#8E44AD,11,Boston Landing
+2626,846,1,",64,66,501",#F5C00E,6,Cambridge Street
+2627,846,2,",70,86",#F5C00E,11,Western Ave @ Everett St
+2628,847,0,",B",#018835,14,Harvard Avenue
+2629,847,1,",70,86",#F5C00E,12,Western Ave @ Everest
+2630,848,0,",Framingham/Worcester,Line",#8E44AD,6,Boston Landing
+2631,848,1,",B",#00843D,13,Allston Street
+2632,848,2,",64",#F5C00E,3,N Beacon St @ Cambridge St
+2633,848,3,",51,57,66",#F5C00E,5,Cambridge St @ N Beacon St
+2634,849,0,",Framingham/Worcester",#8E44AD,6,Boston Landing
+2635,849,1,",B",#00843D,15,Allston Street
+2636,849,2,",64",#F5C00E,4,N Beacon St @ Saunders St
+2637,849,3,",86",#F5C00E,5,Market St @ N Beacon St
+2638,850,0,",B",#00843D,16,Boston College
+2639,851,0,",B",#00843D,16,Boston College
+2640,852,0,",B",#108248,2,Griggs Street
+2641,852,1,",Green,Line,B,Shuttle",#F1BC3D,2,Griggs Street
+2642,853,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2643,853,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2644,853,2,",22,29,44",#f2bd2a,11,Jackson Square
+2645,854,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+2646,854,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+2647,855,0,",Red,Line",#da291c,4,Central
+2648,855,1,",47",#f2bd2a,2,Pearl St @ Franklin St
+2649,855,2,",64,70,83,91",#f2bd2a,4,Western Ave @ Green St
+2650,856,0,",Red,Line",#DA1721,6,Central
+2651,856,1,",64,83,91",#f2bd2a,1,Prospect St @ Harvard St
+2652,856,2,",68",#f2bd2a,3,Broadway @ Inman St
+2653,857,0,",Red,Line",#e02826,5,JFK / UMass
+2654,857,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+2655,857,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+2656,857,3,",8,41,16",#f2bd2a,5,JFK / UMass
+2657,858,0,",B",#00843D,5,Sutherland Road
+2658,858,1,",C",#00843D,5,Dean Road
+2659,859,0,",Green,line,D,Shuttle",#00843D,12,Waban
+2660,859,1,",D",#00843D,13,Waban
+2661,860,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2662,860,1,",42",#F5C00E,4,Washington St @ Guild St
+2663,860,2,",14,41,45",#F5C00E,6,42A John Eliot Sq
+2664,861,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2665,861,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2666,861,2,",22,29,44",#F5C00E,11,Jackson Square
+2667,862,0,",Framingham/Worcester,Line",#8E44AD,6,Boston Landing
+2668,862,1,",B",#00843D,13,Allston Street
+2669,862,2,",64",#F5C00E,3,N Beacon St @ Cambridge St
+2670,862,3,",51,57,66",#F5C00E,5,Cambridge St @ N Beacon St
+2671,863,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2672,863,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2673,863,2,",22,29,44",#f2bd2a,11,Jackson Square
+2674,864,0,",B",#00843D,13,Harvard Avenue
+2675,864,1,",64,66",#F5C00E,6,Cambridge St @ Lincoln St
+2676,864,2,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2677,865,0,",B",#018835,5,Washington St
+2678,865,1,",C",#018835,7,Dean Road
+2679,865,2,",D",#018835,12,Beaconsfield
+2680,866,0,",B",#00843D,10,Warren Street
+2681,866,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2682,867,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2683,867,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2684,867,2,",22,29,44",#F5C00E,11,Jackson Square
+2685,868,0,",B",#00843D,10,Allston Street
+2686,868,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+2687,868,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+2688,868,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+2689,869,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2690,869,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2691,869,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2692,869,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2693,869,4,",Red,Line",#DA1721,10,Savin Hill
+2694,870,0,",57,501",#F5C00E,5,Tremont St @ Washington St
+2695,870,1,",64",#F5C00E,5,Faneuil St @ Bigelow St
+2696,872,0,",B",#00843D,7,Allston Street
+2697,872,1,",Framingham/Worcester,Line",#80276c,10,Boston Landing
+2698,872,2,",51,57,66,501",f2bd2a,3,Cambridge St @ Barrows St
+2699,873,0,",Red,Line",#e02826,5,JFK / UMass
+2700,873,1,",Greenbush/Kingston",#80276c,5,JFK / UMass
+2701,873,2,",Middleborough/Lakeville",#80276c,5,JFK / UMass
+2702,873,3,",8,41,16",#f2bd2a,5,JFK / UMass
+2703,874,0,",B",#018835,14,Harvard Avenue
+2704,874,1,",70,86",#F5C00E,12,Western Ave @ Everest
+2705,875,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2706,875,1,",Red,Line",#DA1721,10,Porter
+2707,875,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2708,876,0,",B",#00843D,5,Sutherland Road
+2709,876,1,",C",#00843D,9,Dean Road
+2710,877,0,",Fairmount",#8E44AD,13,Newmarket
+2711,877,1,",Franklin",#8E44AD,13,Newmarket
+2712,877,2,",Red",#DA1721,8,Andrew
+2713,878,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2714,878,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2715,878,2,",22,29,44",#f2bd2a,11,Jackson Square
+2716,879,0,",Red,line",#DA1721,12,JFK / UMass
+2717,879,1,",Greenbush/Kingston",#8E44AD,12,JFK / UMass
+2718,879,2,",16,17,18",#F5C00E,2,Boston St @ Howell St
+2719,880,0,",Greeenbush,Line/Kingston,Line",#7F2A6B,8,JFK/UMass
+2720,880,1,",Red,Line",#DE2B2E,8,JFK/UMass
+2721,880,2,",8,16,41",#F1BC3D,8,JFK/UMass
+2722,880,3,",Middleborough/Lakeville,Line",#7F2A6B,8,JFK/UMass
+2723,881,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2724,881,1,",Red,Line",#DA1721,10,Porter
+2725,881,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2726,882,0,",B",#00843D,10,Warren Street
+2727,882,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2728,883,0,",B",#00843D,2,Chiswick Road
+2729,883,1,",86",#F5C00E,4,Chestnut Hill Ave @ Embassy Rd
+2730,884,0,",B",#00843D,2,Washington Street
+2731,884,1,",65",#F5C00E,1,Washington St opp Euston Rd
+2732,885,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2733,885,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2734,885,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2735,885,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2736,885,4,",Red,Line",#DA1721,10,Savin Hill
+2737,886,0,",Red,Line",#DA1721,6,JFK / UMass
+2738,886,1,",Greenbush/Kingston",#8E44AD,6,JFK / UMass
+2739,886,2,",Middleborough/Lakeville",#8E44AD,6,JFK / UMass
+2740,886,3,",8,16,41",#F5C00E,6,JFK / UMass
+2741,887,0,",Greenbush/Kingston",#8E44AD,1,JFK / UMass
+2742,887,1,",Red,Line",#DA1721,1,JFK / UMass
+2743,887,2,",Middleborough/Lakeville",#8E44AD,1,JFK / UMass
+2744,887,3,",8,16,41",#EB841E,1,JFK / UMass
+2745,888,0,",B",#00843D,4,Washington Street
+2746,888,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2747,889,0,",15,17",#F5C00E,3,Bowdoin St @ Norton St
+2748,889,1,",Fairmount,Line,Franklin,Line",#8E44AD,9,Four Corners/Geneva
+2749,890,0,",Red,Line",#DA1721,3,JFK / UMass
+2750,890,1,",Red,Line",#DA1721,8,Savin Hill
+2751,891,0,",Red",#DA1721,8,Andrew
+2752,891,1,",Fairmount,Franklin",#8E44AD,13,Newmarket
+2753,891,2,",Greenbush,Kingston",#8E44AD,14,JFK / UMass
+2754,891,3,",Middleborough/Lakeville",#8E44AD,14,JFK / UMass
+2755,892,0,",B",#00843D,8,Harvard Avenue
+2756,892,1,",Framingham",#8E44AD,13,Boston Landing
+2757,893,0,",B",#00843D,8,Harvard Avenue
+2758,893,1,",Framingham",#8E44AD,13,Boston Landing
+2759,894,0,",B",#00843D,10,Warren Street
+2760,894,1,",51,57,66",#F5C00E,1,Cambridge St @ Sparhawk St
+2761,894,2,",501",#F5C00E,3,Cambridge St opp Dustin St
+2762,895,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2763,895,1,",Red,Line",#DA1721,10,Porter
+2764,895,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2765,896,0,",Framingham/Worcester",#8E44AD,13,Boston Landing
+2766,896,1,",B",#00843D,15,Harvard Avenue
+2767,896,2,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+2768,896,3,",64",#F5C00E,7,Cambridge St @ Lincoln St
+2769,897,0,",Framingham/Worcester,Line",#8E44AD,11,Boston Landing
+2770,897,1,",64,66,501",#F5C00E,6,Cambridge Street
+2771,897,2,",70,86",#F5C00E,11,Western Ave @ Everett St
+2772,898,0,",Red,line",#CE3C32,11,Savin Hill
+2773,898,1,",15,17",#F7C751,2,Bowdoin St @ Winter St
+2774,898,2,",18",#F7C751,7,Dorchester Ave @ Dewar St
+2775,899,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2776,899,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2777,899,2,",22,29,44",#F5C00E,11,Jackson Square
+2778,900,0,",B",#018835,5,Griggs Street
+2779,900,1,",57,66",#F5C00E,5,Brighton Ave @ Allston St
+2780,900,2,",Green,Line,B,Shuttle",#F5C00E,5,Griggs Street
+2781,901,0,",Red,Line",#EC211F,14,Kendall/MIT
+2782,901,1,",D,E",#018835,15,Union Square
+2783,901,2,",85",#F5C00E,4,Hampshire St @ Webster Ave
+2784,902,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2785,902,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2786,902,2,",22,29,44",#f2bd2a,11,Jackson Square
+2787,903,0,",B",#018835,8,Harvard Avenue
+2788,903,1,",64,66,501",#F5C00E,2,Cambridge Street
+2789,903,2,",51,57",#F5C00E,6,Brighton Ave opp Quint Ave
+2790,904,0,",Red,Line",#DA1721,6,Central
+2791,905,0,",B",#00843D,8,Harvard Avenue
+2792,905,1,",Framingham/Worcester,Line",#B933AD,12,Boston Landing
+2793,905,2,",64,66,501",#F5C00E,2,Cambridge Street
+2794,905,3,",57",#F5C00E,5,Brighton Ave @ Linden St
+2795,906,0,",10",#F7C751,1,Dorchester St @ W 5th St
+2796,906,1,",11",#F7C751,2,W 6th St @ F St
+2797,906,2,",Red,Line",#CE3C32,13,Andrew
+2798,907,0,",B",#018835,5,Chiswick Road
+2799,907,1,",51,86",#F5C00E,4,Chestnut Hill Ave @ Wallingford Rd
+2800,908,0,",B",#00843D,8,Harvard Avenue
+2801,908,1,",64,66,501",#F5C00E,1,Cambridge Street
+2802,909,0,",B",#00843D,4,Washington Street
+2803,909,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2804,910,0,",57,57A",#FF8C00,2,Cambridge St @ Saunders St
+2805,910,1,",57,57A,501,503",#FF8C00,4,Cambridge St opp Dustin St
+2806,910,2,",B",#008000,8,Allston Street
+2807,910,3,",B",#008000,8,Warren Street
+2808,911,0,",E",#00843d,5,Longwood Medical Area
+2809,911,1,",Orange,Line",#ed8b00,9,Roxbury Crossing
+2810,911,2,",Franklin/Needham/Providence",#80276c,15,Ruggles
+2811,911,3,",39",#f2bd2a,3,Huntington Ave @ Wigglesworth St
+2812,912,0,",B",#018835,1,Allston Street
+2813,913,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2814,913,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2815,913,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2816,913,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2817,913,4,",Red,Line",#DA1721,10,Savin Hill
+2818,914,0,",B",#00843D,10,Allston Street
+2819,914,1,",Framingham/Worcester",#8E44AD,5,Boston Landing
+2820,914,2,",64",#F5C00E,1,N Beacon St opp Saunders St
+2821,914,3,",51,57,66",#F5C00E,3,Cambridge St @ Saunders St
+2822,915,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2823,915,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2824,915,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2825,915,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2826,915,4,",Red,Line",#DA1721,10,Savin Hill
+2827,916,0,",Red,line",#DA1721,12,JFK / UMass
+2828,916,1,",Greenbush/Kingston",#8E44AD,12,JFK / UMass
+2829,916,2,",16,17,18",#F5C00E,2,Boston St @ Howell St
+2830,917,0,",Fairmount",#8E44AD,13,Newmarket
+2831,917,1,",Franklin",#8E44AD,13,Newmarket
+2832,917,2,",Red",#DA1721,8,Andrew
+2833,918,0,",E",#008000,14,Symphony Station
+2834,918,1,",Framingham/Worcester,Line",#8E44AD,10,Lansdowne
+2835,919,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2836,919,1,",Red,Line",#DA1721,10,Porter
+2837,919,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2838,920,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2839,920,1,",14,41,45",#F5C00E,2,Dudley St @ Guild Row
+2840,921,0,",64",#EB841E,6,Faneuil St @ Oak Square
+2841,921,1,",57",#EB841E,6,Tremont St @ Washington St
+2842,921,2,",501",#EB841E,8,Tremont St opp Tremont Pl
+2843,922,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2844,922,1,",14,41,45",#F5C00E,2,Dudley St @ Guild Row
+2845,923,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2846,923,1,",16,17,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2847,923,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2848,923,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2849,923,4,",Red,Line",#DA1721,10,Savin Hill
+2850,924,0,",Red,Line",#DA1721,9,Harvard
+2851,924,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+2852,925,0,",18",#F5C00E,4,Dorchester Ave @ Pearl St
+2853,925,1,",16,,17,,41",#F5C00E,7,Columbia Rd @ Stoughton St
+2854,925,2,",Fairmount,Line",#8E44AD,11,Upham's Corner
+2855,925,3,",Franklin,Line/Foxboro,Pilot",#8E44AD,11,Upham's Corner
+2856,925,4,",Red,Line",#DA1721,10,Savin Hill
+2857,926,0,",18",#F5C00E,3,Dorchester Ave Romsey St
+2858,927,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2859,927,1,",14,41,45",#F5C00E,2,Dudley St @ Guild Row
+2860,928,0,",15,17",#F7C751,2,Bowdoin St @ Winter St
+2861,928,1,",18",#F7C751,5,Dorchester Ave @ Dewar St
+2862,928,2,",Red,line",#CE3C32,11,Savin Hill
+2863,929,0,",Red,line",#DA1721,12,JFK / UMass
+2864,929,1,",Greenbush/Kingston",#8E44AD,12,JFK / UMass
+2865,929,2,",16,17,18",#F5C00E,2,Boston St @ Howell St
+2866,930,0,",B",#018835,14,Harvard Avenue
+2867,930,1,",70,86",#F5C00E,12,Western Ave @ Everest
+2868,931,0,",B",#00843D,4,Washington Street
+2869,931,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2870,932,0,",Fitchburg,Line",#7F2A6B,10,Porter
+2871,932,1,",Red,Line",#DA1721,10,Porter
+2872,932,2,",83,87",#F5C00E,10,Somerville Ave @ Lowell St
+2873,933,0,",B",#00843D,4,Washington Street
+2874,933,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2875,934,0,",B",#00843D,2,Chiswick Road
+2876,934,1,",86",#F5C00E,4,Chestnut Hill Ave @ Embassy Rd
+2877,935,0,",64,66,501",#F5C00E,1,Cambridge Street
+2878,935,1,",B",#018835,8,Harvard Avenue
+2879,936,0,",B",#00843D,9,Chiswick Road
+2880,936,1,",С",#00843D,15,Cleveland Circle
+2881,936,2,",51,86",#F2BD2A,3,Chestnut Hill Ave @ Wiltshire Rd
+2882,937,0,",Red,Line",#DA1721,9,Harvard
+2883,937,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+2884,938,0,",Orange,Line",#ed8b00,11,Roxbury Crossing
+2885,938,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2886,938,2,",22,29,44",#f2bd2a,11,Jackson Square
+2887,939,0,",10",#F7C751,1,Dorchester St @ W 5th St
+2888,939,1,",11",#F7C751,2,W 6th St @ F St
+2889,939,2,",Red,Line",#CE3C32,13,Andrew
+2890,940,0,",B",#00843D,4,Washington Street
+2891,940,1,",65",#F5C00E,3,Corey Rd & Washington Street
+2892,941,0,",Orange,line",#EB841E,10,Roxbury Crossing
+2893,941,1,",15,19,23,28,44",#F5C00E,2,Malcolm X Blvd @ Shawmut Ave
+2894,941,2,",14,41,45",#F5C00E,2,42A John Eliot Sq
+2895,942,0,",Red,Line",#DA1721,9,Harvard
+2896,942,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+2897,943,0,",B",#018835,8,Harvard Avenue
+2898,943,1,",64,66,501",#F5C00E,1,Cambridge Street
+2899,944,0,",57,501",#EB841E,8,Tremont St opp Tremont Pl
+2900,944,1,",64",#EB841E,8,Faneuil St @ Brooks St
+2901,945,0,",B",#018835,1,Harvard Avenue
+2902,945,1,",57",#F5C00E,2,Brighton Ave @ Harvard Ave
+2903,946,0,",Red,Line",#DA1721,9,Harvard
+2904,946,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+2905,947,0,",B",#018835,14,Harvard Avenue
+2906,947,1,",70,86",#F5C00E,12,Western Ave @ Everest
+2907,948,0,",Orange,Line",#EB841E,11,Roxbury Crossing
+2908,948,1,",14,41",#f2bd2a,3,Centre St @ Cedar St
+2909,948,2,",22,29,44",#F5C00E,11,Jackson Square
+2910,949,0,",501,503",#FFBF00,5,Winship St @ Union St
+2911,949,1,",51,86",#FFBF00,3,Chestnut Hill Ave @ Jackson Ave
+2912,949,2,",B",#008000,12,Chiswick Road
+2913,950,0,",Red",#DA1721,8,Andrew
+2914,950,1,",Fairmount",#8E44AD,13,Newmarket
+2915,950,2,",Franklin",#8E44AD,13,Newmarket
+2916,951,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+2917,951,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+2918,951,2,",B",#018835,15,Harvard Avenue
+2919,951,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2920,952,0,",B",#018835,5,Griggs Street
+2921,952,1,",57,66",#F5C00E,5,Brighton Ave @ Allston St
+2922,952,2,",Green,Line,B,Shuttle",#F5C00E,5,Griggs Street
+2923,954,0,",501,503",#FFBF00,5,Winship St @ Union St
+2924,954,1,",51,86",#FFBF00,3,Chestnut Hill Ave @ Jackson Ave
+2925,954,2,",B",#008000,12,Chiswick Road
+2926,955,0,",Red,Line",#DA1721,9,Harvard
+2927,955,1,",1",#F5C00E,1,Mt Auburn St @ Putnam Ave
+2928,956,0,",Red,line",#CE3C32,11,Savin Hill
+2929,956,1,",15,17",#F7C751,2,Bowdoin St @ Winter St
+2930,956,2,",18",#F7C751,7,Dorchester Ave @ Dewar St
+2931,957,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+2932,957,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+2933,957,2,",B",#018835,15,Harvard Avenue
+2934,957,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St
+2935,958,0,",18",#F5C00E,3,Dorchester Ave Romsey St
+2936,959,0,",501,503",#FFBF00,5,Winship St @ Union St
+2937,959,1,",51,86",#FFBF00,3,Chestnut Hill Ave @ Jackson Ave
+2938,959,2,",B",#008000,12,Chiswick Road
+2939,960,0,",66",#F5C00E,4,N Harvard St @ Coolidge Rd
+2940,960,1,",64",#F5C00E,7,Cambridge St @ Lincoln St
+2941,960,2,",B",#018835,15,Harvard Avenue
+2942,960,3,",70,86",#F5C00E,8,Western Ave @ Riverdale St

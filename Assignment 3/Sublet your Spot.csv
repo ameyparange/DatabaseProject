@@ -1,0 +1,38 @@
+Name,PhoneNumber,Email,Gender,Address,ProxToUni,Brokerage,LeaseSpotType,BedroomCount,BathroomCount,Rent,DietaryPref,GenderPref,Amenities,AvailSpot,PrefMoveInDate,AvailSpotNum
+Siddharth ,8578320778,siddharth.bh21@gmail.com,Male,1350 Commonwealth Avenue ,2,0,On Lease,4,1,775,Vegetarian,Boys,Heat;Hot Water;WiFi,Private Bedroom,12/30/22,1
+Haseeb,8573707375,haseeb98h@gmail.com,Male,2 Mark Street Apt 2,1.5,0,Off Lease,3,1,450,None,None/Mixed Gender,WiFi,Hall Spot,12/18/22,1
+Vishnu Priya Nuthanapati,2677166936,nuthanapati.v@northeastern.edu,Female,463 park drive,0.9,600,Off Lease,3,1,600,Non Vegetarian,Girls,Heat;Hot Water,Shared Bedroom Spot,1/1/23,2
+Chaitanya Patil,8573963630,chaitanyapatil698@gmail.com,Male,"160 Williams st, Jamaica Plain, MA - 02130",2.6,208,Off Lease,2,1,500,Non Vegetarian,Boys,Hot Water;Balcony,Hall Spot,1/1/23,1
+Shailesh,7218922949,shailesh7322@gmail.com,Male,15 Albion Street Roxbury MA,1.4,700,Off Lease,4,2,700,None,Boys,In-house laundry;Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,1/1/23,2
+Akshit Varma,8577469894,akshit.kallepalli@gmail.com,Male,"3270 Washington st., Jamaica Plain 02130",2.1,513,Off Lease,3,1,513,Non Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/15/22,2
+Shaila Verma,8573135613,shailaverma20@gmail.com,Female,"1085 Boylston Street, Boston, 02215",0.3,400,Off Lease,1,1,620,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi,Shared Hall Spot,12/14/22,1
+Khushi Raval,8573135636,barodakhushi26@gmail.com,Female,10C horadan way Boston MA 02120,0.5,0,On Lease,2,1,466,Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi,Shared Hall Spot,1/1/23,2
+Saad,6172384043,saad.aijazahmed@gmail.com,Male,98-100 Centre St ,0.7,750,On Lease,2,1,1100,Non Vegetarian,Boys,In-house laundry;Heat;Hot Water;WiFi;Balcony,Private Bedroom,11/28/23,2
+Rithvik Vanteru,8573353412,rrithvik18@gmail.com,Male,9 Pompeii street unit 1 Roxbury ,1.2,0,On Lease,2,2,2500,Non Vegetarian,Boys,In-house laundry;Heat;Hot Water;Balcony,Shared Bedroom Spot,1/1/00,1
+Keerthana Reddy,8578321796,Hello.keerthanareddy@gmail.com,Female,"47 Dalrymple St, Apt 3, Jamaica plain, Boston, 02130",1.9,410,Off Lease,4,1,820,None,Girls,In-house laundry;Heat;Hot Water;WiFi;Balcony,Private Bedroom,1/1/23,1
+Bhanu Sai Simha Vanam,8579301811,vanam.b@northeastern.edu,Male,5B Cornelia Ct,0.7,0,Off Lease,3,2,445,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony,Shared Hall Spot,12/21/22,1
+Mohan Raj Addluru,8374593819,addlurumohanraj@gmail.com,Male,"75 ST alphonsus ST, Boston MA",0.9,562,Off Lease,1,1,562,Non Vegetarian,Boys,Heat;Hot Water;Balcony;Gym,Shared Hall Spot,12/17/22,1
+Nikhil Chaudhary ,7709805589,nikhilchaudhary5589@gmail.com,Male,17c Smith Street,1,0,Off Lease,2,1,608,None,Boys,In-house laundry;Heat;Hot Water,Shared Hall Spot,11/23/22,1
+Gauravi Sanjay Bendre,6124579263,gauravibendre25@gmail.com,Female,85 Park Drive,0.5,0,On Lease,2,1,820,Vegetarian,Girls,Hot Water;WiFi;Fully furnished Apartment,Shared Bedroom Spot,12/13/22,1
+Sreeram Sripada,8096214502,sreeram.3107@gmail.com,Male,Ushodaya Junction,1.5,0,On Lease,3,2,500,Non Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony;Gym;Swimming Pool,Shared Bedroom Spot,12/30/22,3
+Manaswini,8573816342,kamtam.m@northeastern.edu,Female,18 Rockville Park,1.3,550,On Lease,3,2,550,Non Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,12/28/22,2
+Darpan Mehra,3322208908,emperor.caskets-0a@icloud.com,Male,"133 Peterborough Street, Boston",0.5,0,Off Lease,2,1,588,Non Vegetarian,Boys,Heat;Hot Water;WiFi,Shared Bedroom Spot,5/15/23,1
+Avani,8602200918,avanikala123@gmail.com,Female,"226 Parker Hill Ave, Boston, MA",1,442,Off Lease,2,1,442,Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/17/22,1
+Nainil Maladkar,6178607502,nainil30maladkar@gmail.com,Male,"Apt 22, 235 Park Drive",0.6,0,On Lease,1,1,660,None,Boys,Heat;Hot Water;WiFi;Electricity and Gas,Shared Bedroom Spot,12/18/22,1
+Sunaina Mahindrakar ,8573135893,sunainaa9@gmail.com,Female,16 Westland Ave,0.3,675,On Lease,2,1,675,Non Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/20/22,1
+Samradni Pathari ,8574520716,samradnipathari15@gmail.com,Female,20 Moreland Street,1,500,Off Lease,3,1,500,Non Vegetarian,Girls,"In-house laundry;Heat;Hot Water;Oven, Microwave, TV",Shared Bedroom Spot,1/20/23,1
+Chaitanya Inamdar,8574983342,susmiti63@gmail.com,Male,881 Huntington Avenue Apt no 7,0.8,0,Off Lease,2,1,560,None,Boys,Heat;Hot Water;WiFi,Shared Bedroom Spot,1/1/23,1
+Kumari Puja,6179829977,pujap005@gmail.com,Female,"Germain street, near reflection pond and Prudential center ",0.5,0,Off Lease,2,1,608,None,Girls,Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,12/18/22,1
+Rahul Tiwari,6177089652,rahultiwariofficial2020@gmail.com,Male,13 Cornelia Court,0.6,540,Off Lease,3,2,540,None,Boys,In-house laundry;Heat;Hot Water;Balcony,Shared Hall Spot,1/1/23,1
+Dhaval Tanna,8573968276,dhavaltanna129@gmail.com,Male,"50 Evergreen street, Jamaica Plain ",1.7,383,On Lease,1,1,575,Vegetarian,None/Mixed Gender,Heat;Hot Water,Shared Hall Spot,1/1/23,1
+Abhigna Reddy ,6174127035,abhignareddy721@gmail.com,Female,"Apt 3E,123 Northampton street, Boston ",0.4,0,On Lease,2,1,25,None,Girls,"Heat;Hot Water;WiFi;AC , Microwave, Refrigerator , Dishwasher",Shared Bedroom Spot,12/16/22,1
+Isabel Johnson,7816985279,isabeljohnson06@gmail.com,Female,2591 Washington Street ,1.9,0,Off Lease,5,2,575,Non Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/1/22,1
+Darshana Rokade ,6172388113,rokadedarshana47@gmail.com,Female,Jvue at the LMA Apartments ,0.7,560,Off Lease,1,1,560,Non Vegetarian,Girls,Heat;Gas,Shared Hall Spot,1/2/23,3
+Nikhil,8778346783,nikhilmadhavan003@gmail.com,Male,"52 Townsend Street, 02119",1.5,638,Off Lease,2,1,638,Non Vegetarian,Boys,Heat;Hot Water;WiFi,Shared Bedroom Spot,1/1/23,1
+Divya M,8096719614,divyamyneni333@gmail.com,Female,75 St.Alphonsus street Roxbury crossing,1.1,630,On Lease,1,1,630,Vegetarian,Girls,In-house laundry;Heat;Hot Water;Balcony;Gym;Swimming Pool,Shared Bedroom Spot,12/20/22,1
+Darshit Shah ,8108149348,darshitshah310@gmail.com,Male,50 evergreen st ,1.7,380,Off Lease,1,1,575,Vegetarian,None/Mixed Gender,Heat;Hot Water,Shared Hall Spot,1/1/23,2
+Bhavik Bhosale,6172384704,bhavik.bhosale21@gmail.com,Male,30 woodbine st,1.3,0,On Lease,3,1,590,Vegetarian,Boys,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/15/22,1
+Parvathy Biju Pillai,7542561019,pillai.p@northeastern.edu,Female,892 Huntington Ave,1.1,624,On Lease,2,1,624,Non Vegetarian,Girls,Hot Water,Shared Bedroom Spot,1/1/23,1
+Pavan,9398028216,pavankumarpk093@gmail.com,Male,Hyderabad,2,0,On Lease,2,2,600,Vegetarian,None/Mixed Gender,In-house laundry;Hot Water,Shared Bedroom Spot,12/25/22,1
+Vyshnavi,7658956411,vyshnavidevi.doppalapudi@gmail.com,Female,"59 Parkman St Apt 3A, Brookline",1.8,0,Off Lease,2,1,500,None,Girls,Heat;Hot Water,Shared Bedroom Spot,1/1/23,1
+Venkati Kavya Kandipalli,7989463259,kavya03.ks@gmail.com,Female,Jvue Apartments,1,550,Off Lease,2,2,563,Non Vegetarian,Girls,Heat;Hot Water;Balcony;Gym;Swimming Pool,Shared Bedroom Spot,1/1/23,1

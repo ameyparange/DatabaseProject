@@ -1,0 +1,30 @@
+Name,PhoneNumber,Email,Gender,Address,ProximityToUni,BedroomCount,BathroomCount,TempRent,DietaryPref,GenderPref,Amenities,AvailableSpot,PrefMoveInDate,PrefMoveOutDate,AvailSpotNum
+Neha Bhutkar,8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,Non Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,11/5/22,11/30/22,1
+Srishti,8572507266,srishtiabalamatti@gmail.com,Female,14 Hillside Street,0.7,5,2,35,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony,Private Bedroom,12/5/22,12/31/22,2
+Bharath Chandra Bottu ,8575446711,bharathchandra2253@gmail.com,Male,2593 Washington St,1.2,3,1,20,Non Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,1/1/23,2/15/23,1
+Manish,8573790129,m.maniish1@gmail.com,Male,115 Northampton Street ,0.7,2,1,18,Vegetarian,Boys,Heat;Hot Water;WiFi;Electricity,Shared Bedroom Spot,12/17/22,1/7/23,1
+Nainil Maladkar,6178607502,nainil30maladkar@gmail.com,Male,"Apt 22, 235 Park drive. Boston 02215",0.6,1,1,22,Non Vegetarian,Boys,Heat;Hot Water;WiFi,Shared Bedroom Spot,12/1/22,1/7/23,1
+Sagar Mehta,8573819416,sagarymehta24@gmail.com,Male,682 parker street #1,0.5,3,2,20,Vegetarian,Boys,Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,12/21/22,1/2/23,1
+Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,In-house laundry;Heat;Hot Water;WiFi;Balcony,Shared Bedroom Spot,12/14/22,1/10/23,1
+KIMAYA SHAH,8578698800,shah.kim@northeastern.edu,Female,1203 Boylston Street,0.5,2,1,20,Vegetarian,Girls,In-house laundry;Heat;Hot Water;WiFi,Shared Bedroom Spot,12/31/22,1/23/23,1
+Supriya Tripathi,6092556159,tripathi.su@northeastern.edu,Female,73 Park Dr,0.7,1,1,30,None,Girls,Hot Water;WiFi;Balcony,Hall Spot,12/17/22,1/11/23,1
+Mrunal ,8574927668,mrnlsuryavanshi@gmail.com,Female,1185 Boylston Street ,0.7,2,1,20,Vegetarian,Girls,Heat;Hot Water;WiFi,Shared Bedroom Spot,12/5/22,1/10/23,1
+Samradni Pathari ,8574520716,samradnipathari15@gmail.com,Female,20 Moreland Street ,1,3,1,14,Non Vegetarian,Girls,In-house laundry;Heat;Hot Water,Shared Bedroom Spot,12/10/22,12/31/22,1
+Vidip Vimal Kamdar,6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;Balcony;Gym;Swimming Pool,Hall Spot,1/2/23,1/8/23,2
+Tejas Sridhar,8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,Non Vegetarian,Boys,Heat;Hot Water;WiFi;Balcony;Gym,Shared Bedroom Spot,1/3/23,1/18/23,1
+Shraavya Srinivasarao ,8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,Non Vegetarian,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Fully furnished room.,Private Bedroom,12/24/22,1/30/23,1
+Atharva,8108883775,atharvadanke98@gmail.com,Male,75 Saint Alphonsus Street,1,2,2,24,Non Vegetarian,Boys,In-house laundry;Heat;Hot Water;Balcony;Gym;Swimming Pool,Shared Bedroom Spot,12/25/22,12/31/22,1
+Srilekha ,8572077688,lekhak.0996@gmail.com,Female,364 riverway ,2,2,1,12,None,Girls,Heat;Hot Water;WiFi,Shared Bedroom Spot,12/5/22,1/12/23,2
+Riya Virani,3477178224,virani.ria@gmail.com,Female,1167 boylston st,0.9,1,1,22,None,Girls,Heat;Hot Water;WiFi,Shared Bedroom Spot,12/19/22,12/26/22,1
+Manvith B Y,7337872316,manvith18@gmail.com,Male,"Hillside Street, Boston",1,1,1,36,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi,Private Bedroom,12/5/22,12/31/22,1
+Shailesh,7218922949,shailesh7322@gmail.com,Male,15 Albion Street Roxbury,1.4,1,1,25,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony;Garden,Private Bedroom,1/1/23,8/1/23,2
+Achyut,9880451157,ramakrishnaachyut@gmail.com,Male,"13 Greylock Rd #3, Allston",2.5,4,2,18,None,Boys,In-house laundry,Hall Spot,1/5/23,8/31/23,1
+Vandana Gora,8573996068,gora.v@northeastern.edu,Female,Hillside street,1,1,1,27,None,Girls,Heat;Hot Water;WiFi;Balcony;Laundry in basement ,Private Bedroom,12/22/22,1/20/23,2
+Devki Patel ,3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,Heat;Hot Water;WiFi;Balcony;Gym;Swimming Pool,Shared Hall Spot,12/16/22,1/5/22,1
+Surya Pratap Singh ,8572779981,surps1700@gmail.com,Male,1167 Boylston St ,0.7,1,1,18,None,Boys,Heat;Hot Water;WiFi,Shared Hall Spot,1/2/23,1/8/23,1
+Hemanth RAMESH,8573905572,rhemanth818@gmail.com,Male,"13 Tabor PL , Brookline",1.8,2,1,17,None,None/Mixed Gender,In-house laundry;Heat;Hot Water,Shared Bedroom Spot,12/27/22,1/15/23,1
+Sanjana,8574001111,sanjana2300@gmail.com,Female,75 saint alphonsus st (J VUE),0.8,1,1,18,None,Girls,Heat;Hot Water;Balcony;Gym;Swimming Pool,Shared Bedroom Spot;Private Bedroom,12/20/22,1/19/23,3
+Tanishka Adhlakha,8574983378,tanishkaadhlakha@gmail.com,Female,"75 Alphonsos street , Jvue ",0.5,1,1,20,None,Girls,Balcony;Gym;Swimming Pool,Shared Bedroom Spot,12/17/22,1/5/23,1
+Ankita Indi,4258665218,indiankita02@gmail.com,Female,135 Northampton Street Apt B,0.7,3,1,30,None,None/Mixed Gender,Heat;Hot Water,Private Bedroom,1/1/23,1/31/23,1
+Saicharan ,8011036272,saicharan509@gmail.com,Male,Heath Street ,1.9,1,1,25,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony,Hall Spot;Shared Bedroom Spot;Private Bedroom,12/19/22,1/5/23,3
+Ayush Patel,8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,None/Mixed Gender,In-house laundry;Heat;Hot Water;WiFi;Balcony;Gym,Shared Bedroom Spot,12/19/22,1/2/23,1

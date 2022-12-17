@@ -1,0 +1,94 @@
+------------------------------------------------OLD---------------------------------------------
+  CREATE TABLE `SubleaseRoommate` (
+  `RoommateID` INT NOT NULL AUTO_INCREMENT,
+  `Name` VARCHAR(45) ,
+  `Gender` VARCHAR(45),
+  `PhoneNumber` varchar(10) ,
+  `Email` VARCHAR(45),
+  `Budget` INT,
+  `RoommateDietaryPref` VARCHAR(45),
+  `RoommateGenderPref` VARCHAR(45),
+  `Amenities` VARCHAR(45), -------------new table
+  `PrefModeofTravel` VARCHAR(45),
+  `TypeOfSpot` VARCHAR(45),
+  `PrefMoveInDate` DATE,
+  `NoOfRoommates` INT,
+  PRIMARY KEY (`RoommateID`),
+  UNIQUE INDEX `RoommateID_UNIQUE` (`RoommateID` ASC) VISIBLE);
+
+ CREATE TABLE `SubleaseSpot` (
+  `SpotID` INT NOT NULL AUTO_INCREMENT,
+  `Name` VARCHAR(45),
+  `PhoneNumber` VARCHAR(10),
+  `Email` VARCHAR(45),
+  `Gender` VARCHAR(45) ,
+  `Address` VARCHAR(200),
+  `ProxToUni` FLOAT,
+  `Brokerage` INT,
+  `LeaseSpotType` VARCHAR(100),
+  `BedroomCount` INT,
+  `BathroomCount` INT,
+  `Rent` INT,
+  `DietaryPref` VARCHAR(45),
+  `GenderPref` VARCHAR(45),
+  `Amenities` VARCHAR(200),
+  `AvailSpot` VARCHAR(45),
+  `PrefMoveInDate` DATE,
+  `AvailSpotNum` INT,
+  PRIMARY KEY (`SpotID`),
+  UNIQUE INDEX `SpotID_UNIQUE` (`SpotID` ASC) VISIBLE);
+
+
+
+---------------------------------------------3NF--------------------------------------------
+  CREATE TABLE `roommate` (
+  `roommateid` INT NOT NULL AUTO_INCREMENT,
+  `roommatetype` VARCHAR(45), --renter or rentee
+  `Name` VARCHAR(45),
+  `PhoneNumber` VARCHAR(10),
+  `Email` VARCHAR(45),
+  `Gender` VARCHAR(45),
+  `add_id` INT,
+  PRIMARY KEY (`RoommateID`));
+  
+  ---AMey ver
+   CREATE TABLE `address` (
+  `add_id` INT NOT NULL AUTO_INCREMENT,
+  `Street` VARCHAR(45),
+  `Unit` VARCHAR(45),
+  `City` VARCHAR(10),
+  `State` VARCHAR(45),
+  `Zipcode` VARCHAR(45),
+  PRIMARY KEY (`add_id`));
+
+  
+
+    CREATE TABLE `RoommatePreference` (
+	`roommateprefid` INT NOT NULL AUTO_INCREMENT,
+	`roommateid` INT NOT NULL,	
+	`dietpref` VARCHAR(45),
+	`GenderPref` VARCHAR(45),
+	`PrefMoveInDate` DATE
+  PRIMARY KEY (`preferenceid`));
+  
+		CREATE TABLE `SpotPreference` (
+	`spotprefid` INT NOT NULL AUTO_INCREMENT,
+	`roommateid` INT NOT NULL,	
+	`accomodation_type` VARCHAR(45), -----------Leased or Temporary
+	`Budget` INT,
+	`PrefModeofTravel` VARCHAR(45),
+	`PrefMoveInDate` DATE,
+	`availspot` INT,
+  PRIMARY KEY (`preferenceid`));
+  
+  	CREATE TABLE `Spotamenities` (
+	`spotamenitiesid` INT NOT NULL AUTO_INCREMENT,
+	`roommateid` INT NOT NULL,	
+	`Wifi` VARCHAR(10), 
+	`Wifi` VARCHAR(10), 
+	`Wifi` VARCHAR(10), 
+	`PrefMoveInDate` DATE,
+	`availspot` INT,
+  PRIMARY KEY (`preferenceid`)); 
+  
+ 

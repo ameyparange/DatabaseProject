@@ -1,0 +1,201 @@
+INSERT INTO JuneApartments(
+id,
+Apt_id ,
+url ,
+address,
+Beds ,
+Bath ,
+Price ,
+BedArea ,
+Availablefrom ,
+Availabletill ,
+Description 
+)
+VALUES
+	( '1001',
+       '78',
+       'https://junehomes.com/residences/boston-ma/mission-hill/1068-mission-hill/3141',
+       'Park Drive',
+		'2',
+		'2',
+		'1100',
+		'69',
+		'2022-12-05',
+		'2023-01-04',
+'This comfy, cute and charming room is available'
+                             );
+
+INSERT INTO JuneAmenities(
+id,
+Amenities
+)
+VALUES
+	(
+    '6811',
+	'Wifi'
+                             );  
+
+INSERT INTO Junetransport(
+id,
+Trans_id,
+stations,
+color,
+walktime,
+description)
+VALUES
+	(
+                                  '9',
+                                   '2',
+                                    'Blue Line',
+                                   '#2040AA',
+                                   '10',
+                                  'Boston Landing'
+                             );
+
+INSERT INTO SubleaseSpot(
+    
+  `Name`, 
+  `PhoneNumber`,
+  `Email`,
+  `Gender`,
+  `Address`,
+  `ProxToUni`,
+  `Brokerage`,
+  `LeaseSpotType`,
+  `BedroomCount`,
+  `BathroomCount`,
+  `Rent`,
+  `DietaryPref`,
+  `GenderPref`,
+  `Amenities`,
+  `AvailSpot`,
+  `PrefMoveInDate`,
+  `AvailSpotNum`
+  )
+VALUES
+	
+                                 (
+                                 
+                                 'Vaishali Mhatre',
+                                   '8573286790',
+                                   'veenam45@gmail.com',
+								   'Female',
+                                  'Park Drive',
+								  '0.5',
+		                          '700',
+                                  'OnLease',
+		                          '2',
+                                  '3',
+								'1100',  
+                                'Vegetarian',
+                                'Female',
+                                'Dishwasher',
+                                '1',
+                                '2023-01-01',
+                       '1'
+                                  );
+
+
+
+INSERT INTO SubleaseRoommate(
+  `Name`, 
+  `Gender`,
+   `PhoneNumber`,
+  `Email`,
+  `Budget`,
+  `RoommateDietaryPref`,
+  `RoommateGenderPref`,
+  `Amenities`,
+  `PrefModeofTravel`,
+  `TypeOfSpot`,
+  `PrefMoveInDate`,
+  `NoOfRoommates`
+  )
+VALUES
+	
+                                 ( 
+                                 'Shalini Pawar',
+                                 'Female',
+                                   '8573286790',
+                                   'veenam45@gmail.com',
+								   '700',
+                                  'Vegetarian',
+		                          'Female',
+                                  'Wifi',
+								'Green Line',  
+                                'OnLease',
+                                '2023-01-01',
+                                '2'
+                                  );
+								  
+INSERT INTO TemporarySpot(
+  `Name`, 
+   `PhoneNumber`,
+     `Email`,
+      `Gender`, 
+  `Address`,
+  `ProximityToUni`,
+  `BedroomCount`,
+  `BathroomCount`,
+  `TempRent`,
+  `DietaryPref`,
+  `GenderPref`,
+  `Amenities`,
+  `AvailableSpot`,
+  `PrefMoveInDate`,
+   `PrefMoveOutDate`,
+   `AvailSpotNum`
+  )
+VALUES
+	
+                                 ( 
+                                 'Sayak Hande',
+                                '8573286790',
+                                'veenam45@gmail.com',
+                                  'Male',
+                                  'J Vue at the LMA',
+								   '0.5',
+                                   '2',
+                                   '2',
+                                   '10',
+                                  'Vegetarian',
+		                          'Female',
+                                  'INHouseLoundry',
+								'2',  
+                                '2023-01-01',
+                                '2023-02-05',
+                                '2'
+   
+);
+
+
+INSERT INTO TemporaryRoommate(`RoommateId`,
+  `Name`, 
+  `Gender`,
+   `PhoneNumber`,
+  `Email`,
+  `Budget`,
+  `DietaryPref`,
+  `GenderPref`,
+  `Amenities`,
+  `PrefModeofTravel`,
+  `TypeOfSpot`,
+  `PrefMoveInDate`,
+  `NoOfRoommates`
+  )
+VALUES
+	
+                                 ( '1',
+                                 'Shalini Pawar',
+                                 'Female',
+                                   '8573286790',
+                                   'veenam45@gmail.com',
+								   '700',
+                                  'Vegetarian',
+		                          'Female',
+                                  'Wifi',
+								'Green Line',  
+                                'OnLease',
+                                '2023-01-01',
+                                '2'
+                                  );

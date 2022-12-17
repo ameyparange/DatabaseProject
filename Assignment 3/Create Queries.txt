@@ -1,0 +1,104 @@
+CREATE TABLE JuneApartments
+(
+id int not NULL PRIMARY KEY,
+Apt_id int,
+url varchar(300),
+address varchar(100),
+Beds decimal,
+Bath decimal,
+Price decimal,
+BedArea int,
+Availablefrom date,
+Availabletill date,
+Description varchar(500));	
+
+
+CREATE TABLE JuneAmenities
+(
+id int not NULL ,
+Amenities varchar(100));	
+
+
+CREATE TABLE Junetransport
+(
+id int not NULL ,
+Trans_id int,
+stations varchar(100),
+color varchar(100),
+walktime int,
+description varchar(100));
+
+CREATE TABLE `SubleaseSpot` (
+  `SpotID` INT NOT NULL AUTO_INCREMENT,
+  `Name` VARCHAR(45),
+  `PhoneNumber` VARCHAR(10),
+  `Email` VARCHAR(45),
+  `Gender` VARCHAR(45) ,
+  `Address` VARCHAR(200),
+  `ProxToUni` FLOAT,
+  `Brokerage` INT,
+  `LeaseSpotType` VARCHAR(100),
+  `BedroomCount` INT,
+  `BathroomCount` INT,
+  `Rent` INT,
+  `DietaryPref` VARCHAR(45),
+  `GenderPref` VARCHAR(45),
+  `Amenities` VARCHAR(200),
+  `AvailSpot` VARCHAR(45),
+  `PrefMoveInDate` DATE,
+  `AvailSpotNum` INT,
+  PRIMARY KEY (`SpotID`),
+  UNIQUE INDEX `SpotID_UNIQUE` (`SpotID` ASC) VISIBLE);
+  
+
+  CREATE TABLE `SubleaseRoommate` (
+  `RoommateID` INT NOT NULL AUTO_INCREMENT,
+  `Name` VARCHAR(45) ,
+  `Gender` VARCHAR(45),
+  `PhoneNumber` varchar(10) ,
+  `Email` VARCHAR(45),
+  `Budget` INT,
+  `RoommateDietaryPref` VARCHAR(45),
+  `RoommateGenderPref` VARCHAR(45),
+  `Amenities` VARCHAR(45),
+  `PrefModeofTravel` VARCHAR(45),
+  `TypeOfSpot` VARCHAR(45),
+  `PrefMoveInDate` DATE,
+  `NoOfRoommates` INT,
+  PRIMARY KEY (`RoommateID`),
+  UNIQUE INDEX `RoommateID_UNIQUE` (`RoommateID` ASC) VISIBLE);
+  
+CREATE TABLE TemporarySpot
+(SpotID int NOT NULL PRIMARY KEY,
+Name VARCHAR(45),
+PhoneNumber int(10),
+Email VARCHAR(45),
+Gender VARCHAR(45),
+Address VARCHAR(200),
+ProximityToUni float,
+BedroomCount int,
+BathroomCount int,
+TempRent int,
+DietaryPref VARCHAR(45),
+GenderPref VARCHAR(45),
+Amenities VARCHAR(45),
+AvailableSpot VARCHAR(45),
+PrefMoveInDate date,
+PrefMoveOutDate date,
+AvailSpotNum int);
+
+CREATE TABLE TemporaryRoommate
+(RoommateId int NOT NULL PRIMARY KEY,
+Name varchar(45),
+Gender varchar(45),
+PhoneNumber varchar(10),
+Email varchar(45),
+Budget varchar(45),
+DietaryPref varchar(45),
+GenderPref varchar(45),
+Amenities varchar(45),
+PrefModeofTravel varchar(45),
+TypeOfSpot varchar(45),
+PrefMoveInDate date,
+NoOfRoommates int);
+

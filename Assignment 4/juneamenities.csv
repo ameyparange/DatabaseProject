@@ -1,0 +1,1001 @@
+id,Amenities
+0,"WiFi (Paid)"
+0,Smoke-free
+0,"Guarantors allowed"
+0,"Radiator heating"
+0,"Laundry in building (paid)"
+0,"Street parking"
+1,"WiFi (Paid)"
+1,Smoke-free
+1,"Guarantors allowed"
+1,"Radiator heating"
+1,"Laundry in building (paid)"
+1,"Street parking"
+2,"Paid parking"
+2,Dishwasher
+2,"Radiator heating"
+2,"Dining area"
+2,Smoke-free
+2,"Guarantors allowed"
+2,"Laundry in home (free)"
+2,Balcony
+2,"Living area"
+2,"Hardwood floors"
+2,Microwave
+2,Oven
+2,Refrigerator
+3,"Dining area"
+3,"WiFi (Paid)"
+3,Smoke-free
+3,"Guarantors allowed"
+3,"Laundry in building (paid)"
+3,"Street parking"
+3,"32-inch Flat-Screen TV"
+3,"Radiator heating"
+3,Dishwasher
+3,"Living area"
+3,"Hardwood floors"
+3,Microwave
+3,Oven
+3,Refrigerator
+4,"Dining area"
+4,"WiFi (Paid)"
+4,Smoke-free
+4,"Guarantors allowed"
+4,"Laundry in building (paid)"
+4,"Street parking"
+4,"32-inch Flat-Screen TV"
+4,"Radiator heating"
+4,Dishwasher
+4,"Living area"
+4,"Hardwood floors"
+4,Microwave
+4,Oven
+4,Refrigerator
+5,"Dining area"
+5,"WiFi (Paid)"
+5,Smoke-free
+5,"Guarantors allowed"
+5,"Laundry in building (paid)"
+5,"Street parking"
+5,"32-inch Flat-Screen TV"
+5,"Radiator heating"
+5,Dishwasher
+5,"Living area"
+5,"Hardwood floors"
+5,Microwave
+5,Oven
+5,Refrigerator
+6,"Laundry in building (paid)"
+6,"32-inch Flat-Screen TV"
+6,Dishwasher
+6,"WiFi (Paid)"
+6,Smoke-free
+6,"Guarantors allowed"
+6,"Radiator heating"
+6,"Dine in kitchen"
+6,"Living area"
+6,"Parking Spot (Paid)"
+6,"Hardwood floors"
+6,Microwave
+6,Oven
+6,Refrigerator
+7,"Paid parking"
+7,Smoke-free
+7,"Guarantors allowed"
+7,"Laundry in building (paid)"
+7,"Dine in kitchen"
+7,"Electric heating"
+7,"Hardwood floors"
+7,Microwave
+7,Oven
+7,Refrigerator
+8,"Paid parking"
+8,Dishwasher
+8,"Radiator heating"
+8,"Dining area"
+8,Smoke-free
+8,"Guarantors allowed"
+8,"Laundry in home (free)"
+8,Balcony
+8,"Living area"
+8,"Hardwood floors"
+8,Microwave
+8,Oven
+8,Refrigerator
+9,"Paid parking"
+9,Smoke-free
+9,"Guarantors allowed"
+9,"Laundry in building (paid)"
+9,"Dine in kitchen"
+9,"Electric heating"
+9,"Hardwood floors"
+9,Microwave
+9,Oven
+9,Refrigerator
+10,"Paid parking"
+10,Smoke-free
+10,"Guarantors allowed"
+10,"Laundry in building (paid)"
+10,"Dine in kitchen"
+10,"Electric heating"
+10,"Hardwood floors"
+10,Microwave
+10,Oven
+10,Refrigerator
+11,Smoke-free
+11,Dishwasher
+11,HVAC
+11,"WiFi (Paid)"
+11,"Laundry in building (paid)"
+11,"Guarantors allowed"
+11,"Hardwood floors"
+11,Microwave
+11,Oven
+11,Refrigerator
+12,"Paid parking"
+12,Smoke-free
+12,"Guarantors allowed"
+12,"Laundry in building (paid)"
+12,"Dine in kitchen"
+12,"Electric heating"
+12,"Hardwood floors"
+12,Microwave
+12,Oven
+12,Refrigerator
+13,"Paid parking"
+13,Smoke-free
+13,"Guarantors allowed"
+13,"Laundry in building (paid)"
+13,"Dine in kitchen"
+13,"Electric heating"
+13,"Hardwood floors"
+13,Microwave
+13,Oven
+13,Refrigerator
+14,"Guarantors allowed"
+14,Dishwasher
+14,Smoke-free
+14,"WiFi (Paid)"
+14,"Gas heating"
+14,"Hardwood floors"
+14,Oven
+14,Refrigerator
+15,Smoke-free
+15,"Radiator heating"
+15,"Street parking"
+15,"Guarantors allowed"
+15,Dishwasher
+15,"WiFi (Paid)"
+15,"Laundry in building (free)"
+15,"Wall-Mounted TV"
+15,"Hardwood floors"
+15,Microwave
+15,Oven
+15,Refrigerator
+16,"Laundry in building (paid)"
+16,"32-inch Flat-Screen TV"
+16,Dishwasher
+16,"WiFi (Paid)"
+16,Smoke-free
+16,"Guarantors allowed"
+16,"Radiator heating"
+16,"Dine in kitchen"
+16,"Living area"
+16,"Parking Spot (Paid)"
+16,"Hardwood floors"
+16,Microwave
+16,Oven
+16,Refrigerator
+17,"WiFi (Paid)"
+17,Smoke-free
+17,"Guarantors allowed"
+17,"Gas heating"
+17,"Street parking"
+17,Balcony
+17,"Wall-Mounted TV"
+17,"Hardwood floors"
+17,Microwave
+17,Oven
+17,Refrigerator
+18,"Paid parking"
+18,Dishwasher
+18,"Radiator heating"
+18,"Dining area"
+18,Smoke-free
+18,"Guarantors allowed"
+18,"Laundry in home (free)"
+18,Balcony
+18,"Living area"
+18,"Hardwood floors"
+18,Microwave
+18,Oven
+18,Refrigerator
+19,"32-inch Flat-Screen TV"
+19,"Radiator heating"
+19,"Guarantors allowed"
+19,"WiFi (Paid)"
+19,Smoke-free
+19,"Window AC (Common space)"
+19,"Street parking"
+19,"Laundry in building (free)"
+19,Balcony
+19,"Hardwood floors"
+19,Microwave
+19,Oven
+19,Refrigerator
+20,Dishwasher
+20,HVAC
+20,"WiFi (Paid)"
+20,"Guarantors allowed"
+20,"Laundry in building (paid)"
+20,Smoke-free
+20,"Hardwood floors"
+20,Oven
+20,Refrigerator
+21,"Laundry in home (free)"
+21,Smoke-free
+21,"WiFi (Paid)"
+21,"Paid parking"
+21,"Window AC (Common space)"
+21,HVAC
+21,"Hardwood floors"
+21,Microwave
+21,Oven
+21,Refrigerator
+22,"Paid parking"
+22,Smoke-free
+22,"WiFi (Paid)"
+22,"Guarantors allowed"
+22,"Laundry in home (free)"
+22,HVAC
+22,"Hardwood floors"
+22,Microwave
+22,Oven
+22,Refrigerator
+23,"Paid parking"
+23,Smoke-free
+23,"Guarantors allowed"
+23,"Laundry in building (paid)"
+23,"Dine in kitchen"
+23,"Electric heating"
+23,"Hardwood floors"
+23,Microwave
+23,Oven
+23,Refrigerator
+24,"Street parking"
+24,"Dine in kitchen"
+24,Smoke-free
+24,"Guarantors allowed"
+24,"Laundry in building (paid)"
+24,"Electric heating"
+24,"WiFi (Paid)"
+24,Microwave
+24,Oven
+24,Refrigerator
+25,Dishwasher
+25,HVAC
+25,"WiFi (Paid)"
+25,"Guarantors allowed"
+25,"Laundry in building (paid)"
+25,Smoke-free
+25,"Hardwood floors"
+25,Oven
+25,Refrigerator
+26,"Street parking"
+26,"WiFi (Paid)"
+26,"Guarantors allowed"
+26,"Laundry in building (paid)"
+26,Dishwasher
+26,"Electric heating"
+26,Smoke-free
+26,"Hardwood floors"
+26,Oven
+26,Refrigerator
+27,"Street parking"
+27,"Guarantors allowed"
+27,"Electric heating"
+27,"Laundry in home (free)"
+27,"32-inch Flat-Screen TV"
+27,Dishwasher
+27,Smoke-free
+27,"WiFi (Paid)"
+27,"Hardwood floors"
+27,Oven
+27,Refrigerator
+28,"Paid parking"
+28,Smoke-free
+28,"Guarantors allowed"
+28,"Laundry in building (paid)"
+28,"Dine in kitchen"
+28,Dishwasher
+28,HVAC
+28,Balcony
+28,Microwave
+28,Oven
+28,Refrigerator
+29,Smoke-free
+29,"Dine in kitchen"
+29,HVAC
+29,"WiFi (Paid)"
+29,"Paid parking"
+29,"Laundry in building (paid)"
+29,"Guarantors allowed"
+29,"Hardwood floors"
+29,Microwave
+29,Oven
+29,Refrigerator
+30,"Window AC (Common space)"
+30,"WiFi (Paid)"
+30,"Guarantors allowed"
+30,"Paid parking"
+30,"Laundry in home (free)"
+30,HVAC
+30,Smoke-free
+30,"Hardwood floors"
+30,Microwave
+30,Oven
+30,Refrigerator
+31,"Street parking"
+31,"32-inch Flat-Screen TV"
+31,"WiFi (Paid)"
+31,Dishwasher
+31,Smoke-free
+31,"Guarantors allowed"
+31,"Laundry in building (paid)"
+31,"Electric heating"
+31,"Living area"
+31,"Hardwood floors"
+31,Microwave
+31,Oven
+31,Refrigerator
+32,"WiFi (Paid)"
+32,Smoke-free
+32,"Guarantors allowed"
+32,"Gas heating"
+32,"Laundry in building (paid)"
+33,Dishwasher
+33,"32-inch Flat-Screen TV"
+33,Smoke-free
+33,"Guarantors allowed"
+33,"Radiator heating"
+33,"Hardwood floors"
+33,Microwave
+33,Oven
+33,Refrigerator
+34,"Street parking"
+34,Dishwasher
+34,Smoke-free
+34,"Guarantors allowed"
+34,"Radiator heating"
+34,"Laundry in home (free)"
+34,"32-inch Flat-Screen TV"
+34,"Living area"
+34,Microwave
+34,Oven
+34,Refrigerator
+35,Dishwasher
+35,"32-inch Flat-Screen TV"
+35,Smoke-free
+35,"Guarantors allowed"
+35,"Radiator heating"
+35,"Hardwood floors"
+35,Microwave
+35,Oven
+35,Refrigerator
+36,"Laundry in home (free)"
+36,"Dine in kitchen"
+36,"Radiator heating"
+36,"Paid parking"
+36,Smoke-free
+36,"WiFi (Paid)"
+36,"Guarantors allowed"
+36,"Outdoor space"
+36,"Hardwood floors"
+36,Microwave
+36,Oven
+36,Refrigerator
+37,Dishwasher
+37,"32-inch Flat-Screen TV"
+37,Smoke-free
+37,"Guarantors allowed"
+37,"Radiator heating"
+37,"Hardwood floors"
+37,Microwave
+37,Oven
+37,Refrigerator
+38,"Street parking"
+38,"WiFi (Paid)"
+38,"Guarantors allowed"
+38,"Laundry in building (paid)"
+38,HVAC
+38,Smoke-free
+38,"Hardwood floors"
+38,Microwave
+38,Oven
+38,Refrigerator
+39,"Street parking"
+39,"Dine in kitchen"
+39,Smoke-free
+39,"Guarantors allowed"
+39,"Laundry in building (paid)"
+39,"Electric heating"
+39,"WiFi (Paid)"
+39,Microwave
+39,Oven
+39,Refrigerator
+40,"Laundry in building (paid)"
+40,HVAC
+40,Smoke-free
+40,"WiFi (Paid)"
+40,"Guarantors allowed"
+40,"Hardwood floors"
+40,Microwave
+40,Oven
+40,Refrigerator
+41,"Paid parking"
+41,Smoke-free
+41,"Guarantors allowed"
+41,"Laundry in building (paid)"
+41,"Dine in kitchen"
+41,Dishwasher
+41,HVAC
+41,Balcony
+41,Microwave
+41,Oven
+41,Refrigerator
+42,"Street parking"
+42,Smoke-free
+42,"WiFi (Paid)"
+42,"Guarantors allowed"
+42,"Laundry in building (paid)"
+42,"Electric heating"
+42,Dishwasher
+42,"Wall-Mounted TV"
+42,"Hardwood floors"
+42,Oven
+42,Refrigerator
+43,"Paid parking"
+43,Smoke-free
+43,"Guarantors allowed"
+43,"Laundry in building (paid)"
+43,"Dine in kitchen"
+43,Dishwasher
+43,HVAC
+43,Balcony
+43,Microwave
+43,Oven
+43,Refrigerator
+44,"Laundry in building (paid)"
+44,"Electric heating"
+44,"Paid parking"
+44,Smoke-free
+44,"WiFi (Paid)"
+44,"Guarantors allowed"
+44,Dishwasher
+44,"Hardwood floors"
+44,Microwave
+44,Oven
+44,Refrigerator
+45,"Central AC (Common space)"
+45,"Central heating"
+45,"Laundry in home (free)"
+45,"Paid parking"
+45,"32-inch Flat-Screen TV"
+45,Dishwasher
+45,Smoke-free
+45,"WiFi (Paid)"
+45,"Guarantors allowed"
+45,"Hardwood floors"
+45,Oven
+45,Refrigerator
+46,"Street parking"
+46,"Laundry in building (paid)"
+46,Smoke-free
+46,"Guarantors allowed"
+46,"Dine in kitchen"
+46,"Electric heating"
+46,"WiFi (Paid)"
+46,Dishwasher
+46,Microwave
+46,Oven
+46,Refrigerator
+47,"Guarantors allowed"
+47,Dishwasher
+47,Smoke-free
+47,"WiFi (Paid)"
+47,"Gas heating"
+47,"Hardwood floors"
+47,Oven
+47,Refrigerator
+48,"Street parking"
+48,"Dine in kitchen"
+48,Smoke-free
+48,"Guarantors allowed"
+48,"Laundry in building (paid)"
+48,"Electric heating"
+48,"WiFi (Paid)"
+48,Microwave
+48,Oven
+48,Refrigerator
+49,"Street parking"
+49,Smoke-free
+49,"Guarantors allowed"
+49,"Laundry in home (free)"
+49,"Dine in kitchen"
+49,"Radiator heating"
+49,Dishwasher
+49,"Hardwood floors"
+49,Microwave
+49,Oven
+49,Refrigerator
+50,"Laundry in building (paid)"
+50,"Electric heating"
+50,"Paid parking"
+50,Smoke-free
+50,"WiFi (Paid)"
+50,"Guarantors allowed"
+50,Dishwasher
+50,"Hardwood floors"
+50,Microwave
+50,Oven
+50,Refrigerator
+51,"Street parking"
+51,Smoke-free
+51,"Guarantors allowed"
+51,"Laundry in home (free)"
+51,"Dine in kitchen"
+51,"Radiator heating"
+51,Dishwasher
+51,"Hardwood floors"
+51,Microwave
+51,Oven
+51,Refrigerator
+52,"Street parking"
+52,Smoke-free
+52,"WiFi (Paid)"
+52,"Guarantors allowed"
+52,"Laundry in building (paid)"
+52,"Window AC (Common space)"
+52,"32-inch Flat-Screen TV"
+52,"Electric heating"
+52,"Hardwood floors"
+52,Microwave
+52,Oven
+52,Refrigerator
+53,"Street parking"
+53,"WiFi (Paid)"
+53,"Guarantors allowed"
+53,"Laundry in building (paid)"
+53,HVAC
+53,Smoke-free
+53,"Hardwood floors"
+53,Microwave
+53,Oven
+53,Refrigerator
+54,"Street parking"
+54,Smoke-free
+54,"WiFi (Paid)"
+54,"Guarantors allowed"
+54,"Laundry in home (free)"
+54,Dishwasher
+54,HVAC
+54,"Decorative fireplace"
+54,"Wall-Mounted TV"
+54,"Hardwood floors"
+54,Oven
+54,Refrigerator
+55,"WiFi (Paid)"
+55,Smoke-free
+55,"Guarantors allowed"
+55,"Gas heating"
+55,"Laundry in building (paid)"
+56,Smoke-free
+56,"Street parking"
+56,Dishwasher
+56,"Guarantors allowed"
+56,"WiFi (Paid)"
+56,"Laundry in building (free)"
+56,"Hardwood floors"
+56,Microwave
+56,Oven
+56,Refrigerator
+57,"Street parking"
+57,Dishwasher
+57,Smoke-free
+57,"Guarantors allowed"
+57,"Radiator heating"
+57,"Laundry in home (free)"
+57,"32-inch Flat-Screen TV"
+57,"Living area"
+57,Microwave
+57,Oven
+57,Refrigerator
+58,"Street parking"
+58,Dishwasher
+58,Smoke-free
+58,"Guarantors allowed"
+58,"Radiator heating"
+58,"Laundry in home (free)"
+58,"32-inch Flat-Screen TV"
+58,"Living area"
+58,Microwave
+58,Oven
+58,Refrigerator
+59,"Laundry in home (free)"
+59,"WiFi (Paid)"
+59,"Guarantors allowed"
+59,HVAC
+59,"Central AC (Common space)"
+59,"32-inch Flat-Screen TV"
+59,"Paid parking"
+59,Dishwasher
+59,Smoke-free
+59,"Hardwood floors"
+59,Oven
+59,Refrigerator
+60,"Window AC (Common space)"
+60,"WiFi (Paid)"
+60,"Guarantors allowed"
+60,"Paid parking"
+60,"Laundry in home (free)"
+60,HVAC
+60,Smoke-free
+60,"Hardwood floors"
+60,Microwave
+60,Oven
+60,Refrigerator
+61,"Street parking"
+61,Smoke-free
+61,"Guarantors allowed"
+61,"Laundry in home (free)"
+61,"Dine in kitchen"
+61,"Radiator heating"
+61,Dishwasher
+61,"Hardwood floors"
+61,Microwave
+61,Oven
+61,Refrigerator
+62,Smoke-free
+62,Dishwasher
+62,HVAC
+62,"WiFi (Paid)"
+62,"Laundry in building (paid)"
+62,"Guarantors allowed"
+62,"Hardwood floors"
+62,Microwave
+62,Oven
+62,Refrigerator
+63,"Street parking"
+63,Smoke-free
+63,"WiFi (Paid)"
+63,"Guarantors allowed"
+63,"Electric heating"
+63,"Laundry in building (paid)"
+63,Dishwasher
+63,"Wall-Mounted TV"
+63,"Hardwood floors"
+63,Oven
+63,Refrigerator
+64,"WiFi (Paid)"
+64,"32-inch Flat-Screen TV"
+64,"Smart lock"
+64,Smoke-free
+64,"Guarantors allowed"
+64,HVAC
+64,Dishwasher
+64,"Laundry in building (paid)"
+64,"Portable AC (Common space)"
+64,"Hardwood floors"
+64,Oven
+64,Refrigerator
+65,"Dining area"
+65,"WiFi (Paid)"
+65,Smoke-free
+65,"Guarantors allowed"
+65,"Laundry in building (paid)"
+65,"Street parking"
+65,"32-inch Flat-Screen TV"
+65,"Radiator heating"
+65,Dishwasher
+65,"Living area"
+65,"Hardwood floors"
+65,Microwave
+65,Oven
+65,Refrigerator
+66,Dishwasher
+66,"32-inch Flat-Screen TV"
+66,Smoke-free
+66,"Guarantors allowed"
+66,"Radiator heating"
+66,"Hardwood floors"
+66,Microwave
+66,Oven
+66,Refrigerator
+67,"Street parking"
+67,Smoke-free
+67,"Guarantors allowed"
+67,"Laundry in home (free)"
+67,"Dine in kitchen"
+67,"Radiator heating"
+67,Dishwasher
+67,"Hardwood floors"
+67,Microwave
+67,Oven
+67,Refrigerator
+68,"Street parking"
+68,Smoke-free
+68,"Guarantors allowed"
+68,"Laundry in home (free)"
+68,"Dine in kitchen"
+68,"Radiator heating"
+68,Dishwasher
+68,"Hardwood floors"
+68,Microwave
+68,Oven
+68,Refrigerator
+69,"Window AC (Common space)"
+69,"Guarantors allowed"
+69,"Radiator heating"
+69,"Street parking"
+69,"Laundry in building (paid)"
+69,"32-inch Flat-Screen TV"
+69,Dishwasher
+69,Smoke-free
+69,"WiFi (Paid)"
+69,"Hardwood floors"
+69,Oven
+69,Refrigerator
+70,"Street parking"
+70,Smoke-free
+70,"WiFi (Paid)"
+70,"Guarantors allowed"
+70,"Laundry in home (free)"
+70,"Radiator heating"
+70,"Hardwood floors"
+70,Microwave
+70,Oven
+70,Refrigerator
+71,"Street parking"
+71,"Dine in kitchen"
+71,HVAC
+71,Smoke-free
+71,"Guarantors allowed"
+71,"Hardwood floors"
+71,Oven
+71,Refrigerator
+72,"Radiator heating"
+72,Dishwasher
+72,Smoke-free
+72,"Guarantors allowed"
+72,"Paid parking"
+72,"Laundry in building (free)"
+72,"Living area"
+72,"Hardwood floors"
+72,Microwave
+72,Oven
+72,Refrigerator
+73,"Street parking"
+73,Smoke-free
+73,"WiFi (Paid)"
+73,"Guarantors allowed"
+73,"Laundry in home (free)"
+73,"Radiator heating"
+73,"Hardwood floors"
+73,Microwave
+73,Oven
+73,Refrigerator
+74,"Street parking"
+74,Smoke-free
+74,"Guarantors allowed"
+74,"Laundry in home (free)"
+74,"Dine in kitchen"
+74,"Radiator heating"
+74,Dishwasher
+74,"Hardwood floors"
+74,Microwave
+74,Oven
+74,Refrigerator
+75,"Window AC (Common space)"
+75,"WiFi (Paid)"
+75,"Guarantors allowed"
+75,"Paid parking"
+75,"Laundry in home (free)"
+75,Dishwasher
+75,HVAC
+75,Smoke-free
+75,"Hardwood floors"
+75,Microwave
+75,Oven
+75,Refrigerator
+76,"Central AC (Common space)"
+76,Smoke-free
+76,"WiFi (Paid)"
+76,"Guarantors allowed"
+76,"Paid parking"
+76,"Decorative fireplace"
+76,"32-inch Flat-Screen TV"
+76,Dishwasher
+76,HVAC
+76,"Laundry in building (free)"
+76,"Hardwood floors"
+76,Oven
+76,Refrigerator
+77,"32-inch Flat-Screen TV"
+77,"Radiator heating"
+77,Dishwasher
+77,Smoke-free
+77,"WiFi (Paid)"
+77,"Guarantors allowed"
+77,"Laundry in home (free)"
+77,"Outdoor space"
+77,"Living area"
+77,"Mini Split (Common space)"
+77,"Hardwood floors"
+77,Microwave
+77,Oven
+77,Refrigerator
+78,"Central AC (Common space)"
+78,"Guarantors allowed"
+78,"Laundry in building (paid)"
+78,"Central heating"
+78,"32-inch Flat-Screen TV"
+78,Dishwasher
+78,Smoke-free
+78,"WiFi (Paid)"
+78,"Hardwood floors"
+78,Oven
+78,Refrigerator
+79,"Street parking"
+79,"WiFi (Paid)"
+79,"Guarantors allowed"
+79,"Laundry in building (paid)"
+79,Dishwasher
+79,"Electric heating"
+79,Smoke-free
+79,"Hardwood floors"
+79,Oven
+79,Refrigerator
+80,"Window AC (Common space)"
+80,"Guarantors allowed"
+80,"Radiator heating"
+80,"Street parking"
+80,"Laundry in building (paid)"
+80,"32-inch Flat-Screen TV"
+80,Dishwasher
+80,Smoke-free
+80,"WiFi (Paid)"
+80,"Hardwood floors"
+80,Oven
+80,Refrigerator
+81,Dishwasher
+81,"Dine in kitchen"
+81,HVAC
+81,Smoke-free
+81,"Guarantors allowed"
+81,"Laundry in building (paid)"
+81,"Paid parking"
+81,"Hardwood floors"
+81,Microwave
+81,Oven
+81,Refrigerator
+82,Smoke-free
+82,"Dine in kitchen"
+82,HVAC
+82,"WiFi (Paid)"
+82,"Laundry in building (paid)"
+82,"Guarantors allowed"
+82,"Hardwood floors"
+82,Microwave
+82,Oven
+82,Refrigerator
+83,"Dining area"
+83,"Laundry in building (paid)"
+83,Smoke-free
+83,"WiFi (Paid)"
+83,"Guarantors allowed"
+83,HVAC
+83,"Hardwood floors"
+83,Microwave
+83,Oven
+83,Refrigerator
+84,Dishwasher
+84,"Smart lock"
+84,"32-inch Flat-Screen TV"
+84,"Laundry in building (paid)"
+84,"Guarantors allowed"
+84,"WiFi (Paid)"
+84,"Window AC (Common space)"
+84,"Radiator heating"
+84,Smoke-free
+84,"Dine in kitchen"
+84,"Back porch"
+84,"Driveway parking (paid)"
+84,"Hardwood floors"
+84,Oven
+84,Refrigerator
+85,"Street parking"
+85,"WiFi (Paid)"
+85,"Guarantors allowed"
+85,"Electric heating"
+85,"Laundry in building (paid)"
+85,Dishwasher
+85,Smoke-free
+85,"Wall-Mounted TV"
+85,"Hardwood floors"
+85,Oven
+85,Refrigerator
+86,"WiFi (Paid)"
+86,Dishwasher
+86,"Smart lock"
+86,Smoke-free
+86,"Guarantors allowed"
+86,"Laundry in building (paid)"
+86,HVAC
+86,"Wall-Mounted TV"
+86,"Hardwood floors"
+86,Oven
+86,Refrigerator
+87,"Street parking"
+87,Smoke-free
+87,"WiFi (Paid)"
+87,"Guarantors allowed"
+87,"Laundry in building (paid)"
+87,"Radiator heating"
+87,Dishwasher
+87,"Hardwood floors"
+87,Microwave
+87,Oven
+87,Refrigerator
+88,"WiFi (Paid)"
+88,Dishwasher
+88,HVAC
+88,"Guarantors allowed"
+88,"Street parking"
+88,"Laundry in home (free)"
+88,Smoke-free
+88,"Hardwood floors"
+88,Microwave
+88,Oven
+88,Refrigerator
+89,"Paid parking"
+89,"Electric heating"
+89,Smoke-free
+89,"WiFi (Paid)"
+89,"Guarantors allowed"
+89,"Laundry in building (paid)"
+89,"Hardwood floors"
+89,Microwave
+89,Oven
+89,Refrigerator
+90,Smoke-free
+90,"Street parking"
+90,"Laundry in building (paid)"
+90,"Guarantors allowed"
+90,Dishwasher
+90,"WiFi (Paid)"
+90,HVAC
+90,"Wall-Mounted TV"
+90,"Hardwood floors"
+90,Oven
+90,Refrigerator
+91,"WiFi (Paid)"
+91,Smoke-free
+91,"Guarantors allowed"
+91,"Gas heating"
+91,"Street parking"
+91,Balcony
+91,"Wall-Mounted TV"
+91,"Hardwood floors"
+91,Microwave
+91,Oven
+91,Refrigerator
+92,Dishwasher
+92,"Dine in kitchen"
+92,HVAC
+92,Smoke-free
+92,"Guarantors allowed"
+92,"Laundry in building (paid)"
+92,"Paid parking"
+92,"Hardwood floors"
+92,Microwave
