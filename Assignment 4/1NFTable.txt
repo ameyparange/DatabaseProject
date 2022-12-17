@@ -1,0 +1,103 @@
+CREATE TABLE `juneapartments_1nf` (
+  
+  `id` int NOT NULL,
+  `Apt_id` int DEFAULT NULL,
+  `url` varchar(300) DEFAULT NULL,
+  `address` varchar(100) DEFAULT NULL,
+  `Beds` decimal(10,0) DEFAULT NULL,
+  `Bath` decimal(10,0) DEFAULT NULL,
+  `Price` decimal(10,0) DEFAULT NULL,
+  `BedArea` int DEFAULT NULL,
+  `Availablefrom` date DEFAULT NULL,
+  `Availabletill` date DEFAULT NULL,
+  `Description` varchar(500) DEFAULT NULL #,
+  #PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+CREATE TABLE `juneamenities_1nf` (
+  `id` int NOT NULL,
+  `Amenities` varchar(100) DEFAULT NULL
+) ;
+
+CREATE TABLE `junetransport_1nf` (
+  `id` int NOT NULL,
+  `Trans_id` int DEFAULT NULL,
+  `stations` varchar(100) DEFAULT NULL,
+  `walktime` int DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL
+) ;
+
+CREATE TABLE `subleaseroommate_1nf` (
+  `RoommateID` int NOT NULL ,
+  `Name` varchar(45) DEFAULT NULL,
+  `Gender` varchar(45) DEFAULT NULL,
+  `PhoneNumber` varchar(10) DEFAULT NULL,
+  `Email` varchar(45) DEFAULT NULL,
+  `Budget` int DEFAULT NULL,
+  `RoommateDietaryPref` varchar(45) DEFAULT NULL,
+  `RoommateGenderPref` varchar(45) DEFAULT NULL,
+  `Amenities` varchar(1000) DEFAULT NULL,
+  `PrefModeofTravel` varchar(45) DEFAULT NULL,
+  `TypeOfSpot` varchar(45) DEFAULT NULL,
+  `PrefMoveInDate` varchar(45) DEFAULT NULL,
+  `NoOfRoommates` int DEFAULT NULL
+ 
+) ;
+
+CREATE TABLE `subleasespot_1nf` (
+  `SpotID` int NOT NULL ,
+  `Name` varchar(45) DEFAULT NULL,
+  `PhoneNumber` varchar(10) DEFAULT NULL,
+  `Email` varchar(45) DEFAULT NULL,
+  `Gender` varchar(45) DEFAULT NULL,
+  `Address` varchar(200) DEFAULT NULL,
+  `ProxToUni` float DEFAULT NULL,
+  `Brokerage` int DEFAULT NULL,
+  `LeaseSpotType` varchar(100) DEFAULT NULL,
+  `BedroomCount` int DEFAULT NULL,
+  `BathroomCount` int DEFAULT NULL,
+  `Rent` int DEFAULT NULL,
+  `DietaryPref` varchar(45) DEFAULT NULL,
+  `GenderPref` varchar(45) DEFAULT NULL,
+  `Amenities` varchar(1000) DEFAULT NULL,
+  `AvailSpot` varchar(45) DEFAULT NULL,
+  `PrefMoveInDate` varchar(45) DEFAULT NULL,
+  `AvailSpotNum` int DEFAULT NULL
+) ;
+
+CREATE TABLE `temporaryroommate_1nf` (
+  `RoommateId` int NOT NULL ,
+  `Name` varchar(45) DEFAULT NULL,
+  `Gender` varchar(45) DEFAULT NULL,
+  `PhoneNumber` varchar(10) DEFAULT NULL,
+  `Email` varchar(45) DEFAULT NULL,
+  `Budget` varchar(45) DEFAULT NULL,
+  `DietaryPref` varchar(45) DEFAULT NULL,
+  `GenderPref` varchar(45) DEFAULT NULL,
+  `Amenities` varchar(100) DEFAULT NULL,
+  `PrefModeofTravel` varchar(45) DEFAULT NULL,
+  `TypeOfSpot` varchar(100) DEFAULT NULL,
+  `PrefMoveInDate` varchar(45) DEFAULT NULL,
+  `NoOfRoommates` int DEFAULT NULL
+);
+
+CREATE TABLE `temporaryspot_1nf` (
+  `SpotID` int NOT NULL ,
+  `Name` varchar(45) DEFAULT NULL,
+  `PhoneNumber` varchar(10) DEFAULT NULL,
+  `Email` varchar(45) DEFAULT NULL,
+  `Gender` varchar(45) DEFAULT NULL,
+  `Address` varchar(200) DEFAULT NULL,
+  `ProximityToUni` float DEFAULT NULL,
+  `BedroomCount` int DEFAULT NULL,
+  `BathroomCount` int DEFAULT NULL,
+  `TempRent` int DEFAULT NULL,
+  `DietaryPref` varchar(45) DEFAULT NULL,
+  `GenderPref` varchar(45) DEFAULT NULL,
+  `Amenities` varchar(1000) DEFAULT NULL,
+  `AvailableSpot` varchar(45) DEFAULT NULL,
+  `PrefMoveInDate` varchar(45) DEFAULT NULL,
+  `PrefMoveOutDate` varchar(45) DEFAULT NULL,
+  `AvailSpotNum` int DEFAULT NULL
+) ;

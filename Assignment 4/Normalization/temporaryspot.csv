@@ -1,0 +1,121 @@
+SpotID,Name,PhoneNumber,Email,Gender,Address,ProximityToUni,BedroomCount,BathroomCount,TempRent,DietaryPref,GenderPref,Amenities,AvailableSpot,PrefMoveInDate,PrefMoveOutDate,AvailSpotNum
+1,"Neha Bhutkar",8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,"Non Vegetarian",Girls,GIRLS,"In-house laundry",11/30/22,11/30/22,1
+1,"Neha Bhutkar",8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,"Non Vegetarian",Girls,GIRLS,Heat,11/30/22,11/30/22,1
+1,"Neha Bhutkar",8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,"Non Vegetarian",Girls,GIRLS,"Hot Water",11/30/22,11/30/22,1
+1,"Neha Bhutkar",8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,"Non Vegetarian",Girls,GIRLS,WiFi,11/30/22,11/30/22,1
+1,"Neha Bhutkar",8573286597,bhutkar.n@northeastern.edu,Female,"75 St. Alphonsus Street, Apt., 1816 J Vue at the LMA Apartments",0.5,2,2,18,"Non Vegetarian",Girls,GIRLS,Balcony,11/30/22,11/30/22,1
+2,Srishti,8572507266,srishtiabalamatti@gmail.com,Female,"14 Hillside Street",0.7,5,2,35,None,"None/Mixed Gender",MIXED,"In-house laundry",12/31/22,12/31/22,2
+2,Srishti,8572507266,srishtiabalamatti@gmail.com,Female,"14 Hillside Street",0.7,5,2,35,None,"None/Mixed Gender",MIXED,Heat,12/31/22,12/31/22,2
+2,Srishti,8572507266,srishtiabalamatti@gmail.com,Female,"14 Hillside Street",0.7,5,2,35,None,"None/Mixed Gender",MIXED,"Hot Water",12/31/22,12/31/22,2
+2,Srishti,8572507266,srishtiabalamatti@gmail.com,Female,"14 Hillside Street",0.7,5,2,35,None,"None/Mixed Gender",MIXED,WiFi,12/31/22,12/31/22,2
+2,Srishti,8572507266,srishtiabalamatti@gmail.com,Female,"14 Hillside Street",0.7,5,2,35,None,"None/Mixed Gender",MIXED,Balcony,12/31/22,12/31/22,2
+3,"Bharath Chandra Bottu ",8575446711,bharathchandra2253@gmail.com,Male,"2593 Washington St",1.2,3,1,20,"Non Vegetarian","None/Mixed Gender",MIXED,"In-house laundry",2/15/23,2/15/23,1
+3,"Bharath Chandra Bottu ",8575446711,bharathchandra2253@gmail.com,Male,"2593 Washington St",1.2,3,1,20,"Non Vegetarian","None/Mixed Gender",MIXED,Heat,2/15/23,2/15/23,1
+3,"Bharath Chandra Bottu ",8575446711,bharathchandra2253@gmail.com,Male,"2593 Washington St",1.2,3,1,20,"Non Vegetarian","None/Mixed Gender",MIXED,"Hot Water",2/15/23,2/15/23,1
+3,"Bharath Chandra Bottu ",8575446711,bharathchandra2253@gmail.com,Male,"2593 Washington St",1.2,3,1,20,"Non Vegetarian","None/Mixed Gender",MIXED,WiFi,2/15/23,2/15/23,1
+4,Manish,8573790129,m.maniish1@gmail.com,Male,"115 Northampton Street ",0.7,2,1,18,Vegetarian,Boys,BOYS,Heat,1/7/23,1/7/23,1
+4,Manish,8573790129,m.maniish1@gmail.com,Male,"115 Northampton Street ",0.7,2,1,18,Vegetarian,Boys,BOYS,"Hot Water",1/7/23,1/7/23,1
+4,Manish,8573790129,m.maniish1@gmail.com,Male,"115 Northampton Street ",0.7,2,1,18,Vegetarian,Boys,BOYS,WiFi,1/7/23,1/7/23,1
+4,Manish,8573790129,m.maniish1@gmail.com,Male,"115 Northampton Street ",0.7,2,1,18,Vegetarian,Boys,BOYS,Electricity,1/7/23,1/7/23,1
+5,"Nainil Maladkar",6178607502,nainil30maladkar@gmail.com,Male,"Apt 22, 235 Park drive. Boston 02215",0.6,1,1,22,"Non Vegetarian",Boys,BOYS,Heat,1/7/23,1/7/23,1
+5,"Nainil Maladkar",6178607502,nainil30maladkar@gmail.com,Male,"Apt 22, 235 Park drive. Boston 02215",0.6,1,1,22,"Non Vegetarian",Boys,BOYS,"Hot Water",1/7/23,1/7/23,1
+5,"Nainil Maladkar",6178607502,nainil30maladkar@gmail.com,Male,"Apt 22, 235 Park drive. Boston 02215",0.6,1,1,22,"Non Vegetarian",Boys,BOYS,WiFi,1/7/23,1/7/23,1
+6,"Sagar Mehta",8573819416,sagarymehta24@gmail.com,Male,"682 parker street #1",0.5,3,2,20,Vegetarian,Boys,BOYS,Heat,1/2/23,1/2/23,1
+6,"Sagar Mehta",8573819416,sagarymehta24@gmail.com,Male,"682 parker street #1",0.5,3,2,20,Vegetarian,Boys,BOYS,"Hot Water",1/2/23,1/2/23,1
+6,"Sagar Mehta",8573819416,sagarymehta24@gmail.com,Male,"682 parker street #1",0.5,3,2,20,Vegetarian,Boys,BOYS,WiFi,1/2/23,1/2/23,1
+6,"Sagar Mehta",8573819416,sagarymehta24@gmail.com,Male,"682 parker street #1",0.5,3,2,20,Vegetarian,Boys,BOYS,Balcony,1/2/23,1/2/23,1
+7,Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,BOYS,"In-house laundry",1/10/23,1/10/23,1
+7,Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,BOYS,Heat,1/10/23,1/10/23,1
+7,Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,BOYS,"Hot Water",1/10/23,1/10/23,1
+7,Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,BOYS,WiFi,1/10/23,1/10/23,1
+7,Ishan,8578320497,lokhande.ishan@gmail.com,Male,"24 Brook St, Brookline, MA - 02445",1.6,3,2,35,None,Boys,BOYS,Balcony,1/10/23,1/10/23,1
+8,"KIMAYA SHAH",8578698800,shah.kim@northeastern.edu,Female,"1203 Boylston Street",0.5,2,1,20,Vegetarian,Girls,GIRLS,"In-house laundry",1/23/23,1/23/23,1
+8,"KIMAYA SHAH",8578698800,shah.kim@northeastern.edu,Female,"1203 Boylston Street",0.5,2,1,20,Vegetarian,Girls,GIRLS,Heat,1/23/23,1/23/23,1
+8,"KIMAYA SHAH",8578698800,shah.kim@northeastern.edu,Female,"1203 Boylston Street",0.5,2,1,20,Vegetarian,Girls,GIRLS,"Hot Water",1/23/23,1/23/23,1
+8,"KIMAYA SHAH",8578698800,shah.kim@northeastern.edu,Female,"1203 Boylston Street",0.5,2,1,20,Vegetarian,Girls,GIRLS,WiFi,1/23/23,1/23/23,1
+9,"Supriya Tripathi",6092556159,tripathi.su@northeastern.edu,Female,"73 Park Dr",0.7,1,1,30,None,Girls,GIRLS,"Hot Water",1/11/23,1/11/23,1
+9,"Supriya Tripathi",6092556159,tripathi.su@northeastern.edu,Female,"73 Park Dr",0.7,1,1,30,None,Girls,GIRLS,WiFi,1/11/23,1/11/23,1
+9,"Supriya Tripathi",6092556159,tripathi.su@northeastern.edu,Female,"73 Park Dr",0.7,1,1,30,None,Girls,GIRLS,Balcony,1/11/23,1/11/23,1
+10,"Mrunal ",8574927668,mrnlsuryavanshi@gmail.com,Female,"1185 Boylston Street ",0.7,2,1,20,Vegetarian,Girls,GIRLS,Heat,1/10/23,1/10/23,1
+10,"Mrunal ",8574927668,mrnlsuryavanshi@gmail.com,Female,"1185 Boylston Street ",0.7,2,1,20,Vegetarian,Girls,GIRLS,"Hot Water",1/10/23,1/10/23,1
+10,"Mrunal ",8574927668,mrnlsuryavanshi@gmail.com,Female,"1185 Boylston Street ",0.7,2,1,20,Vegetarian,Girls,GIRLS,WiFi,1/10/23,1/10/23,1
+11,"Samradni Pathari ",8574520716,samradnipathari15@gmail.com,Female,"20 Moreland Street ",1,3,1,14,"Non Vegetarian",Girls,GIRLS,"In-house laundry",12/31/22,12/31/22,1
+11,"Samradni Pathari ",8574520716,samradnipathari15@gmail.com,Female,"20 Moreland Street ",1,3,1,14,"Non Vegetarian",Girls,GIRLS,Heat,12/31/22,12/31/22,1
+11,"Samradni Pathari ",8574520716,samradnipathari15@gmail.com,Female,"20 Moreland Street ",1,3,1,14,"Non Vegetarian",Girls,GIRLS,"Hot Water",12/31/22,12/31/22,1
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,"In-house laundry",1/8/23,1/8/23,2
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,Heat,1/8/23,1/8/23,2
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,"Hot Water",1/8/23,1/8/23,2
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,Balcony,1/8/23,1/8/23,2
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,Gym,1/8/23,1/8/23,2
+12,"Vidip Vimal Kamdar",6084739218,vidipkamdar1912@gmail.com,Male,"75 Saint Alphonsus Street, 02120",0.8,1,1,20,Vegetarian,"None/Mixed Gender",MIXED,"Swimming Pool",1/8/23,1/8/23,2
+13,"Tejas Sridhar",8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,"Non Vegetarian",Boys,BOYS,Heat,1/18/23,1/18/23,1
+13,"Tejas Sridhar",8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,"Non Vegetarian",Boys,BOYS,"Hot Water",1/18/23,1/18/23,1
+13,"Tejas Sridhar",8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,"Non Vegetarian",Boys,BOYS,WiFi,1/18/23,1/18/23,1
+13,"Tejas Sridhar",8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,"Non Vegetarian",Boys,BOYS,Balcony,1/18/23,1/18/23,1
+13,"Tejas Sridhar",8574379074,tejas3098@gmail.com,Male,"1575 Tremont St, Boston, MA-02120",0.7,2,1,25,"Non Vegetarian",Boys,BOYS,Gym,1/18/23,1/18/23,1
+14,"Shraavya Srinivasarao ",8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,"Non Vegetarian","None/Mixed Gender",MIXED,"In-house laundry",1/30/23,1/30/23,1
+14,"Shraavya Srinivasarao ",8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,"Non Vegetarian","None/Mixed Gender",MIXED,Heat,1/30/23,1/30/23,1
+14,"Shraavya Srinivasarao ",8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,"Non Vegetarian","None/Mixed Gender",MIXED,"Hot Water",1/30/23,1/30/23,1
+14,"Shraavya Srinivasarao ",8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,"Non Vegetarian","None/Mixed Gender",MIXED,WiFi,1/30/23,1/30/23,1
+14,"Shraavya Srinivasarao ",8573904343,shraavya71rao@gmail.com,Female,"10 Kensington street, Unit 3, 02119",1.5,4,1,30,"Non Vegetarian","None/Mixed Gender",MIXED,"Fully furnished room.",1/30/23,1/30/23,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,"In-house laundry",12/31/22,12/31/22,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,Heat,12/31/22,12/31/22,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,"Hot Water",12/31/22,12/31/22,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,Balcony,12/31/22,12/31/22,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,Gym,12/31/22,12/31/22,1
+15,Atharva,8108883775,atharvadanke98@gmail.com,Male,"75 Saint Alphonsus Street",1,2,2,24,"Non Vegetarian",Boys,BOYS,"Swimming Pool",12/31/22,12/31/22,1
+16,"Srilekha ",8572077688,lekhak.0996@gmail.com,Female,"364 riverway ",2,2,1,12,None,Girls,GIRLS,Heat,1/12/23,1/12/23,2
+16,"Srilekha ",8572077688,lekhak.0996@gmail.com,Female,"364 riverway ",2,2,1,12,None,Girls,GIRLS,"Hot Water",1/12/23,1/12/23,2
+16,"Srilekha ",8572077688,lekhak.0996@gmail.com,Female,"364 riverway ",2,2,1,12,None,Girls,GIRLS,WiFi,1/12/23,1/12/23,2
+17,"Riya Virani",3477178224,virani.ria@gmail.com,Female,"1167 boylston st",0.9,1,1,22,None,Girls,GIRLS,Heat,12/26/22,12/26/22,1
+17,"Riya Virani",3477178224,virani.ria@gmail.com,Female,"1167 boylston st",0.9,1,1,22,None,Girls,GIRLS,"Hot Water",12/26/22,12/26/22,1
+17,"Riya Virani",3477178224,virani.ria@gmail.com,Female,"1167 boylston st",0.9,1,1,22,None,Girls,GIRLS,WiFi,12/26/22,12/26/22,1
+18,"Manvith B Y",7337872316,manvith18@gmail.com,Male,"Hillside Street, Boston",1,1,1,36,None,"None/Mixed Gender",MIXED,"In-house laundry",12/31/22,12/31/22,1
+18,"Manvith B Y",7337872316,manvith18@gmail.com,Male,"Hillside Street, Boston",1,1,1,36,None,"None/Mixed Gender",MIXED,Heat,12/31/22,12/31/22,1
+18,"Manvith B Y",7337872316,manvith18@gmail.com,Male,"Hillside Street, Boston",1,1,1,36,None,"None/Mixed Gender",MIXED,"Hot Water",12/31/22,12/31/22,1
+18,"Manvith B Y",7337872316,manvith18@gmail.com,Male,"Hillside Street, Boston",1,1,1,36,None,"None/Mixed Gender",MIXED,WiFi,12/31/22,12/31/22,1
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,"In-house laundry",8/1/23,8/1/23,2
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,Heat,8/1/23,8/1/23,2
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,"Hot Water",8/1/23,8/1/23,2
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,WiFi,8/1/23,8/1/23,2
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,Balcony,8/1/23,8/1/23,2
+19,Shailesh,7218922949,shailesh7322@gmail.com,Male,"15 Albion Street Roxbury",1.4,1,1,25,None,"None/Mixed Gender",MIXED,Garden,8/1/23,8/1/23,2
+20,Achyut,9880451157,ramakrishnaachyut@gmail.com,Male,"13 Greylock Rd #3, Allston",2.5,4,2,18,None,Boys,BOYS,"In-house laundry",8/31/23,8/31/23,1
+21,"Vandana Gora",8573996068,gora.v@northeastern.edu,Female,"Hillside street",1,1,1,27,None,Girls,GIRLS,Heat,1/20/23,1/20/23,2
+21,"Vandana Gora",8573996068,gora.v@northeastern.edu,Female,"Hillside street",1,1,1,27,None,Girls,GIRLS,"Hot Water",1/20/23,1/20/23,2
+21,"Vandana Gora",8573996068,gora.v@northeastern.edu,Female,"Hillside street",1,1,1,27,None,Girls,GIRLS,WiFi,1/20/23,1/20/23,2
+21,"Vandana Gora",8573996068,gora.v@northeastern.edu,Female,"Hillside street",1,1,1,27,None,Girls,GIRLS,Balcony,1/20/23,1/20/23,2
+21,"Vandana Gora",8573996068,gora.v@northeastern.edu,Female,"Hillside street",1,1,1,27,None,Girls,GIRLS,"Laundry in basement ",1/20/23,1/20/23,2
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,Heat,1/5/22,1/5/22,1
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,"Hot Water",1/5/22,1/5/22,1
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,WiFi,1/5/22,1/5/22,1
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,Balcony,1/5/22,1/5/22,1
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,Gym,1/5/22,1/5/22,1
+22,"Devki Patel ",3019795975,devkip8112@gmail.com,Female,"75 saint Alphonsus street, Boston 02120",0.6,1,1,20,Vegetarian,Girls,GIRLS,"Swimming Pool",1/5/22,1/5/22,1
+23,"Surya Pratap Singh ",8572779981,surps1700@gmail.com,Male,"1167 Boylston St ",0.7,1,1,18,None,Boys,BOYS,Heat,1/8/23,1/8/23,1
+23,"Surya Pratap Singh ",8572779981,surps1700@gmail.com,Male,"1167 Boylston St ",0.7,1,1,18,None,Boys,BOYS,"Hot Water",1/8/23,1/8/23,1
+23,"Surya Pratap Singh ",8572779981,surps1700@gmail.com,Male,"1167 Boylston St ",0.7,1,1,18,None,Boys,BOYS,WiFi,1/8/23,1/8/23,1
+24,"Hemanth RAMESH",8573905572,rhemanth818@gmail.com,Male,"13 Tabor PL , Brookline",1.8,2,1,17,None,"None/Mixed Gender",MIXED,"In-house laundry",1/15/23,1/15/23,1
+24,"Hemanth RAMESH",8573905572,rhemanth818@gmail.com,Male,"13 Tabor PL , Brookline",1.8,2,1,17,None,"None/Mixed Gender",MIXED,Heat,1/15/23,1/15/23,1
+24,"Hemanth RAMESH",8573905572,rhemanth818@gmail.com,Male,"13 Tabor PL , Brookline",1.8,2,1,17,None,"None/Mixed Gender",MIXED,"Hot Water",1/15/23,1/15/23,1
+25,Sanjana,8574001111,sanjana2300@gmail.com,Female,"75 saint alphonsus st (J VUE)",0.8,1,1,18,None,Girls,GIRLS,Heat,1/19/23,1/19/23,3
+25,Sanjana,8574001111,sanjana2300@gmail.com,Female,"75 saint alphonsus st (J VUE)",0.8,1,1,18,None,Girls,GIRLS,"Hot Water",1/19/23,1/19/23,3
+25,Sanjana,8574001111,sanjana2300@gmail.com,Female,"75 saint alphonsus st (J VUE)",0.8,1,1,18,None,Girls,GIRLS,Balcony,1/19/23,1/19/23,3
+25,Sanjana,8574001111,sanjana2300@gmail.com,Female,"75 saint alphonsus st (J VUE)",0.8,1,1,18,None,Girls,GIRLS,Gym,1/19/23,1/19/23,3
+25,Sanjana,8574001111,sanjana2300@gmail.com,Female,"75 saint alphonsus st (J VUE)",0.8,1,1,18,None,Girls,GIRLS,"Swimming Pool",1/19/23,1/19/23,3
+26,"Tanishka Adhlakha",8574983378,tanishkaadhlakha@gmail.com,Female,"75 Alphonsos street , Jvue ",0.5,1,1,20,None,Girls,GIRLS,Balcony,1/5/23,1/5/23,1
+26,"Tanishka Adhlakha",8574983378,tanishkaadhlakha@gmail.com,Female,"75 Alphonsos street , Jvue ",0.5,1,1,20,None,Girls,GIRLS,Gym,1/5/23,1/5/23,1
+26,"Tanishka Adhlakha",8574983378,tanishkaadhlakha@gmail.com,Female,"75 Alphonsos street , Jvue ",0.5,1,1,20,None,Girls,GIRLS,"Swimming Pool",1/5/23,1/5/23,1
+27,"Ankita Indi",4258665218,indiankita02@gmail.com,Female,"135 Northampton Street Apt B",0.7,3,1,30,None,"None/Mixed Gender",MIXED,Heat,1/31/23,1/31/23,1
+27,"Ankita Indi",4258665218,indiankita02@gmail.com,Female,"135 Northampton Street Apt B",0.7,3,1,30,None,"None/Mixed Gender",MIXED,"Hot Water",1/31/23,1/31/23,1
+28,"Saicharan ",8011036272,saicharan509@gmail.com,Male,"Heath Street ",1.9,1,1,25,None,"None/Mixed Gender",MIXED,"In-house laundry",1/5/23,1/5/23,3
+28,"Saicharan ",8011036272,saicharan509@gmail.com,Male,"Heath Street ",1.9,1,1,25,None,"None/Mixed Gender",MIXED,Heat,1/5/23,1/5/23,3
+28,"Saicharan ",8011036272,saicharan509@gmail.com,Male,"Heath Street ",1.9,1,1,25,None,"None/Mixed Gender",MIXED,"Hot Water",1/5/23,1/5/23,3
+28,"Saicharan ",8011036272,saicharan509@gmail.com,Male,"Heath Street ",1.9,1,1,25,None,"None/Mixed Gender",MIXED,WiFi,1/5/23,1/5/23,3
+28,"Saicharan ",8011036272,saicharan509@gmail.com,Male,"Heath Street ",1.9,1,1,25,None,"None/Mixed Gender",MIXED,Balcony,1/5/23,1/5/23,3
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,"In-house laundry",1/2/23,1/2/23,1
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,Heat,1/2/23,1/2/23,1
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,"Hot Water",1/2/23,1/2/23,1
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,WiFi,1/2/23,1/2/23,1
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,Balcony,1/2/23,1/2/23,1
+29,"Ayush Patel",8565203446,ayushap268@gmail.com,Male,"1212, 75 St Alphonsus St, 02120",0.8,2,2,15,None,"None/Mixed Gender",MIXED,Gym,1/2/23,1/2/23,1

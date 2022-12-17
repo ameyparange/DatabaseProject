@@ -1,0 +1,656 @@
+RoommateID,Name,Gender,PhoneNumber,Email,Budget,RoommateDietaryPref,RoommateGenderPref,Amenities,PrefModeofTravel,TypeOfSpot,PrefMoveInDate,NoOfRoommates
+1,Shivani,Female,6179592224,shivaniskye06@gmail.com,700,None,MIXED,Heat,Walk,"Private Bedroom",12/31/22,3
+1,Shivani,Female,6179592224,shivaniskye06@gmail.com,700,None,MIXED,"Hot Water",Walk,"Private Bedroom",12/31/22,3
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,WiFi,Bus,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Gym,Train,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Gym,Bus,"Shared Bedroom Spot",1/1/23,1
+2,"Shreemoy Nanda",Male,8118075705,moy.nanda97@gmail.com,600,None,MIXED,Gym,Walk,"Shared Bedroom Spot",1/1/23,1
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"In-house laundry",Train,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"In-house laundry",Bus,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"In-house laundry",Walk,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,Heat,Train,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,Heat,Bus,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,Heat,Walk,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"Hot Water",Train,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"Hot Water",Bus,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,"Hot Water",Walk,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,WiFi,Train,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,WiFi,Bus,"Private Bedroom",1/1/23,2
+3,"Parixit Sanghani",Male,5859103634,parixit1999@gmail.com,1150,Vegetarian,MIXED,WiFi,Walk,"Private Bedroom",1/1/23,2
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,"In-house laundry",Train,"Private Bedroom",12/26/22,3
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,"In-house laundry",Walk,"Private Bedroom",12/26/22,3
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,Heat,Train,"Private Bedroom",12/26/22,3
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,Heat,Walk,"Private Bedroom",12/26/22,3
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,"Hot Water",Train,"Private Bedroom",12/26/22,3
+4,"Harshal Thachapully",Male,5533463000,harshal.thachapully@gmail.com,1000,Vegetarian,BOYS,"Hot Water",Walk,"Private Bedroom",12/26/22,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Heat,Train,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Heat,Bus,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Heat,Walk,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,"Hot Water",Train,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,"Hot Water",Bus,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,"Hot Water",Walk,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Balcony,Train,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Balcony,Bus,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Balcony,Walk,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Parking,Train,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Parking,Bus,"Private Bedroom",1/1/23,3
+5,"Ritik Bhandari",Male,8579308229,ritikbhandari045@gmail.com,500,Vegetarian,MIXED,Parking,Walk,"Private Bedroom",1/1/23,3
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,5
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,5
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",1/1/23,5
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,5
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",1/1/23,5
+6,"Shreya Sharma",Female,8573135980,shreya1319.ss@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Balcony,Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Balcony,Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Gym,Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Gym,Walk,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Parking,Train,"Shared Bedroom Spot",1/1/23,5
+7,Nithyasri,Female,8220231099,nithyasriravi.official@gmail.com,600,Vegetarian,MIXED,Parking,Walk,"Shared Bedroom Spot",1/1/23,5
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",1/1/23,3
+8,"Murtaza Gheewala",Male,8573132618,murtazag0123@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Balcony,Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Balcony,Walk,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Train,"Private Bedroom",1/1/23,3
+9,Sandhya,Female,9011140000,kiya1234566@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Walk,"Private Bedroom",1/1/23,3
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Balcony,Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Balcony,Bus,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Train,"Private Bedroom",1/1/23,2
+10,"Arpita mohapatra",Female,9667492799,harpitamohapatra1997@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Bus,"Private Bedroom",1/1/23,2
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",1/10/23,3
+11,"Mohan Raj",Male,8573135569,addlurumohanraj@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/10/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,3
+12,"Manogna Pallapothu",Female,8577776288,pallapothu.m@northeastern.edu,500,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,3
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",12/26/22,2
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",12/26/22,2
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",12/26/22,2
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",12/26/22,2
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",12/26/22,2
+13,"Kalyani Ramachandra Murthy",Female,8971030195,kalyaniramachandramurthy@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/26/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Gym,Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Gym,Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Gym,Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Swimming Pool",Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Swimming Pool",Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,"Swimming Pool",Walk,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Parking,Train,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Parking,Bus,"Shared Bedroom Spot",12/30/22,2
+14,"Sreeram Sripada",Male,8096214502,sreeram.3107@gmail.com,500,"Non Vegetarian",MIXED,Parking,Walk,"Shared Bedroom Spot",12/30/22,2
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,Balcony,Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,Gym,Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,"Swimming Pool",Walk,"Shared Bedroom Spot",12/23/22,3
+15,"Anushka Bhadra",Female,7021780348,anushkabhadra85@gmail.com,600,Vegetarian,GIRLS,Parking,Walk,"Shared Bedroom Spot",12/23/22,3
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,WiFi,Bus,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Balcony,Train,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Balcony,Bus,"Shared Bedroom Spot",1/1/23,1
+16,"Aditya Nikhil",Male,9949724445,aditya.digala@gmail.com,500,None,MIXED,Balcony,Walk,"Shared Bedroom Spot",1/1/23,1
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,Heat,Bus,"Private Bedroom",1/11/23,2
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,Heat,Walk,"Private Bedroom",1/11/23,2
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,"Hot Water",Bus,"Private Bedroom",1/11/23,2
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,"Hot Water",Walk,"Private Bedroom",1/11/23,2
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,WiFi,Bus,"Private Bedroom",1/11/23,2
+17,"Kashish Patel",Female,7815186555,kashish.patel4101@gmail.com,600,Vegetarian,MIXED,WiFi,Walk,"Private Bedroom",1/11/23,2
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",12/25/22,4
+18,"Mohit Barhate",Male,8424812441,mohitbarhate99@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",12/25/22,4
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+19,Srinija,Female,8639771873,srinijapogula@gmail.com,500,None,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Bus,"Shared Bedroom Spot",1/5/23,4
+20,"Rajeswari Gampa",Female,9494144343,rajeswarishivraj1@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Walk,"Shared Bedroom Spot",1/5/23,4
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Train,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",12/29/22,5
+21,"Thranathi Reddy",Female,8374254547,thranathireddy@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/29/22,5
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,1
+22,"Shreeyash Lahane",Male,8573954274,lahane.s@northeastern.edu,600,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Balcony,Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Balcony,Walk,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Parking,Bus,"Shared Bedroom Spot",12/28/22,2
+23,Manaswini,Female,8573816342,kamtam.m@northeastern.edu,500,"Non Vegetarian",MIXED,Parking,Walk,"Shared Bedroom Spot",12/28/22,2
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,Heat,Train,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,Heat,Bus,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,WiFi,Train,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,WiFi,Bus,"Shared Bedroom Spot",12/22/22,4
+24,Soumya,Female,9686709162,soumyagv77@gmail.com,600,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/22/22,4
+25,Nitin,Male,7989001150,nitindantu1@gmail.com,600,"Non Vegetarian",BOYS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,2
+25,Nitin,Male,7989001150,nitindantu1@gmail.com,600,"Non Vegetarian",BOYS,Heat,Walk,"Shared Bedroom Spot",1/1/23,2
+25,Nitin,Male,7989001150,nitindantu1@gmail.com,600,"Non Vegetarian",BOYS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,2
+25,Nitin,Male,7989001150,nitindantu1@gmail.com,600,"Non Vegetarian",BOYS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,2
+26,"Ruchit Darji",Male,9987641689,darjiruchit02@gmail.com,600,Vegetarian,BOYS,Heat,Train,"Shared Bedroom Spot",1/1/23,4
+26,"Ruchit Darji",Male,9987641689,darjiruchit02@gmail.com,600,Vegetarian,BOYS,Heat,Walk,"Shared Bedroom Spot",1/1/23,4
+26,"Ruchit Darji",Male,9987641689,darjiruchit02@gmail.com,600,Vegetarian,BOYS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,4
+26,"Ruchit Darji",Male,9987641689,darjiruchit02@gmail.com,600,Vegetarian,BOYS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,4
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,Heat,Train,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,Heat,Bus,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,Heat,Walk,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,"Hot Water",Train,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,"Hot Water",Bus,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,"Hot Water",Walk,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,WiFi,Train,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,WiFi,Bus,"Shared Bedroom Spot",8/1/23,2
+27,Manav,Male,9083678431,NA@gmail.com,600,Vegetarian,BOYS,WiFi,Walk,"Shared Bedroom Spot",8/1/23,2
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,WiFi,Train,"Shared Bedroom Spot",1/1/23,1
+28,Avani,Female,8602200918,avanikala123@gmail.com,500,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+29,Sabarish,Male,7815794844,sabarishjayaraman28@gmail.com,500,Vegetarian,BOYS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"In-house laundry",Train,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"In-house laundry",Bus,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"In-house laundry",Walk,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,Heat,Train,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,Heat,Bus,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,Heat,Walk,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"Hot Water",Train,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"Hot Water",Bus,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,"Hot Water",Walk,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,WiFi,Train,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,WiFi,Bus,"Private Bedroom",1/1/23,4
+30,"Ruchi patel",Female,6692816126,pruchi280696@gmail.com,875,Vegetarian,GIRLS,WiFi,Walk,"Private Bedroom",1/1/23,4
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"In-house laundry",Train,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"In-house laundry",Bus,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"In-house laundry",Walk,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,Heat,Train,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,Heat,Bus,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,Heat,Walk,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"Hot Water",Train,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"Hot Water",Bus,"Shared Hall Spot",11/23/22,1
+31,"Nikhil Chaudhary",Male,7709805589,ndchaudhary1998@gmail.com,600,None,BOYS,"Hot Water",Walk,"Shared Hall Spot",11/23/22,1
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Bedroom Spot",1/1/23,2
+32,"Samradni Pathari",Female,8574520716,samradnipathari15@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",1/1/23,2
+33,Utkarsh,Male,8851856640,ut.hunk@gmail.com,875,"Non Vegetarian",MIXED,"In-house laundry",Train,"Private Bedroom",1/21/23,4
+33,Utkarsh,Male,8851856640,ut.hunk@gmail.com,875,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",1/21/23,4
+33,Utkarsh,Male,8851856640,ut.hunk@gmail.com,875,"Non Vegetarian",MIXED,"Hot Water",Train,"Private Bedroom",1/21/23,4
+33,Utkarsh,Male,8851856640,ut.hunk@gmail.com,875,"Non Vegetarian",MIXED,WiFi,Train,"Private Bedroom",1/21/23,4
+33,Utkarsh,Male,8851856640,ut.hunk@gmail.com,875,"Non Vegetarian",MIXED,Balcony,Train,"Private Bedroom",1/21/23,4
+34,"Ritesh Kumar Singh",Male,7200482069,sriteshkumar121@gmail.com,700,None,MIXED,"In-house laundry",Walk,"Private Bedroom",1/2/23,4
+34,"Ritesh Kumar Singh",Male,7200482069,sriteshkumar121@gmail.com,700,None,MIXED,Heat,Walk,"Private Bedroom",1/2/23,4
+34,"Ritesh Kumar Singh",Male,7200482069,sriteshkumar121@gmail.com,700,None,MIXED,"Hot Water",Walk,"Private Bedroom",1/2/23,4
+34,"Ritesh Kumar Singh",Male,7200482069,sriteshkumar121@gmail.com,700,None,MIXED,WiFi,Walk,"Private Bedroom",1/2/23,4
+35,"Sachi Patel",Female,2812996812,sachipatelahd@gmail.com,600,Vegetarian,MIXED,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,2
+35,"Sachi Patel",Female,2812996812,sachipatelahd@gmail.com,600,Vegetarian,MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,2
+35,"Sachi Patel",Female,2812996812,sachipatelahd@gmail.com,600,Vegetarian,MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,2
+36,"Shreya Prajapat",Female,9715086265,shreya22.pp@gmail.com,525,None,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/2/23,3
+36,"Shreya Prajapat",Female,9715086265,shreya22.pp@gmail.com,525,None,GIRLS,Heat,Walk,"Shared Bedroom Spot",1/2/23,3
+36,"Shreya Prajapat",Female,9715086265,shreya22.pp@gmail.com,525,None,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/2/23,3
+36,"Shreya Prajapat",Female,9715086265,shreya22.pp@gmail.com,525,None,GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/2/23,3
+37,"Tanvi Modi",Female,9370084674,tanvimodi1998@gmail.com,875,Vegetarian,GIRLS,Heat,Walk,"Private Bedroom",1/1/23,3
+37,"Tanvi Modi",Female,9370084674,tanvimodi1998@gmail.com,875,Vegetarian,GIRLS,"Hot Water",Walk,"Private Bedroom",1/1/23,3
+38,Bhaumik,Male,7990792910,patelbhaumik33606@gmail.com,500,Vegetarian,BOYS,Heat,Walk,"Shared Bedroom Spot",1/1/23,2
+38,Bhaumik,Male,7990792910,patelbhaumik33606@gmail.com,500,Vegetarian,BOYS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,2
+38,Bhaumik,Male,7990792910,patelbhaumik33606@gmail.com,500,Vegetarian,BOYS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"In-house laundry",Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"In-house laundry",Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"In-house laundry",Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Heat,Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Heat,Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Heat,Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Hot Water",Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Hot Water",Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Hot Water",Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,WiFi,Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,WiFi,Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,WiFi,Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Balcony,Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Balcony,Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Balcony,Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Gym,Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Gym,Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Gym,Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Swimming Pool",Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Swimming Pool",Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,"Swimming Pool",Walk,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Parking,Train,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Parking,Bus,"Shared Hall Spot",1/1/23,2
+39,Mahith,Male,8576939706,saimahith.chigurupati@gmail.com,600,Vegan,BOYS,Parking,Walk,"Shared Hall Spot",1/1/23,2
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Private Bedroom",1/1/23,3
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Private Bedroom",1/1/23,3
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,Heat,Train,"Private Bedroom",1/1/23,3
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,Heat,Bus,"Private Bedroom",1/1/23,3
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,"Hot Water",Train,"Private Bedroom",1/1/23,3
+40,"Keerthana Srinivasan",Female,9176638547,keerthana16050@cse.ssn.edu.in,700,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Private Bedroom",1/1/23,3
+41,"Vanshika Jain",Female,8575445122,vanshikajain1308@gmail.com,875,Vegetarian,MIXED,Heat,Walk,"Private Bedroom",1/1/23,2
+41,"Vanshika Jain",Female,8575445122,vanshikajain1308@gmail.com,875,Vegetarian,MIXED,"Hot Water",Walk,"Private Bedroom",1/1/23,2
+41,"Vanshika Jain",Female,8575445122,vanshikajain1308@gmail.com,875,Vegetarian,MIXED,WiFi,Walk,"Private Bedroom",1/1/23,2
+41,"Vanshika Jain",Female,8575445122,vanshikajain1308@gmail.com,875,Vegetarian,MIXED,Balcony,Walk,"Private Bedroom",1/1/23,2
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Heat,Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Heat,Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"Hot Water",Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,WiFi,Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,WiFi,Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Balcony,Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Balcony,Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Gym,Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,Gym,Walk,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"Swimming Pool",Train,"Private Bedroom",12/1/22,3
+42,Amisha,Female,8573969000,gokhaleamisha@gmail.com,700,"Non Vegetarian",GIRLS,"Swimming Pool",Walk,"Private Bedroom",12/1/22,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Train,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/1/23,3
+43,"Aparna Chavan",Female,8573527628,aparnachavan1997@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,"In-house laundry",Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,"In-house laundry",Walk,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Heat,Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Heat,Walk,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,"Hot Water",Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,"Hot Water",Walk,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,WiFi,Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,WiFi,Walk,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Balcony,Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Balcony,Walk,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Gym,Bus,"Private Bedroom",12/30/22,3
+44,"Bhavesh Patidar",Male,9111838781,patidarbhavesh317@gmail.com,600,Vegetarian,BOYS,Gym,Walk,"Private Bedroom",12/30/22,3
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,WiFi,Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Balcony,Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Balcony,Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Balcony,Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Gym,Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Gym,Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Gym,Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Swimming Pool",Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Swimming Pool",Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,"Swimming Pool",Walk,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Parking,Train,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Parking,Bus,"Shared Bedroom Spot",1/1/23,1
+45,"Vasudha Sunil Ambre",Female,8378904204,vasudhaambre11@gmail.com,550,"Non Vegetarian",GIRLS,Parking,Walk,"Shared Bedroom Spot",1/1/23,1
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"In-house laundry",Train,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,Heat,Bus,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,Heat,Walk,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"Hot Water",Train,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"Hot Water",Bus,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,"Hot Water",Walk,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,WiFi,Train,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,WiFi,Bus,"Private Bedroom",1/3/23,5
+46,Shailesh,Male,7218922949,shailesh7322@gmail.com,600,"Non Vegetarian",MIXED,WiFi,Walk,"Private Bedroom",1/3/23,5
+47,"Yash Jaigude",Male,8573131066,yashjaigude1997@gmail.com,600,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/10/23,4
+47,"Yash Jaigude",Male,8573131066,yashjaigude1997@gmail.com,600,"Non Vegetarian",MIXED,Heat,Bus,"Shared Bedroom Spot",1/10/23,4
+47,"Yash Jaigude",Male,8573131066,yashjaigude1997@gmail.com,600,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/10/23,4
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,WiFi,Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Balcony,Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Balcony,Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,Balcony,Walk,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Swimming Pool",Train,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Swimming Pool",Bus,"Shared Bedroom Spot",1/31/01,1
+48,"Subhashree Muthukumar",Female,3109854728,subhashreemuthukumar@gmail.com,600,"Non Vegetarian",GIRLS,"Swimming Pool",Walk,"Shared Bedroom Spot",1/31/01,1
+49,"Darshana Rokade",Female,6172388113,rokadedarshana47@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/2/23,2
+49,"Darshana Rokade",Female,6172388113,rokadedarshana47@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/2/23,2
+49,"Darshana Rokade",Female,6172388113,rokadedarshana47@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/2/23,2
+49,"Darshana Rokade",Female,6172388113,rokadedarshana47@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/2/23,2
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,Heat,Train,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,Heat,Bus,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,WiFi,Train,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,WiFi,Bus,"Shared Bedroom Spot",12/25/22,4
+50,"Jeel Kanzaria",Female,7977115561,jeelkanzaria1997@gmail.com,600,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/25/22,4
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,Heat,Train,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,"Hot Water",Train,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,WiFi,Train,"Shared Bedroom Spot",12/26/22,3
+51,"Sneha Barve",Female,9819606165,barvesneha2607@gmail.com,700,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/26/22,3
+52,"Pratik Karunakar  Poojari",Male,8850049919,pratik3336@gmail.com,700,"Non Vegetarian",BOYS,Heat,Walk,"Shared Bedroom Spot",1/4/23,3
+52,"Pratik Karunakar  Poojari",Male,8850049919,pratik3336@gmail.com,700,"Non Vegetarian",BOYS,"Hot Water",Walk,"Shared Bedroom Spot",1/4/23,3
+52,"Pratik Karunakar  Poojari",Male,8850049919,pratik3336@gmail.com,700,"Non Vegetarian",BOYS,WiFi,Walk,"Shared Bedroom Spot",1/4/23,3
+53,"Tarun Kumar Reddy",Male,9087057990,etkred@gmail.com,600,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",1/1/23,1
+53,"Tarun Kumar Reddy",Male,9087057990,etkred@gmail.com,600,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+53,"Tarun Kumar Reddy",Male,9087057990,etkred@gmail.com,600,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,1
+53,"Tarun Kumar Reddy",Male,9087057990,etkred@gmail.com,600,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,"In-house laundry",Train,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,Heat,Walk,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,"Hot Water",Train,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,"Hot Water",Walk,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,WiFi,Train,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,WiFi,Walk,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,Balcony,Train,"Private Bedroom",1/5/23,1
+54,"Suman Raj Algood",Female,3512200097,algoodsr@gmail.com,875,"Non Vegetarian",MIXED,Balcony,Walk,"Private Bedroom",1/5/23,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,"In-house laundry",Bus,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,Heat,Bus,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,Heat,Walk,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,"Hot Water",Bus,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,WiFi,Bus,"Shared Bedroom Spot",12/20/22,1
+55,"Ishan patel",Male,6179716498,patel.ishan1@northeastern.edu,500,Vegetarian,MIXED,WiFi,Walk,"Shared Bedroom Spot",12/20/22,1
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,"In-house laundry",Bus,"Private Bedroom",1/4/23,2
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,"In-house laundry",Walk,"Private Bedroom",1/4/23,2
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,Heat,Bus,"Private Bedroom",1/4/23,2
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,Heat,Walk,"Private Bedroom",1/4/23,2
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,"Hot Water",Bus,"Private Bedroom",1/4/23,2
+56,Madhura,Female,8573905535,kurhadkar.m@northeastern.edu,875,Vegetarian,GIRLS,"Hot Water",Walk,"Private Bedroom",1/4/23,2
+57,"Sayli Nikalje",Female,8574131924,sspayli.nikalje@gmail.com,600,"Non Vegetarian",MIXED,"In-house laundry",Train,"Private Bedroom",1/1/23,4
+57,"Sayli Nikalje",Female,8574131924,sspayli.nikalje@gmail.com,600,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",1/1/23,4
+58,"Nitant Jatale",Male,8576750869,jrahil65@gmail.com,500,None,MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,2
+58,"Nitant Jatale",Male,8576750869,jrahil65@gmail.com,500,None,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,2
+59,"Rutuja More",Female,8573954200,rutujamore1706@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",1/1/23,4
+59,"Rutuja More",Female,8573954200,rutujamore1706@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,4
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,"In-house laundry",Train,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,"In-house laundry",Walk,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,Heat,Train,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,Heat,Walk,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,"Hot Water",Train,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,WiFi,Train,"Shared Hall Spot",1/1/23,1
+60,"Aditi chikkali",Female,8605007944,chikkali.a@northeastern.edu,500,Vegetarian,GIRLS,WiFi,Walk,"Shared Hall Spot",1/1/23,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,Heat,Train,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,Heat,Bus,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,Heat,Walk,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"Hot Water",Train,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,WiFi,Train,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,WiFi,Bus,"Private Bedroom",12/20/22,1
+61,"Keerthana Thangavelu",Female,8148160355,keerthu3196@gmail.com,875,"Non Vegetarian",GIRLS,WiFi,Walk,"Private Bedroom",12/20/22,1
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Train,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,3
+62,"Maneesha D",Female,8897894503,maneeshad10@gmail.com,600,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,3
+63,"sushruth p",Male,9738119788,sushruthkonapur@gmail.com,750,"Non Vegetarian",MIXED,Heat,Any,"Shared Bedroom Spot",1/9/23,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,WiFi,Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Balcony,Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Balcony,Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Balcony,Walk,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Gym,Train,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Gym,Bus,"Shared Hall Spot",12/25/22,3
+64,"Surya Prakash",Male,9902578793,suresh.sur@northeastern.edu,500,"Non Vegetarian",MIXED,Gym,Walk,"Shared Hall Spot",12/25/22,3
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",3/29/23,4
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",3/29/23,4
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",3/29/23,4
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",3/29/23,4
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,Balcony,Walk,"Shared Bedroom Spot",3/29/23,4
+65,"Sowmya matsa",Female,8978660288,sowmya.matsa@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Walk,"Shared Bedroom Spot",3/29/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/1/23,4
+66,"Lucky Rathore",Female,7248928751,luckyrathore981@gmail.com,500,Vegetarian,GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,4
+67,"Purnima Hariharan Geetha",Female,6379548506,hgp.edu@gmail.com,500,None,GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",12/26/22,1
+67,"Purnima Hariharan Geetha",Female,6379548506,hgp.edu@gmail.com,500,None,GIRLS,Heat,Walk,"Shared Bedroom Spot",12/26/22,1
+67,"Purnima Hariharan Geetha",Female,6379548506,hgp.edu@gmail.com,500,None,GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",12/26/22,1
+67,"Purnima Hariharan Geetha",Female,6379548506,hgp.edu@gmail.com,500,None,GIRLS,WiFi,Walk,"Shared Bedroom Spot",12/26/22,1
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",12/26/22,3
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Bus,"Private Bedroom",12/26/22,3
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,Heat,Walk,"Private Bedroom",12/26/22,3
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Private Bedroom",12/26/22,3
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Bus,"Private Bedroom",12/26/22,3
+68,Saad,Male,9010644839,syed.saa@northeastern.edu,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Private Bedroom",12/26/22,3
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Bus,"Shared Bedroom Spot",1/10/23,4
+69,"Moksha Bhansali",Female,9764613130,mokshabhansali2000@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Walk,"Shared Bedroom Spot",1/10/23,4
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,"In-house laundry",Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,Heat,Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,"Hot Water",Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,WiFi,Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,Balcony,Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,Gym,Walk,"Private Bedroom",1/10/23,2
+70,"Tejaswini kambaiahgari",Female,3604041492,tejaswinikadapa@gmail.com,600,None,MIXED,"Swimming Pool",Walk,"Private Bedroom",1/10/23,2
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"In-house laundry",Train,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"In-house laundry",Bus,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,Heat,Train,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,Heat,Bus,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,Heat,Walk,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"Hot Water",Train,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"Hot Water",Bus,"Private Bedroom",1/2/23,1
+71,"Utsav Nandi",Male,9962799549,nandi.u@northeastern.edu,875,"Non Vegetarian",MIXED,"Hot Water",Walk,"Private Bedroom",1/2/23,1
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Train,"Shared Bedroom Spot",12/29/22,3
+72,"Kashish Patel",Female,7506556998,kashishpatel2210@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Walk,"Shared Bedroom Spot",12/29/22,3
+73,Sanjana,Female,8985266075,sanjanaraghuram98@gmail.com,500,Vegetarian,MIXED,"In-house laundry",Walk,"Shared Bedroom Spot",3/31/23,2
+73,Sanjana,Female,8985266075,sanjanaraghuram98@gmail.com,500,Vegetarian,MIXED,Heat,Walk,"Shared Bedroom Spot",3/31/23,2
+73,Sanjana,Female,8985266075,sanjanaraghuram98@gmail.com,500,Vegetarian,MIXED,"Hot Water",Walk,"Shared Bedroom Spot",3/31/23,2
+73,Sanjana,Female,8985266075,sanjanaraghuram98@gmail.com,500,Vegetarian,MIXED,Gym,Walk,"Shared Bedroom Spot",3/31/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/2/23,2
+74,"Manali Gawde",Female,9967585928,manaligawde13@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/2/23,2
+75,"Asfah Aidah",Female,8296555376,asfahaidahshabbeer@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Train,"Shared Bedroom Spot",1/12/23,4
+75,"Asfah Aidah",Female,8296555376,asfahaidahshabbeer@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Train,"Shared Bedroom Spot",1/12/23,4
+75,"Asfah Aidah",Female,8296555376,asfahaidahshabbeer@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Train,"Shared Bedroom Spot",1/12/23,4
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Bus,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,"In-house laundry",Walk,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Bus,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,Heat,Walk,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Bus,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,"Hot Water",Walk,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Bus,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,WiFi,Walk,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Bus,"Shared Bedroom Spot",1/1/23,1
+76,"Mirul Pal",Female,9448927044,mirul.pal@gmail.com,500,"Non Vegetarian",GIRLS,Gym,Walk,"Shared Bedroom Spot",1/1/23,1
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Train,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,"In-house laundry",Walk,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,Heat,Train,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,Heat,Walk,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Train,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,"Hot Water",Walk,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Train,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,WiFi,Walk,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Train,"Shared Hall Spot",1/1/23,4
+77,"Ali Shaik",Male,9581378676,ali.shaik7786@gmail.com,500,"Non Vegetarian",MIXED,Balcony,Walk,"Shared Hall Spot",1/1/23,4
